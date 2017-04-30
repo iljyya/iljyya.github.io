@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iljyya</title>
+  <subtitle>他山之石，可以攻玉。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-04-30T09:00:24.387Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>iljyya</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo theme Next 从入门到灰头土脸</title>
+    <link href="http://yoursite.com/2017/04/30/Hexo-theme-Next%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%81%B0%E5%A4%B4%E5%9C%9F%E8%84%B8/"/>
+    <id>http://yoursite.com/2017/04/30/Hexo-theme-Next从入门到灰头土脸/</id>
+    <published>2017-04-30T08:57:56.000Z</published>
+    <updated>2017-04-30T09:00:24.387Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="头像"><a href="#头像" class="headerlink" title="头像"></a>头像</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-07a5171344471232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
+<h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-8aa46ad39385fa9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="文章创建自动生成"><a href="#文章创建自动生成" class="headerlink" title="文章创建自动生成"></a>文章创建自动生成</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-d9ace5af33581d1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="公众号账号"><a href="#公众号账号" class="headerlink" title="公众号账号"></a>公众号账号</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-96a0272350ee63f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="侧边栏链接"><a href="#侧边栏链接" class="headerlink" title="侧边栏链接"></a>侧边栏链接</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-42b6f737b1b6a6fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="文末公众号"><a href="#文末公众号" class="headerlink" title="文末公众号"></a>文末公众号</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-9c5427fd93277ce8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="文末赞赏"><a href="#文末赞赏" class="headerlink" title="文末赞赏"></a>文末赞赏</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a6f230361d5cedbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="404"><a href="#404" class="headerlink" title="404"></a>404</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-94b2d60bd6477f03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="代码高亮"><a href="#代码高亮" class="headerlink" title="代码高亮"></a>代码高亮</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-6c10b069ee7c58e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="jiathis-分享"><a href="#jiathis-分享" class="headerlink" title="jiathis 分享"></a>jiathis 分享</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-1a9867b6a81aaeca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="Local-Search"><a href="#Local-Search" class="headerlink" title="Local Search"></a>Local Search</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-af47957416fbfe6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="各种插件优化"><a href="#各种插件优化" class="headerlink" title="各种插件优化"></a>各种插件优化</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-7bd40c73bb465861.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="网易云跟帖不让加，已反馈"><a href="#网易云跟帖不让加，已反馈" class="headerlink" title="网易云跟帖不让加，已反馈"></a>网易云跟帖不让加，已反馈</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-9e23e6cc994f5494.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="来必力出现奇怪的韩语"><a href="#来必力出现奇怪的韩语" class="headerlink" title="来必力出现奇怪的韩语"></a>来必力出现奇怪的韩语</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-ed48e0a63471bd02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="只好先用-HyperComments-，怀念多说"><a href="#只好先用-HyperComments-，怀念多说" class="headerlink" title="只好先用 HyperComments ，怀念多说"></a>只好先用 HyperComments ，怀念多说</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-cff6d423a82413bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="七牛云"><a href="#七牛云" class="headerlink" title="七牛云"></a>七牛云</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-eac8619850c2c522.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="告一段落"><a href="#告一段落" class="headerlink" title="告一段落"></a>告一段落</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-f948bdd91077c145.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>弄完有点灰头土脸，开心多了很多经验。</p>
+<p>参考文献：<br><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">http://theme-next.iissnan.com/getting-started.html</a><br><a href="http://wuxiaolong.me/2015/07/31/build-blog-by-hexo/" target="_blank" rel="external">http://wuxiaolong.me/2015/07/31/build-blog-by-hexo/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;头像&quot;&gt;&lt;a href=&quot;#头像&quot; class=&quot;headerlink&quot; title=&quot;头像&quot;&gt;&lt;/a&gt;头像&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-07a5171344471232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello hexo again</title>
+    <link href="http://yoursite.com/2017/04/23/hello-hexo-again/"/>
+    <id>http://yoursite.com/2017/04/23/hello-hexo-again/</id>
+    <published>2017-04-23T06:07:32.000Z</published>
+    <updated>2017-04-30T07:09:27.355Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-<span class="keyword">cli</span></div></pre></td></tr></table></figure>
+<h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><p><a href="https://material.viosey.com/start/" target="_blank" rel="external">https://material.viosey.com/start/</a></p>
+<p>在<code>站点配置文件</code>里简单布置一下主题，多的先不多折腾了</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-b26c7422852cc60c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a><br><code>hexo s</code> 本地就有了<br><img src="http://upload-images.jianshu.io/upload_images/49483-5f2e67d20b7558c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="开始创作"><a href="#开始创作" class="headerlink" title="开始创作"></a>开始创作</h3><p>hexo n<br>hexo g<br>hexo d<br>如果博客遇到什么不可抗力 hexo c<br>hexo s 预览</p>
+<h3 id="推到网上！"><a href="#推到网上！" class="headerlink" title="推到网上！"></a>推到网上！</h3><p>hexo d 报错 ERROR Deployer not found，淡定google<br>先 npm install hexo-deployer-git –save 再</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-7ef981e1593f3577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>hexo d 提示输入账号密码，搞定！</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-51adf4f4b313e5ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>参考文献<br><a href="https://material.viosey.com/" target="_blank" rel="external">https://material.viosey.com/</a><br><a href="https://hexo.io/docs/" target="_blank" rel="external">https://hexo.io/docs/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;安装hexo&quot;&gt;&lt;a href=&quot;#安装hexo&quot; class=&quot;headerlink&quot; title=&quot;安装hexo&quot;&gt;&lt;/a&gt;安装hexo&lt;/h3&gt;&lt;figure class=&quot;highlight avrasm&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;npm install -g hexo-&lt;span class=&quot;keyword&quot;&gt;cli&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;安装主题&quot;&gt;&lt;a href=&quot;#安装主题&quot; class=&quot;headerlink&quot; title=&quot;安装主题&quot;&gt;&lt;/a&gt;安装主题&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://material.viosey.com/start/&quot;&gt;https://material.viosey.com/start/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;站点配置文件&lt;/code&gt;里简单布置一下主题，多的先不多折腾了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-b26c7422852cc60c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java面试题和答案part1</title>
+    <link href="http://yoursite.com/2016/05/07/Java%E9%9D%A2%E8%AF%95%E9%A2%98%E5%92%8C%E7%AD%94%E6%A1%88part1/"/>
+    <id>http://yoursite.com/2016/05/07/Java面试题和答案part1/</id>
+    <published>2016-05-07T13:17:45.000Z</published>
+    <updated>2017-04-30T05:28:56.028Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Java中是否可以覆盖-override-一个private或者是static的方法"><a href="#Java中是否可以覆盖-override-一个private或者是static的方法" class="headerlink" title="Java中是否可以覆盖(override)一个private或者是static的方法?"></a>Java中是否可以覆盖(override)一个private或者是static的方法?</h3><p>static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。<br>无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。<br>static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。</p>
+<h3 id="Java支持的数据类型有哪些？什么是自动拆装箱？"><a href="#Java支持的数据类型有哪些？什么是自动拆装箱？" class="headerlink" title="Java支持的数据类型有哪些？什么是自动拆装箱？"></a>Java支持的数据类型有哪些？什么是自动拆装箱？</h3><p> byte short int long float double boolean char<br> 把int转化成Integer是自动装箱。反之就是自动拆箱。<br><a id="more"></a></p>
+<h3 id="Java为什么不支持多继承"><a href="#Java为什么不支持多继承" class="headerlink" title="Java为什么不支持多继承?"></a>Java为什么不支持多继承?</h3><p>多继承指一个子类能同时继承于多个父类，从而同时拥有多个父类的特征，但缺点是显著的。<br>1.若子类继承的父类中拥有相同的成员变量，子类在引用该变量时将无法判别使用哪个父类的成员变量。<br>2.若一个子类继承的多个父类拥有相同方法，同时子类并未覆盖该方法（若覆盖，则直接使用子类中该方法），那么调用该方法时将无法确定调用哪个父类的方法。<br>因此，Java仅允许单继承，即一个子类只能继承于一个父类。但为了拓展子类的功能，Java使用接口以克服不使用多继承带来的不足。<br>接口是一个特殊的抽象类，接口中成员变量均默认为 static final 类型，即常量，且接口中的方法都为抽象的，都没有方法体。<br>具体方法只能由实现接口的类实现，在调用的时候始终只会调用实现类的方法（不存在歧义），因此不存在多继承的第二个缺点；而又因为接口只有静态的常量，但是由于静态变量是在编译期决定调用关系的，即使存在一定的冲突也会在编译时提示出错；而引用静态变量一般直接使用类名或接口名，从而避免产生歧义，因此也不存在多继承的第一个缺点。对于一个接口继承多个父接口的情况也一样不存在这些缺点。</p>
+<h3 id="java中的值传递和引用传递到底有什么区别"><a href="#java中的值传递和引用传递到底有什么区别" class="headerlink" title="java中的值传递和引用传递到底有什么区别?"></a>java中的值传递和引用传递到底有什么区别?</h3><p>值传递：(形式参数类型是基本数据类型)：方法调用时，实际参数把它的值传递给对应的形式参数，形式参数只是用实际参数的值初始化自己的存储单元内容，是两个不同的存储单元，所以方法执行中形式参数值的改变不影响实际参数的值。<br>引用传递：(形式参数类型是引用数据类型参数)：也称为传地址。方法调用时，实际参数是对象(或数组)，这时实际参数与形式参数指向同一个地址，在方法执行中，对形式参数的操作实际上就是对实际参数的操作，这个结果在方法结束后被保留了下来，所以方法执行中形式参数的改变将会影响实际参数。</p>
+<h3 id="java创建线程的方式和区别？"><a href="#java创建线程的方式和区别？" class="headerlink" title="java创建线程的方式和区别？"></a>java创建线程的方式和区别？</h3><p>采用实现Runnable、Callable接口的方式创见多线程时，优势是：线程类只是实现了Runnable接口或Callable接口，还可以继承其他类。在这种方式下，多个线程可以共享同一个target对象，所以非常适合多个相同线程来处理同一份资源的情况，从而可以将CPU、代码和数据分开，形成清晰的模型，较好地体现了面向对象的思想。<br>劣势是：编程稍微复杂，如果要访问当前线程，则必须使用Thread.currentThread()方法。<br>使用继承Thread类的方式创建多线程时优势是：编写简单，如果需要访问当前线程，则无需使用Thread.currentThread()方法，直接使用this即可获得当前线程。<br>劣势是：线程类已经继承了Thread类，所以不能再继承其他父类。<br><a href="http://blog.csdn.net/longshengguoji/article/details/41126119" target="_blank" rel="external">原文</a></p>
+<h3 id="HashMap和Hashtable的区别"><a href="#HashMap和Hashtable的区别" class="headerlink" title="HashMap和Hashtable的区别"></a>HashMap和Hashtable的区别</h3><p>HashMap是Hashtable的轻量级实现（非线程安全的实现），他们都完成了Map接口，主要区别在于HashMap允许空（null）键值（key）,由于非线程安全，效率上可能高于Hashtable。HashMap允许将null作为一个entry的key或者value，而Hashtable不允许。<br>HashMap把Hashtable的contains方法去掉了，改成containsvalue和containsKey。因为contains方法容易让人引起误解。Hashtable继承自Dictionary类，而HashMap是Java1.2引进的Mapinterface的一个实现。<br>最大的不同是，Hashtable的方法是Synchronize的，而HashMap不是，在多个线程访问Hashtable时，不需要自己为它的方法实现同步，而HashMap 就必须为之提供外同步。 Hashtable和HashMap采用的hash/rehash算法都大概一样，所以性能不会有很大的差别。<br><a href="http://www.cnblogs.com/langtianya/archive/2013/03/19/2970273.html" target="_blank" rel="external">references</a></p>
+<h3 id="Java接口与抽象类的区别"><a href="#Java接口与抽象类的区别" class="headerlink" title="Java接口与抽象类的区别?"></a>Java接口与抽象类的区别?</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">interface</span> <span class="title">Alram</span> </span>&#123;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">alarm</span><span class="params">()</span></span>;</div><div class="line">&#125;</div><div class="line"> </div><div class="line"><span class="keyword">abstract</span> <span class="class"><span class="keyword">class</span> <span class="title">Door</span> </span>&#123;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">open</span><span class="params">()</span></span>;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">close</span><span class="params">()</span></span>;</div><div class="line">&#125;</div><div class="line"> </div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">AlarmDoor</span> <span class="keyword">extends</span> <span class="title">Door</span> <span class="keyword">implements</span> <span class="title">Alarm</span> </span>&#123;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">oepn</span><span class="params">()</span> </span>&#123;</div><div class="line">      <span class="comment">//....</span></div><div class="line">    &#125;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">close</span><span class="params">()</span> </span>&#123;</div><div class="line">      <span class="comment">//....</span></div><div class="line">    &#125;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">alarm</span><span class="params">()</span> </span>&#123;</div><div class="line">      <span class="comment">//....</span></div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p><a href="http://www.cnblogs.com/dolphin0520/p/3811437.html" target="_blank" rel="external">references</a></p>
+<h3 id="java中的四大特性"><a href="#java中的四大特性" class="headerlink" title="java中的四大特性?"></a>java中的四大特性?</h3><p>抽象: 把现实中需要处理的事物通过数据的方法表达出来<br>封装: 把事物的数据和方法用类的方式集合起来<br>继承: 封装的数据和方法通过继承来实现重用<br>多态: 同一个方法通过方法的重载实现不同的逻辑</p>
+<h3 id="java-socket编程？"><a href="#java-socket编程？" class="headerlink" title="java socket编程？"></a>java socket编程？</h3><p><a href="http://blog.csdn.net/lovesummerforever/article/details/8813343" target="_blank" rel="external">原文</a></p>
+<h3 id="Callable和Runnable的区别？"><a href="#Callable和Runnable的区别？" class="headerlink" title="Callable和Runnable的区别？"></a>Callable和Runnable的区别？</h3><p>Runnable只有一个run()函数，用于将耗时操作写在其中，该函数没有返回值。然后使用某个线程去执行该runnable即可实现多线程，Thread类在调用start()函数后就是执行的是Runnable的run()函数。<br>Callable与Runnable的功能大致相似，Callable中有一个call()函数，但是call()函数有返回值，而Runnable的run()函数不能将结果返回给客户程序。<br><a href="http://blog.csdn.net/bboyfeiyu/article/details/24851847?utm_source=tuicool&amp;utm_medium=referral" target="_blank" rel="external">原文</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Java中是否可以覆盖-override-一个private或者是static的方法&quot;&gt;&lt;a href=&quot;#Java中是否可以覆盖-override-一个private或者是static的方法&quot; class=&quot;headerlink&quot; title=&quot;Java中是否可以覆盖(override)一个private或者是static的方法?&quot;&gt;&lt;/a&gt;Java中是否可以覆盖(override)一个private或者是static的方法?&lt;/h3&gt;&lt;p&gt;static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。&lt;br&gt;无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。&lt;br&gt;static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。&lt;/p&gt;
+&lt;h3 id=&quot;Java支持的数据类型有哪些？什么是自动拆装箱？&quot;&gt;&lt;a href=&quot;#Java支持的数据类型有哪些？什么是自动拆装箱？&quot; class=&quot;headerlink&quot; title=&quot;Java支持的数据类型有哪些？什么是自动拆装箱？&quot;&gt;&lt;/a&gt;Java支持的数据类型有哪些？什么是自动拆装箱？&lt;/h3&gt;&lt;p&gt; byte short int long float double boolean char&lt;br&gt; 把int转化成Integer是自动装箱。反之就是自动拆箱。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用sublime-Text-3进行java编程</title>
+    <link href="http://yoursite.com/2016/05/05/%E4%BD%BF%E7%94%A8sublime-Text-3%E8%BF%9B%E8%A1%8Cjava%E7%BC%96%E7%A8%8B/"/>
+    <id>http://yoursite.com/2016/05/05/使用sublime-Text-3进行java编程/</id>
+    <published>2016-05-05T01:50:12.000Z</published>
+    <updated>2017-04-30T07:09:29.338Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="实现sublime-Text-3对Java编译执行"><a href="#实现sublime-Text-3对Java编译执行" class="headerlink" title="实现sublime Text 3对Java编译执行"></a>实现sublime Text 3对Java编译执行</h3><p>直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：</p>
+<pre><code>{  
+    &quot;shell_cmd&quot;: &quot;javaRun \&quot;$file\&quot;&quot;,  
+    &quot;file_regex&quot;: &quot;^(...*?):([0-9]*):?([0-9]*)&quot;,  
+    &quot;selector&quot;: &quot;source.java&quot;,  
+    &quot;encoding&quot;:&quot;cp936&quot;  
+}  
+</code></pre><a id="more"></a>
+<p>然后在jdk安装路径下的bin目录中新建一个javaRun.bat批处理文件，内容如下：</p>
+<pre><code>@ECHO OFF  
+cd %~dp1  
+ECHO Compiling %~nx1.......  
+IF EXIST %~n1.class (  
+DEL %~n1.class  
+)  
+javac  %~nx1  
+IF EXIST %~n1.class (  
+ECHO -----------OUTPUT-----------  
+java %~n1  
+)  
+</code></pre><p>之后就可以使用ctrl+B</p>
+<h3 id="若显示编译显示-Decode-error-output-not-utf-8"><a href="#若显示编译显示-Decode-error-output-not-utf-8" class="headerlink" title="若显示编译显示[Decode error - output not utf-8]"></a>若显示编译显示[Decode error - output not utf-8]</h3><p>SublimeText3\Packages\Java.sublime-package\JavaC.sublime-build\<br>添加     “encoding”:”cp936”</p>
+<h3 id="编译显示：-编码GBK的不可映射字符【注：需要在前面的基础下】"><a href="#编译显示：-编码GBK的不可映射字符【注：需要在前面的基础下】" class="headerlink" title="编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】"></a>编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】</h3><p>将上述javaRun.bat修改为：</p>
+<pre><code>[plain] view plain copy 在CODE上查看代码片派生到我的代码片
+@ECHO OFF  
+cd %~dp1  
+ECHO Compiling %~nx1.......  
+IF EXIST %~n1.class (  
+DEL %~n1.class  
+)  
+javac -encoding UTF-8 %~nx1  
+IF EXIST %~n1.class (  
+ECHO -----------OUTPUT-----------  
+java %~n1  
+)  
+</code></pre><p><a href="http://blog.csdn.net/wolinxuebin/article/details/41049551" target="_blank" rel="external">原文</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;实现sublime-Text-3对Java编译执行&quot;&gt;&lt;a href=&quot;#实现sublime-Text-3对Java编译执行&quot; class=&quot;headerlink&quot; title=&quot;实现sublime Text 3对Java编译执行&quot;&gt;&lt;/a&gt;实现sublime Text 3对Java编译执行&lt;/h3&gt;&lt;p&gt;直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{  
+    &amp;quot;shell_cmd&amp;quot;: &amp;quot;javaRun \&amp;quot;$file\&amp;quot;&amp;quot;,  
+    &amp;quot;file_regex&amp;quot;: &amp;quot;^(...*?):([0-9]*):?([0-9]*)&amp;quot;,  
+    &amp;quot;selector&amp;quot;: &amp;quot;source.java&amp;quot;,  
+    &amp;quot;encoding&amp;quot;:&amp;quot;cp936&amp;quot;  
+}  
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
