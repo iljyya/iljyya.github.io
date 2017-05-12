@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-04T05:30:55.525Z</updated>
+  <updated>2017-05-04T09:48:21.250Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,64 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Shadowsocks 从出门到出墙</title>
+    <link href="http://yoursite.com/2017/05/04/Shadowsocks-%E4%BB%8E%E5%87%BA%E9%97%A8%E5%88%B0%E5%87%BA%E5%A2%99/"/>
+    <id>http://yoursite.com/2017/05/04/Shadowsocks-从出门到出墙/</id>
+    <published>2017-05-04T08:58:15.000Z</published>
+    <updated>2017-05-04T09:48:21.250Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h3><p><a href="https://portal.shadowsocks.com.hk" target="_blank" rel="external">https://portal.shadowsocks.com.hk</a></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！</p>
+<h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><p>下载shadowsocks<br><a href="https://github.com/shadowsocks/shadowsocks-windows/releases" target="_blank" rel="external">https://github.com/shadowsocks/shadowsocks-windows/releases</a><br>下个json文件就配置好了。</p>
+<h3 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h3><p>下载影梭 <a href="http://pan.baidu.com/s/1jInUO1w" target="_blank" rel="external">http://pan.baidu.com/s/1jInUO1w</a>  密码：m5sg<br>配置不要手动填写，有点low，要扫描二维码。</p>
+<h3 id="IOS"><a href="#IOS" class="headerlink" title="IOS"></a>IOS</h3><p>App store下载shadowrocket ，只要18元。</p>
+<h3 id="iyingsuo-com"><a href="#iyingsuo-com" class="headerlink" title="iyingsuo.com"></a>iyingsuo.com</h3><p>帮朋友买过，100元/年，效果尚可。「我的产品」 在chrome点不开，换360浏览器打开了，很尴尬。</p>
+<h3 id="稳翻飞"><a href="#稳翻飞" class="headerlink" title="稳翻飞"></a>稳翻飞</h3><p>关注公众号购买，22/月，33/月两种，朋友说很快。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;购买&quot;&gt;&lt;a href=&quot;#购买&quot; class=&quot;headerlink&quot; title=&quot;购买&quot;&gt;&lt;/a&gt;购买&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://portal.shadowsocks.com.hk&quot; target=&quot;_blank&quot; rel=&quot;exter
+    
+    </summary>
+    
+      <category term="shadowsocks" scheme="http://yoursite.com/categories/shadowsocks/"/>
+    
+    
+      <category term="shadowsocks" scheme="http://yoursite.com/tags/shadowsocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>夜半汽笛声 村上春树</title>
+    <link href="http://yoursite.com/2017/05/04/%E5%A4%9C%E5%8D%8A%E6%B1%BD%E7%AC%9B%E5%A3%B0-%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91/"/>
+    <id>http://yoursite.com/2017/05/04/夜半汽笛声-村上春树/</id>
+    <published>2017-05-04T05:41:20.000Z</published>
+    <updated>2017-05-12T12:29:42.636Z</updated>
+    
+    <content type="html"><![CDATA[<p>女孩问男孩：「你怎么样的喜欢我？」<br>少年想了想，声音低沉地回答说：「就像喜欢夜半的汽笛声一样。」<br>少女默默地等着他说下去，他一定会加以说明的。<br>「有一天半夜里我忽然醒了。」他说：「正确的时间不知道，大概是两点<br>或三点吧，但那时是几点并不重要。总之，是半夜里，我独自一个人，没有<br>谁在我旁边。你试想像这种情形。四周黑漆漆，什么都看不见，没有一点声<br>音，连时钟的针刻着时间的声音都听不见–也许是时钟停了。而我突然感到<br>自己被隔离在一处遥远的谁也不知道的地方。我体会到在这广大的世界上，<br>没有谁爱我，没有谁跟我说话，没有谁会想到我。即使我就这样从世界上消<br>失了，也没有谁会发觉到吧？就像被装在大铁箱沉入深海的心情。因为气压<br>我觉得心脏痛，痛得几乎会撕裂成两半–你体会得出这种感觉吧？」</p>
+<p>少女点点头。大概是了解的吧。</p>
+<p>少年继续说：「这恐怕是人活着所经验的最痛苦的事情之一吧，我真的悲伤得<br>要死。不，不是死了也罢了，而是就那样下去，箱子里的空气稀薄，事实上会<br>死。这不是比喻，是真的。是半夜里孤独一个人，醒来时的况味，你也了解吧？」</p>
+<p>少女又默默地点头。少年停顿一下又说：「但是这时我听到远远的地方有汽笛声。<br>那真是真是很远的地方的汽笛声。铁路到底在那里我都不知道，可见多么的远。微<br>微的声音似乎听见了，又似乎听不见。但我知道那是火车的汽笛声。没错。我在黑<br>暗里静静地谛听着。于是我再一次听到了那汽笛声。而我的心脏不痛了，时钟的针<br>开始动了，铁箱子慢慢浮上海面。这都是由于那小汽笛声，由于那又像听见又像听<br>不见的微微汽笛声。就像对那汽笛声一样我爱你。」</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;女孩问男孩：「你怎么样的喜欢我？」&lt;br&gt;少年想了想，声音低沉地回答说：「就像喜欢夜半的汽笛声一样。」&lt;br&gt;少女默默地等着他说下去，他一定会加以说明的。&lt;br&gt;「有一天半夜里我忽然醒了。」他说：「正确的时间不知道，大概是两点&lt;br&gt;或三点吧，但那时是几点并不重要。总之，是
+    
+    </summary>
+    
+      <category term="文学短篇" scheme="http://yoursite.com/categories/%E6%96%87%E5%AD%A6%E7%9F%AD%E7%AF%87/"/>
+    
+    
+      <category term="文学短篇" scheme="http://yoursite.com/tags/%E6%96%87%E5%AD%A6%E7%9F%AD%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo theme Next 从入门到灰头土脸</title>
     <link href="http://yoursite.com/2017/04/30/Hexo-theme-Next%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%81%B0%E5%A4%B4%E5%9C%9F%E8%84%B8/"/>
     <id>http://yoursite.com/2017/04/30/Hexo-theme-Next从入门到灰头土脸/</id>
     <published>2017-04-30T08:57:56.000Z</published>
-    <updated>2017-05-04T05:30:55.525Z</updated>
+    <updated>2017-05-04T08:24:19.059Z</updated>
     
     <content type="html"><![CDATA[<h3 id="头像"><a href="#头像" class="headerlink" title="头像"></a>头像</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-07a5171344471232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
 <h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-8aa46ad39385fa9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
@@ -39,6 +92,7 @@
 <h3 id="只好先用-HyperComments-，怀念多说"><a href="#只好先用-HyperComments-，怀念多说" class="headerlink" title="只好先用 HyperComments ，怀念多说"></a>只好先用 HyperComments ，怀念多说</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-cff6d423a82413bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="七牛云"><a href="#七牛云" class="headerlink" title="七牛云"></a>七牛云</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-eac8619850c2c522.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="favicon"><a href="#favicon" class="headerlink" title="favicon"></a>favicon</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-f3ad9beef097d7ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="关闭评论"><a href="#关闭评论" class="headerlink" title="关闭评论"></a>关闭评论</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-00be70625c0051db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="告一段落"><a href="#告一段落" class="headerlink" title="告一段落"></a>告一段落</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-f948bdd91077c145.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>弄完有点灰头土脸，开心多了很多经验。</p>
 <h3 id="参考文献："><a href="#参考文献：" class="headerlink" title="参考文献："></a>参考文献：</h3><p><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">http://theme-next.iissnan.com/getting-started.html</a><br><a href="http://wuxiaolong.me/2015/07/31/build-blog-by-hexo/" target="_blank" rel="external">http://wuxiaolong.me/2015/07/31/build-blog-by-hexo/</a></p>]]></content>
     
@@ -56,11 +110,11 @@
   </entry>
   
   <entry>
-    <title>hello hexo again</title>
-    <link href="http://yoursite.com/2017/04/23/hello-hexo-again/"/>
-    <id>http://yoursite.com/2017/04/23/hello-hexo-again/</id>
+    <title>hexo theme Material</title>
+    <link href="http://yoursite.com/2017/04/23/hexo%20theme%20Material/"/>
+    <id>http://yoursite.com/2017/04/23/hexo theme Material/</id>
     <published>2017-04-23T06:07:32.000Z</published>
-    <updated>2017-04-30T07:09:27.355Z</updated>
+    <updated>2017-05-04T05:37:38.982Z</updated>
     
     <content type="html"><![CDATA[<h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-<span class="keyword">cli</span></div></pre></td></tr></table></figure>
 <h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><p><a href="https://material.viosey.com/start/" target="_blank" rel="external">https://material.viosey.com/start/</a></p>
@@ -81,15 +135,218 @@
     
     </summary>
     
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
   <entry>
-    <title>Java面试题和答案part1</title>
-    <link href="http://yoursite.com/2016/05/07/Java%E9%9D%A2%E8%AF%95%E9%A2%98%E5%92%8C%E7%AD%94%E6%A1%88part1/"/>
-    <id>http://yoursite.com/2016/05/07/Java面试题和答案part1/</id>
+    <title>小程序入门教程整理</title>
+    <link href="http://yoursite.com/2017/04/14/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/"/>
+    <id>http://yoursite.com/2017/04/14/小程序入门教程整理/</id>
+    <published>2017-04-13T19:50:12.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="开发详解系列"><a href="#开发详解系列" class="headerlink" title="开发详解系列"></a>开发详解系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=940" target="_blank" rel="external">开发准备，开发工具使用简介，工程目录结构 …</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=941" target="_blank" rel="external">开发组件使用初步，配置</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=942" target="_blank" rel="external">APP生命周期</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=943" target="_blank" rel="external">页面生命周期和参数传递</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=987" target="_blank" rel="external">布局基础</a></p>
+<h3 id="程序员实战系列"><a href="#程序员实战系列" class="headerlink" title="程序员实战系列"></a>程序员实战系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=739" target="_blank" rel="external">程序员开发实战系列《一》注册、预览小程序</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=465" target="_blank" rel="external">程序员开发实战系列《二》微信小程序架构篇</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=466" target="_blank" rel="external">程序员开发实战系列《三》App()和Page()</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=478" target="_blank" rel="external">程序员开发实战系列《四》视图层WXML绑定数据、模板、逻辑</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=479" target="_blank" rel="external">程序员开发实战系列《五》视图层WXML：事件</a></p>
+<h3 id="学习记录系列"><a href="#学习记录系列" class="headerlink" title="学习记录系列"></a>学习记录系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=495" target="_blank" rel="external">微信小程序学习记录《一》：目录结构介绍，开发工具菜单介绍</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=497" target="_blank" rel="external">微信小程序学习记录《二》：系统配置app.json，程序和页面注册.js</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=506" target="_blank" rel="external">微信小程序学习记录《三》：视图容器</a></p>
+<h3 id="现学现卖系列"><a href="#现学现卖系列" class="headerlink" title="现学现卖系列"></a>现学现卖系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=1030" target="_blank" rel="external">现学现卖微信小程序开发（三）：引入“Rx”为小程序插上翅膀 …</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=1015" target="_blank" rel="external">现学现卖的一个“快递查询“的小程序开发</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=986" target="_blank" rel="external">现学现卖微信小程序开发（二）</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=964" target="_blank" rel="external">现学现卖微信小程序开发（一）开始</a></p>
+<h3 id="跳坑系列"><a href="#跳坑系列" class="headerlink" title="跳坑系列"></a>跳坑系列</h3><p><a href="http://www.wxapp-union.com/forum.php?mod=forumdisplay&amp;fid=2&amp;filter=typeid&amp;typeid=3" target="_blank" rel="external">http://www.wxapp-union.com/forum.php?mod=forumdisplay&amp;fid=2&amp;filter=typeid&amp;typeid=3</a></p>
+<h3 id="原文链接"><a href="#原文链接" class="headerlink" title="原文链接"></a>原文链接</h3><p><a href="http://www.wxapp-union.com/forum.php?mod=viewthread&amp;tid=1989" target="_blank" rel="external">http://www.wxapp-union.com/forum.php?mod=viewthread&amp;tid=1989</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; al
+    
+    </summary>
+    
+      <category term="小程序" scheme="http://yoursite.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="http://yoursite.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小程序 入门</title>
+    <link href="http://yoursite.com/2017/04/11/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%85%A5%E9%97%A8/"/>
+    <id>http://yoursite.com/2017/04/11/小程序-入门/</id>
+    <published>2017-04-10T19:50:12.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="注册小程序账号"><a href="#注册小程序账号" class="headerlink" title="注册小程序账号"></a>注册小程序账号</h3><p><a href="https://mp.weixin.qq.com" target="_blank" rel="external">https://mp.weixin.qq.com</a></p>
+<p>###获取微信小程序的 AppID<br>登录 <a href="https://mp.weixin.qq.com" target="_blank" rel="external">https://mp.weixin.qq.com</a> ，在「设置」-「开发者设置」中，找到 AppID。</p>
+<p>###真机测试小程序教程<br><a href="https://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&amp;mid=2736711271&amp;idx=1&amp;sn=9a099f03b30a55e893d126ea634d3ff3&amp;chksm=b6aac77981dd4e6fe24ef7a9dbbb21b5c0ad4d433a653668618cea0adc4572ccf54b0f9ee736&amp;mpshare=1&amp;scene=1&amp;srcid=0331HHQ1AyHhox3cmckX3cMo#rd" target="_blank" rel="external">https://mp.weixin.qq.com…</a></p>
+<p>###填写appid后json不能加载<br>需要在request合法域名添加api地址<br><a href="http://www.wxapp-union.com/forum.php?mod=viewthread&amp;tid=803" target="_blank" rel="external">http://www.wxapp-union.com/forum.php?mod=viewthread&amp;tid=803</a></p>
+<h3 id="Egret-Wing"><a href="#Egret-Wing" class="headerlink" title="Egret Wing"></a>Egret Wing</h3><p>轻量编辑器，可以实施预览小程序页面改动，比官方工具好用，缺点是不能预览动画。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;注册小程序账号&quot;&gt;&lt;a href=&quot;#注册小程序账号&quot; class=&quot;headerlink&quot; title=&quot;注册小程序账号&quot;&gt;&lt;/a&gt;注册小程序账号&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com&quot; target=&quot;_blank&quot;
+    
+    </summary>
+    
+      <category term="小程序" scheme="http://yoursite.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="http://yoursite.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>秒级编译工具 FREELINE 从入门到上天</title>
+    <link href="http://yoursite.com/2017/04/09/%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9/"/>
+    <id>http://yoursite.com/2017/04/09/秒级编译工具-FREELINE-从入门到上天/</id>
+    <published>2017-04-09T02:17:22.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><p>Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。</p>
+<h3 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h3><p>装个python，目录加到path<br> 加个依赖</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-33dd73a7e0a4c482.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p> 下个插件</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-4d0118ac8bb326b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p> 重启AS<br><img src="http://upload-images.jianshu.io/upload_images/49483-f6e87da6b40f807a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>第一次编译完，以后点这个。<br><img src="http://upload-images.jianshu.io/upload_images/49483-5fb6210780f05ffb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>参考文献：<br><a href="http://stormzhang.com/2016/12/02/android-seconds-build-freeline/" target="_blank" rel="external">http://stormzhang.com/2016/12/02/android-seconds-build-freeline/</a><br><a href="https://github.com/alibaba/freeline" target="_blank" rel="external">https://github.com/alibaba/freeline</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Intro&quot;&gt;&lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h3&gt;&lt;p&gt;Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，
+    
+    </summary>
+    
+      <category term="Android Studio" scheme="http://yoursite.com/categories/Android-Studio/"/>
+    
+    
+      <category term="Android Studio" scheme="http://yoursite.com/tags/Android-Studio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React Native 从入门到踩坑</title>
+    <link href="http://yoursite.com/2017/03/13/React-Native-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/"/>
+    <id>http://yoursite.com/2017/03/13/React-Native-从入门到踩坑/</id>
+    <published>2017-03-12T19:50:12.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Get-started"><a href="#Get-started" class="headerlink" title="Get started."></a>Get started.</h3><p><a href="http://reactnative.cn/docs/0.42/getting-started.html#content" target="_blank" rel="external">http://reactnative.cn/docs/0.42/getting-started.html#content</a></p>
+<h3 id="Forum"><a href="#Forum" class="headerlink" title="Forum"></a>Forum</h3><p><a href="http://bbs.reactnative.cn/category/4/求助专区" target="_blank" rel="external">http://bbs.reactnative.cn/category/4/求助专区</a></p>
+<h3 id="Q-gradle-download-slow"><a href="#Q-gradle-download-slow" class="headerlink" title="Q: gradle download slow."></a>Q: gradle download slow.</h3><p>A: copy and download link like:<br><a href="https://services.gradle.org/distributions/gradle-2.14.1-all.zip" target="_blank" rel="external">https://services.gradle.org/distributions/gradle-2.14.1-all.zip</a><br>put zip in<code>C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\8bnwg5hd3w55iofp58khbp6yv</code><br>B:freeGate <a href="http://www.cnblogs.com/zhang-cb/p/6065118.html" target="_blank" rel="external">http://www.cnblogs.com/zhang-cb/p/6065118.html</a><br>C: <code>app\gradle.properties</code>add<br><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">systemProp.http.proxyHost=android-mirror.bugly.qq.com</div><div class="line">systemProp.http.proxyPort=<span class="number">8080</span></div><div class="line">org.gradle.jvmargs=-Xmx2048m -XX\:MaxPermSize\=<span class="number">512</span>m -XX\:+HeapDumpOnOutOfMemoryError -Dfile.encoding\=UTF-<span class="number">8</span></div><div class="line">org.gradle.parallel=<span class="keyword">true</span></div><div class="line">target-sdk=<span class="number">23</span></div></pre></td></tr></table></figure></p>
+<p>read more: <a href="http://hucaihua.cn/2015/06/06/android_studio_problem/" target="_blank" rel="external">http://hucaihua.cn/2015/06/06/android_studio_problem/</a></p>
+<h3 id="Q-sdk-not-defined"><a href="#Q-sdk-not-defined" class="headerlink" title="Q: sdk not defined"></a>Q: sdk not defined</h3><p>sys env var add<code>%ANDROID_HOME%</code><br>path add<code>%ANDROID_HOME%;%ANDROID_HOME%\platform-tools;</code></p>
+<h3 id="Q-copy-in-cmd"><a href="#Q-copy-in-cmd" class="headerlink" title="Q: copy in cmd"></a>Q: copy in cmd</h3><p>标记 选中 回车</p>
+<h3 id="Q-Could-not-create-ADB-Bridge"><a href="#Q-Could-not-create-ADB-Bridge" class="headerlink" title="Q: Could not create ADB Bridge"></a>Q: Could not create ADB Bridge</h3><p>settings-ADB-Use custom SDK tools.<br>Restart genymotion<br>read more: <a href="http://stackoverflow.com/questions/35959350/react-native-android-genymotion-adb-server-didnt-ack" target="_blank" rel="external">http://stackoverflow.com/questions/35959350/react-native-android-genymotion-adb-server-didnt-ack</a></p>
+<h3 id="Q-adb-wifi"><a href="#Q-adb-wifi" class="headerlink" title="Q: adb wifi"></a>Q: adb wifi</h3><p>1 usb connect, enable USB Debugging<br>2 cmd <code>adb tcpip 5555</code><br>3 <code>adb connect 192.168.1.***</code><br>back to usb mode: <code>adb usb</code><br>show devices: <code>adb devices</code><br>stop adb wifi:<code>adb tcpip -1</code><br>adb wifi 不稳定</p>
+<h3 id="Q-failed-to-install-all-Unable-to-upload-some-APKs-真机测试"><a href="#Q-failed-to-install-all-Unable-to-upload-some-APKs-真机测试" class="headerlink" title="Q: failed to install all/ Unable to upload some APKs (真机测试)"></a>Q: failed to install all/ Unable to upload some APKs (真机测试)</h3><p><code>android/build.gradle</code>change version to <code>1.2.3</code><br>change <code>ProjectDir\android\gradle\wrapper\gradle-wrapper.properties</code><br>url to <code>gradle-2.2-all.zip</code><br>cmd <code>adb reverse tcp:8081 tcp:8081</code><br>read more: <a href="http://blog.csdn.net/yk377657321/article/details/53036788" target="_blank" rel="external">http://blog.csdn.net/yk377657321/article/details/53036788</a></p>
+<h3 id="Q-开启Gradle-Daemon"><a href="#Q-开启Gradle-Daemon" class="headerlink" title="Q:开启Gradle Daemon"></a>Q:开启Gradle Daemon</h3><p>dir <code>.gradle</code><br>creat file <code>gradle.properties</code><br>add<code>org.gradle.daemon=true</code></p>
+<h4 id="Q-官网找不到Genymotion下载，提示收费。"><a href="#Q-官网找不到Genymotion下载，提示收费。" class="headerlink" title="Q: 官网找不到Genymotion下载，提示收费。"></a>Q: 官网找不到Genymotion下载，提示收费。</h4><p>先登录，点下载，滑到下面就有了。</p>
+<h3 id="Q-Genymotion-Unable-to-create-Virtual-Device-Connection-timeout"><a href="#Q-Genymotion-Unable-to-create-Virtual-Device-Connection-timeout" class="headerlink" title="Q: Genymotion: Unable to create Virtual Device: Connection timeout."></a>Q: Genymotion: Unable to create Virtual Device: Connection timeout.</h3><p>A: Check the /home/user/.Genymobile/Genymotion/genymotion.log file and at last 10 lines of the file you will get somthing like this:<br><a href="http://dl.genymotion.com/dists/6.0.0/ova/genymotion_vbox86p_6.0_160825_141918.ova" target="_blank" rel="external">http://dl.genymotion.com/dists/6.0.0/ova/genymotion_vbox86p_6.0_160825_141918.ova</a><br>download and put this image file to /home/user/.Genymobile/Genymotion/ova/ and restart Genymotion and add this device.<br>参考链接： <a href="http://stackoverflow.com/questions/19700646/unable-to-create-genymotion-virtual-devicesconnection-timeout" target="_blank" rel="external">http://stackoverflow.com/questions/19700646/unable-to-create-genymotion-virtual-devicesconnection-timeout</a></p>
+<h3 id="Q-error-device-offline"><a href="#Q-error-device-offline" class="headerlink" title="Q:error:device offline"></a>Q:error:device offline</h3><p>重启模拟器，实在不行就：<br><code>adb kill-server</code><br>adb start-server<br>adb remount`</p>
+<h3 id="Q-真机测试始终白屏"><a href="#Q-真机测试始终白屏" class="headerlink" title="Q:真机测试始终白屏"></a>Q:真机测试始终白屏</h3><p>手机设置，项目APP开启<code>桌面悬浮窗</code>权限</p>
+<h3 id="Q-真机摇一摇没反应"><a href="#Q-真机摇一摇没反应" class="headerlink" title="Q:真机摇一摇没反应"></a>Q:真机摇一摇没反应</h3><p>手机设置，项目APP开启<code>桌面悬浮窗</code>权限</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Get-started&quot;&gt;&lt;a href=&quot;#Get-started&quot; class=&quot;headerlink&quot; title=&quot;Get started.&quot;&gt;&lt;/a&gt;Get started.&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://reactnative.cn/d
+    
+    </summary>
+    
+      <category term="React Native" scheme="http://yoursite.com/categories/React-Native/"/>
+    
+    
+      <category term="React Native" scheme="http://yoursite.com/tags/React-Native/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CAD 从0到画设计图</title>
+    <link href="http://yoursite.com/2016/09/15/CAD-%E4%BB%8E0%E5%88%B0%E7%94%BB%E8%AE%BE%E8%AE%A1%E5%9B%BE/"/>
+    <id>http://yoursite.com/2016/09/15/CAD-从0到画设计图/</id>
+    <published>2016-09-14T19:50:12.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？<br>我之前自学过一点CAD，当场爽快答应。</p>
+<h3 id="下载CAD破解"><a href="#下载CAD破解" class="headerlink" title="下载CAD破解"></a>下载CAD破解</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-6595acc3b146b673.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>一个世纪过去安装完毕，XFORCE Keygen破解。</p>
+<h3 id="预览图"><a href="#预览图" class="headerlink" title="预览图"></a>预览图</h3><p>从新近开始一步步查资料新建布局，到后来的连续标注，楼梯阴影，功夫不负有心人，灰头土脸的画了一天，终于两层都赶出来了。<br><img src="http://upload-images.jianshu.io/upload_images/49483-9f639cc33e3627bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一层局部"><br><img src="http://upload-images.jianshu.io/upload_images/49483-5b7d1f839e676ba2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一层整体"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;故事背景&quot;&gt;&lt;a href=&quot;#故事背景&quot; class=&quot;headerlink&quot; title=&quot;故事背景&quot;&gt;&lt;/a&gt;故事背景&lt;/h3&gt;&lt;p&gt;老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？&lt;br&gt;我之前自学过一点CAD，当场爽快答
+    
+    </summary>
+    
+      <category term="CAD" scheme="http://yoursite.com/categories/CAD/"/>
+    
+    
+      <category term="CAD" scheme="http://yoursite.com/tags/CAD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CAD 从0到排版打印</title>
+    <link href="http://yoursite.com/2016/09/02/CAD-%E4%BB%8E0%E5%88%B0%E6%8E%92%E7%89%88%E6%89%93%E5%8D%B0/"/>
+    <id>http://yoursite.com/2016/09/02/CAD-从0到排版打印/</id>
+    <published>2016-09-01T19:50:12.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。</p>
+<h3 id="创建画布"><a href="#创建画布" class="headerlink" title="创建画布"></a>创建画布</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-0dc326b9135d0dc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>工具 - 向导 - 创建画布 - A4</p>
+<h3 id="平移"><a href="#平移" class="headerlink" title="平移"></a>平移</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-87d4014813c94d7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>esc 到默认工具，左键拖拽框选，再点左键拖拽平移。</p>
+<h3 id="缩放"><a href="#缩放" class="headerlink" title="缩放"></a>缩放</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a9b29065d373cd02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>选择图形 - 输入缩放命令 sc 回车 - 选取缩放基点 - 瞄准缩放方向 - 输入缩放倍速回车</p>
+<h3 id="标注字体大小"><a href="#标注字体大小" class="headerlink" title="标注字体大小"></a>标注字体大小</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-443454d981a26fc8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>标注 - 标注样式 - 修改 - 文字 - 文字高度<br>详细步骤： <a href="https://jingyan.baidu.com/article/ce09321b2bbd742bfe858f46.html" target="_blank" rel="external">https://jingyan.baidu.com/article/ce09321b2bbd742bfe858f46.html</a></p>
+<h3 id="预览打印"><a href="#预览打印" class="headerlink" title="预览打印"></a>预览打印</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-6a4c11573b38bc18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>完美！收工</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;故事背景&quot;&gt;&lt;a href=&quot;#故事背景&quot; class=&quot;headerlink&quot; title=&quot;故事背景&quot;&gt;&lt;/a&gt;故事背景&lt;/h3&gt;&lt;p&gt;同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。&lt;/p&gt;
+&lt;h3 id=&quot;创建画布&quot;&gt;&lt;a
+    
+    </summary>
+    
+      <category term="CAD" scheme="http://yoursite.com/categories/CAD/"/>
+    
+    
+      <category term="CAD" scheme="http://yoursite.com/tags/CAD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chrome插件推荐</title>
+    <link href="http://yoursite.com/2016/08/13/Chrome%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <id>http://yoursite.com/2016/08/13/Chrome插件推荐/</id>
+    <published>2016-08-12T19:50:12.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Google-Dictionary"><a href="#Google-Dictionary" class="headerlink" title="Google Dictionary"></a>Google Dictionary</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-60e5cbe75abc2366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="Sight"><a href="#Sight" class="headerlink" title="Sight"></a>Sight</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-f5d8c66e716d360e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="Adblock-Plus"><a href="#Adblock-Plus" class="headerlink" title="Adblock Plus"></a>Adblock Plus</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-5bf17672fa13445d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="Octotree"><a href="#Octotree" class="headerlink" title="Octotree"></a>Octotree</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-e6e6c1ae260af24c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="遠方-New-Tab"><a href="#遠方-New-Tab" class="headerlink" title="遠方 New Tab"></a>遠方 New Tab</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-8a3a2fd499c96a7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="Markdown-Here"><a href="#Markdown-Here" class="headerlink" title="Markdown Here"></a>Markdown Here</h3><p><a href="http://markdown-here.com/get.html" target="_blank" rel="external">http://markdown-here.com/get.html</a><br>一键渲染markdown格式文章，可以同步文章到微信公众号。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Google-Dictionary&quot;&gt;&lt;a href=&quot;#Google-Dictionary&quot; class=&quot;headerlink&quot; title=&quot;Google Dictionary&quot;&gt;&lt;/a&gt;Google Dictionary&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;
+    
+    </summary>
+    
+      <category term="Chrome" scheme="http://yoursite.com/categories/Chrome/"/>
+    
+    
+      <category term="Chrome" scheme="http://yoursite.com/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Awesome Java QAs</title>
+    <link href="http://yoursite.com/2016/05/07/Awesome%20Java%20QAs/"/>
+    <id>http://yoursite.com/2016/05/07/Awesome Java QAs/</id>
     <published>2016-05-07T13:17:45.000Z</published>
-    <updated>2017-04-30T05:28:56.028Z</updated>
+    <updated>2017-05-04T05:37:50.311Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Java中是否可以覆盖-override-一个private或者是static的方法"><a href="#Java中是否可以覆盖-override-一个private或者是static的方法" class="headerlink" title="Java中是否可以覆盖(override)一个private或者是static的方法?"></a>Java中是否可以覆盖(override)一个private或者是static的方法?</h3><p>static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。<br>无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。<br>static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。</p>
 <h3 id="Java支持的数据类型有哪些？什么是自动拆装箱？"><a href="#Java支持的数据类型有哪些？什么是自动拆装箱？" class="headerlink" title="Java支持的数据类型有哪些？什么是自动拆装箱？"></a>Java支持的数据类型有哪些？什么是自动拆装箱？</h3><p> byte short int long float double boolean char<br> 把int转化成Integer是自动装箱。反之就是自动拆箱。<br><a id="more"></a></p>
@@ -120,7 +377,7 @@
     <link href="http://yoursite.com/2016/05/05/%E4%BD%BF%E7%94%A8sublime-Text-3%E8%BF%9B%E8%A1%8Cjava%E7%BC%96%E7%A8%8B/"/>
     <id>http://yoursite.com/2016/05/05/使用sublime-Text-3进行java编程/</id>
     <published>2016-05-05T01:50:12.000Z</published>
-    <updated>2017-04-30T07:09:29.338Z</updated>
+    <updated>2017-05-04T05:38:25.099Z</updated>
     
     <content type="html"><![CDATA[<h3 id="实现sublime-Text-3对Java编译执行"><a href="#实现sublime-Text-3对Java编译执行" class="headerlink" title="实现sublime Text 3对Java编译执行"></a>实现sublime Text 3对Java编译执行</h3><p>直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：</p>
 <pre><code>{  
@@ -172,6 +429,69 @@ java %~n1
     
     </summary>
     
+      <category term="java" scheme="http://yoursite.com/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java开发微信公众平台 从入门到踩坑</title>
+    <link href="http://yoursite.com/2016/03/22/java%E5%BC%80%E5%8F%91%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%B9%B3%E5%8F%B0-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/"/>
+    <id>http://yoursite.com/2016/03/22/java开发微信公众平台-从入门到踩坑/</id>
+    <published>2016-03-21T19:50:12.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="找教程"><a href="#找教程" class="headerlink" title="找教程"></a>找教程</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a1f2ca0bfa8b8894.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="eclipse"><a href="#eclipse" class="headerlink" title="eclipse"></a>eclipse</h3><p>发现需要服务器地址，想到要eclipse的tomcat的服务器，得先下载个eclipse，老规矩，搜</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-03091f4babce75ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>下载安装 eclipse-javaEE</p>
+<h3 id="tomcat"><a href="#tomcat" class="headerlink" title="tomcat"></a>tomcat</h3><p>安装完eclipse发现需要装tomcat，搜</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-2301ea2525d462c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>装了个tomcat7，看教程打个hello world，run server 挺顺利。</p>
+<h3 id="tomcat端口改成80"><a href="#tomcat端口改成80" class="headerlink" title="tomcat端口改成80"></a>tomcat端口改成80</h3><p>看微信文档，需要80端口，tomcat默认是8080，搜</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-0d0959b3d67269d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-442269aa3c97718d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>在 tomcat-dir\conf\server.mxl  http port 改成 80，run server，还是8080！<br>不能慌，接着往下看，发现无名大侠的奇效偏方。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-724e26d5e03af7f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;找教程&quot;&gt;&lt;a href=&quot;#找教程&quot; class=&quot;headerlink&quot; title=&quot;找教程&quot;&gt;&lt;/a&gt;找教程&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-a1f2
+    
+    </summary>
+    
+      <category term="tomcat" scheme="http://yoursite.com/categories/tomcat/"/>
+    
+    
+      <category term="tomcat" scheme="http://yoursite.com/tags/tomcat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>内网穿透 从入门到踩坑</title>
+    <link href="http://yoursite.com/2016/03/20/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91-/"/>
+    <id>http://yoursite.com/2016/03/20/内网穿透-从入门到踩坑-/</id>
+    <published>2016-03-19T19:50:12.000Z</published>
+    <updated>2017-05-12T12:37:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>就是把本地ip假装成公网。<br>先踩几个坑：</p>
+<h3 id="tunnel-mobi"><a href="#tunnel-mobi" class="headerlink" title="tunnel.mobi"></a>tunnel.mobi</h3><p>网站关了，心疼一秒。</p>
+<h3 id="花生壳"><a href="#花生壳" class="headerlink" title="花生壳"></a>花生壳</h3><p>只有电信免费，认证费6块，联通的要198/年，心疼自己是联通。</p>
+<h3 id="ngrok"><a href="#ngrok" class="headerlink" title="ngrok"></a>ngrok</h3><p>国外的，慢。</p>
+<h3 id="natapp-cn"><a href="#natapp-cn" class="headerlink" title="natapp.cn"></a>natapp.cn</h3><p>操作很简单，看着贴心的教程很快搞定。<br><a href="https://natapp.cn/article/natapp_newbie" target="_blank" rel="external">NATAPP1分钟快速新手图文教程 传送门</a><br>看到这个就算成功</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-aacf230347fc5715.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;p&gt;就是把本地ip假装成公网。&lt;br&gt;先踩几个坑：&lt;/p&gt;
+&lt;h3 id=&quot;tunnel-mobi&quot;&gt;&lt;a href=&quot;#tunnel-mobi
+    
+    </summary>
+    
+      <category term="ngrok" scheme="http://yoursite.com/categories/ngrok/"/>
+    
+    
+      <category term="ngrok" scheme="http://yoursite.com/tags/ngrok/"/>
     
   </entry>
   

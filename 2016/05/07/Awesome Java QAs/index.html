@@ -1,0 +1,874 @@
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css">
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css">
+
+<link href="/css/main.css?v=5.1.1" rel="stylesheet" type="text/css">
+
+
+  <meta name="keywords" content="java,">
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="iljyya" type="application/atom+xml">
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.1">
+
+
+
+
+
+
+<meta name="description" content="Java中是否可以覆盖(override)一个private或者是static的方法?static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以stati">
+<meta name="keywords" content="java">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Awesome Java QAs">
+<meta property="og:url" content="http://yoursite.com/2016/05/07/Awesome Java QAs/index.html">
+<meta property="og:site_name" content="iljyya">
+<meta property="og:description" content="Java中是否可以覆盖(override)一个private或者是static的方法?static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以stati">
+<meta property="og:updated_time" content="2017-05-04T05:37:50.311Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Awesome Java QAs">
+<meta name="twitter:description" content="Java中是否可以覆盖(override)一个private或者是static的方法?static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以stati">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: '0',
+      author: 'Author'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2016/05/07/Awesome Java QAs/">
+
+
+
+
+
+  <title>Awesome Java QAs | iljyya</title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
+
+  
+
+
+
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?4d80fe97e8059239f5bd379c357788eb";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">iljyya</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">他山之石，可以攻玉。</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br>
+            
+            Home
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br>
+            
+            Categories
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br>
+            
+            About
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br>
+            
+            Archives
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br>
+            
+            Tags
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2016/05/07/Awesome Java QAs/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="iljyya">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/uploads/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="iljyya">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                Awesome Java QAs
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2016-05-07T21:17:45+08:00">
+                2016-05-07
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+            <!--noindex-->
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2016/05/07/Awesome Java QAs/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count hc-comment-count" data-xid="2016/05/07/Awesome Java QAs/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+              <!--/noindex-->
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h3 id="Java中是否可以覆盖-override-一个private或者是static的方法"><a href="#Java中是否可以覆盖-override-一个private或者是static的方法" class="headerlink" title="Java中是否可以覆盖(override)一个private或者是static的方法?"></a>Java中是否可以覆盖(override)一个private或者是static的方法?</h3><p>static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。<br>无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。<br>static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。</p>
+<h3 id="Java支持的数据类型有哪些？什么是自动拆装箱？"><a href="#Java支持的数据类型有哪些？什么是自动拆装箱？" class="headerlink" title="Java支持的数据类型有哪些？什么是自动拆装箱？"></a>Java支持的数据类型有哪些？什么是自动拆装箱？</h3><p> byte short int long float double boolean char<br> 把int转化成Integer是自动装箱。反之就是自动拆箱。<br><a id="more"></a></p>
+<h3 id="Java为什么不支持多继承"><a href="#Java为什么不支持多继承" class="headerlink" title="Java为什么不支持多继承?"></a>Java为什么不支持多继承?</h3><p>多继承指一个子类能同时继承于多个父类，从而同时拥有多个父类的特征，但缺点是显著的。<br>1.若子类继承的父类中拥有相同的成员变量，子类在引用该变量时将无法判别使用哪个父类的成员变量。<br>2.若一个子类继承的多个父类拥有相同方法，同时子类并未覆盖该方法（若覆盖，则直接使用子类中该方法），那么调用该方法时将无法确定调用哪个父类的方法。<br>因此，Java仅允许单继承，即一个子类只能继承于一个父类。但为了拓展子类的功能，Java使用接口以克服不使用多继承带来的不足。<br>接口是一个特殊的抽象类，接口中成员变量均默认为 static final 类型，即常量，且接口中的方法都为抽象的，都没有方法体。<br>具体方法只能由实现接口的类实现，在调用的时候始终只会调用实现类的方法（不存在歧义），因此不存在多继承的第二个缺点；而又因为接口只有静态的常量，但是由于静态变量是在编译期决定调用关系的，即使存在一定的冲突也会在编译时提示出错；而引用静态变量一般直接使用类名或接口名，从而避免产生歧义，因此也不存在多继承的第一个缺点。对于一个接口继承多个父接口的情况也一样不存在这些缺点。</p>
+<h3 id="java中的值传递和引用传递到底有什么区别"><a href="#java中的值传递和引用传递到底有什么区别" class="headerlink" title="java中的值传递和引用传递到底有什么区别?"></a>java中的值传递和引用传递到底有什么区别?</h3><p>值传递：(形式参数类型是基本数据类型)：方法调用时，实际参数把它的值传递给对应的形式参数，形式参数只是用实际参数的值初始化自己的存储单元内容，是两个不同的存储单元，所以方法执行中形式参数值的改变不影响实际参数的值。<br>引用传递：(形式参数类型是引用数据类型参数)：也称为传地址。方法调用时，实际参数是对象(或数组)，这时实际参数与形式参数指向同一个地址，在方法执行中，对形式参数的操作实际上就是对实际参数的操作，这个结果在方法结束后被保留了下来，所以方法执行中形式参数的改变将会影响实际参数。</p>
+<h3 id="java创建线程的方式和区别？"><a href="#java创建线程的方式和区别？" class="headerlink" title="java创建线程的方式和区别？"></a>java创建线程的方式和区别？</h3><p>采用实现Runnable、Callable接口的方式创见多线程时，优势是：线程类只是实现了Runnable接口或Callable接口，还可以继承其他类。在这种方式下，多个线程可以共享同一个target对象，所以非常适合多个相同线程来处理同一份资源的情况，从而可以将CPU、代码和数据分开，形成清晰的模型，较好地体现了面向对象的思想。<br>劣势是：编程稍微复杂，如果要访问当前线程，则必须使用Thread.currentThread()方法。<br>使用继承Thread类的方式创建多线程时优势是：编写简单，如果需要访问当前线程，则无需使用Thread.currentThread()方法，直接使用this即可获得当前线程。<br>劣势是：线程类已经继承了Thread类，所以不能再继承其他父类。<br><a href="http://blog.csdn.net/longshengguoji/article/details/41126119" target="_blank" rel="external">原文</a></p>
+<h3 id="HashMap和Hashtable的区别"><a href="#HashMap和Hashtable的区别" class="headerlink" title="HashMap和Hashtable的区别"></a>HashMap和Hashtable的区别</h3><p>HashMap是Hashtable的轻量级实现（非线程安全的实现），他们都完成了Map接口，主要区别在于HashMap允许空（null）键值（key）,由于非线程安全，效率上可能高于Hashtable。HashMap允许将null作为一个entry的key或者value，而Hashtable不允许。<br>HashMap把Hashtable的contains方法去掉了，改成containsvalue和containsKey。因为contains方法容易让人引起误解。Hashtable继承自Dictionary类，而HashMap是Java1.2引进的Mapinterface的一个实现。<br>最大的不同是，Hashtable的方法是Synchronize的，而HashMap不是，在多个线程访问Hashtable时，不需要自己为它的方法实现同步，而HashMap 就必须为之提供外同步。 Hashtable和HashMap采用的hash/rehash算法都大概一样，所以性能不会有很大的差别。<br><a href="http://www.cnblogs.com/langtianya/archive/2013/03/19/2970273.html" target="_blank" rel="external">references</a></p>
+<h3 id="Java接口与抽象类的区别"><a href="#Java接口与抽象类的区别" class="headerlink" title="Java接口与抽象类的区别?"></a>Java接口与抽象类的区别?</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">interface</span> <span class="title">Alram</span> </span>&#123;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">alarm</span><span class="params">()</span></span>;</div><div class="line">&#125;</div><div class="line"> </div><div class="line"><span class="keyword">abstract</span> <span class="class"><span class="keyword">class</span> <span class="title">Door</span> </span>&#123;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">open</span><span class="params">()</span></span>;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">close</span><span class="params">()</span></span>;</div><div class="line">&#125;</div><div class="line"> </div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">AlarmDoor</span> <span class="keyword">extends</span> <span class="title">Door</span> <span class="keyword">implements</span> <span class="title">Alarm</span> </span>&#123;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">oepn</span><span class="params">()</span> </span>&#123;</div><div class="line">      <span class="comment">//....</span></div><div class="line">    &#125;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">close</span><span class="params">()</span> </span>&#123;</div><div class="line">      <span class="comment">//....</span></div><div class="line">    &#125;</div><div class="line">    <span class="function"><span class="keyword">void</span> <span class="title">alarm</span><span class="params">()</span> </span>&#123;</div><div class="line">      <span class="comment">//....</span></div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p><a href="http://www.cnblogs.com/dolphin0520/p/3811437.html" target="_blank" rel="external">references</a></p>
+<h3 id="java中的四大特性"><a href="#java中的四大特性" class="headerlink" title="java中的四大特性?"></a>java中的四大特性?</h3><p>抽象: 把现实中需要处理的事物通过数据的方法表达出来<br>封装: 把事物的数据和方法用类的方式集合起来<br>继承: 封装的数据和方法通过继承来实现重用<br>多态: 同一个方法通过方法的重载实现不同的逻辑</p>
+<h3 id="java-socket编程？"><a href="#java-socket编程？" class="headerlink" title="java socket编程？"></a>java socket编程？</h3><p><a href="http://blog.csdn.net/lovesummerforever/article/details/8813343" target="_blank" rel="external">原文</a></p>
+<h3 id="Callable和Runnable的区别？"><a href="#Callable和Runnable的区别？" class="headerlink" title="Callable和Runnable的区别？"></a>Callable和Runnable的区别？</h3><p>Runnable只有一个run()函数，用于将耗时操作写在其中，该函数没有返回值。然后使用某个线程去执行该runnable即可实现多线程，Thread类在调用start()函数后就是执行的是Runnable的run()函数。<br>Callable与Runnable的功能大致相似，Callable中有一个call()函数，但是call()函数有返回值，而Runnable的run()函数不能将结果返回给客户程序。<br><a href="http://blog.csdn.net/bboyfeiyu/article/details/24851847?utm_source=tuicool&amp;utm_medium=referral" target="_blank" rel="external">原文</a></p>
+      
+    </div>
+
+    <div>
+      
+        
+<div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
+    <img id="wechat_subscriber_qcode" src="/uploads/wechat-qcode.png" alt="iljyya wechat" style="width: 200px; max-width: 100%">
+    <div>欢迎关注我的微信公众号</div>
+</div>
+
+
+      
+    </div>
+
+    <div>
+      
+        
+  <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center">
+    <div>坚持原创技术分享，您的支持将鼓励我继续创作！</div>
+    <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+      <span>赏</span>
+    </button>
+    <div id="QR" style="display: none">
+      
+        <div id="wechat" style="display: inline-block">
+          <img id="wechat_qr" src="/uploads/wechat_pay.png" alt="iljyya WeChat Pay">
+          <p>微信打赏</p>
+        </div>
+      
+      
+        <div id="alipay" style="display: inline-block">
+          <img id="alipay_qr" src="/uploads/ali_pay.jpg" alt="iljyya Alipay">
+          <p>支付宝打赏</p>
+        </div>
+      
+    </div>
+  </div>
+
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/java/" rel="tag"># java</a>
+          
+        </div>
+      
+
+      
+        
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2016/08/13/Chrome插件推荐/" rel="next" title="Chrome插件推荐">
+                <i class="fa fa-chevron-left"></i> Chrome插件推荐
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2016/05/05/使用sublime-Text-3进行java编程/" rel="prev" title="使用sublime-Text-3进行java编程">
+                使用sublime-Text-3进行java编程 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+        <!-- JiaThis Button BEGIN -->
+<div class="jiathis_style">
+  <a class="jiathis_button_tsina"></a>
+  <a class="jiathis_button_tqq"></a>
+  <a class="jiathis_button_weixin"></a>
+  <a class="jiathis_button_cqq"></a>
+  <a class="jiathis_button_douban"></a>
+  <a class="jiathis_button_renren"></a>
+  <a class="jiathis_button_qzone"></a>
+  <a class="jiathis_button_kaixin001"></a>
+  <a class="jiathis_button_copy"></a>
+  <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+  <a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript">
+  var jiathis_config={
+    hideMore:false
+  }
+</script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+      <div id="hypercomments_widget"></div>
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image" src="/uploads/avatar.jpg" alt="iljyya">
+          <p class="site-author-name" itemprop="name">iljyya</p>
+           
+              <p class="site-description motion-element" itemprop="description">他山之石，可以攻玉。</p>
+          
+        </div>
+        <nav class="site-state motion-element">
+
+          
+            <div class="site-state-item site-state-posts">
+              <a href="/archives">
+                <span class="site-state-item-count">15</span>
+                <span class="site-state-item-name">posts</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-categories">
+              <a href="/categories/index.html">
+                <span class="site-state-item-count">11</span>
+                <span class="site-state-item-name">categories</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-tags">
+              <a href="/tags/index.html">
+                <span class="site-state-item-count">11</span>
+                <span class="site-state-item-name">tags</span>
+              </a>
+            </div>
+          
+
+        </nav>
+
+        
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/iljyya" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://open.weixin.qq.com/qr/code/?username=iljyya_g" target="_blank" title="Wechat">
+                  
+                    <i class="fa fa-fw fa-wechat"></i>
+                  
+                  Wechat
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://weibo.com/5945191508" target="_blank" title="微博">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  微博
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="956929949" target="_blank" title="QQ">
+                  
+                    <i class="fa fa-fw fa-qq"></i>
+                  
+                  QQ
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://douban.com/people/iljyya" target="_blank" title="豆瓣">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  豆瓣
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://www.zhihu.com/people/zhangjiajie-44" target="_blank" title="知乎">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  知乎
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+
+        
+
+
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#Java中是否可以覆盖-override-一个private或者是static的方法"><span class="nav-number">1.</span> <span class="nav-text">Java中是否可以覆盖(override)一个private或者是static的方法?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Java支持的数据类型有哪些？什么是自动拆装箱？"><span class="nav-number">2.</span> <span class="nav-text">Java支持的数据类型有哪些？什么是自动拆装箱？</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Java为什么不支持多继承"><span class="nav-number">3.</span> <span class="nav-text">Java为什么不支持多继承?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#java中的值传递和引用传递到底有什么区别"><span class="nav-number">4.</span> <span class="nav-text">java中的值传递和引用传递到底有什么区别?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#java创建线程的方式和区别？"><span class="nav-number">5.</span> <span class="nav-text">java创建线程的方式和区别？</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#HashMap和Hashtable的区别"><span class="nav-number">6.</span> <span class="nav-text">HashMap和Hashtable的区别</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Java接口与抽象类的区别"><span class="nav-number">7.</span> <span class="nav-text">Java接口与抽象类的区别?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#java中的四大特性"><span class="nav-number">8.</span> <span class="nav-text">java中的四大特性?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#java-socket编程？"><span class="nav-number">9.</span> <span class="nav-text">java socket编程？</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Callable和Runnable的区别？"><span class="nav-number">10.</span> <span class="nav-text">Callable和Runnable的区别？</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">
+  
+  &copy;  2010 - 
+  <span itemprop="copyrightYear">2017</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">iljyya</span>
+</div>
+
+
+<div class="powered-by">
+  Powered by <a class="theme-link" href="https://hexo.io">Hexo</a>
+</div>
+
+<div class="theme-info">
+  Theme -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Pisces
+  </a>
+</div>
+
+
+        
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.1"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.1"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.1"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.1"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.1"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.1"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.1"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+		<script type="text/javascript">
+		_hcwp = window._hcwp || [];
+
+		_hcwp.push({widget:"Bloggerstream", widget_id: 90307, selector:".hc-comment-count", label: "{\%COUNT%\}" });
+
+		
+		_hcwp.push({widget:"Stream", widget_id: 90307, xid: "2016/05/07/Awesome Java QAs/"});
+		
+
+		(function() {
+		if("HC_LOAD_INIT" in window)return;
+		HC_LOAD_INIT = true;
+		var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
+		var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+		hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/90307/"+lang+"/widget.js";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hcc, s.nextSibling);
+		})();
+		</script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
