@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[秒级编译工具 FREELINE 从入门到上天]]></title>
+    <url>%2F2017%2F05%2F09%2F%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9%2F</url>
+    <content type="text"><![CDATA[IntroFreeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。 Usage装个python，目录加到path 加个依赖 下个插件 重启AS 第一次编译完，以后点这个。 参考文献：http://stormzhang.com/2016/12/02/android-seconds-build-freeline/https://github.com/alibaba/freeline]]></content>
+      <categories>
+        <category>Android Studio</category>
+      </categories>
+      <tags>
+        <tag>Android Studio</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Shadowsocks 从出门到出墙]]></title>
     <url>%2F2017%2F05%2F04%2FShadowsocks-%E4%BB%8E%E5%87%BA%E9%97%A8%E5%88%B0%E5%87%BA%E5%A2%99%2F</url>
     <content type="text"><![CDATA[购买https://portal.shadowsocks.com.hk 110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！ Windows下载shadowsockshttps://github.com/shadowsocks/shadowsocks-windows/releases下个json文件就配置好了。 Android下载影梭 http://pan.baidu.com/s/1jInUO1w 密码：m5sg配置不要手动填写，有点low，要扫描二维码。 IOSApp store下载shadowrocket ，只要18元。 iyingsuo.com帮朋友买过，100元/年，效果尚可。「我的产品」 在chrome点不开，换360浏览器打开了，很尴尬。 稳翻飞关注公众号购买，22/月，33/月两种，朋友说很快。]]></content>
@@ -67,17 +78,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[秒级编译工具 FREELINE 从入门到上天]]></title>
-    <url>%2F2017%2F04%2F09%2F%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9%2F</url>
-    <content type="text"><![CDATA[IntroFreeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。 Usage装个python，目录加到path 加个依赖 下个插件 重启AS 第一次编译完，以后点这个。 参考文献：http://stormzhang.com/2016/12/02/android-seconds-build-freeline/https://github.com/alibaba/freeline]]></content>
-      <categories>
-        <category>Android Studio</category>
-      </categories>
-      <tags>
-        <tag>Android Studio</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[React Native 从入门到踩坑]]></title>
     <url>%2F2017%2F03%2F13%2FReact-Native-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91%2F</url>
     <content type="text"><![CDATA[Get started.http://reactnative.cn/docs/0.42/getting-started.html#content Forumhttp://bbs.reactnative.cn/category/4/求助专区 Q: gradle download slow.A: copy and download link like:https://services.gradle.org/distributions/gradle-2.14.1-all.zipput zip inC:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\8bnwg5hd3w55iofp58khbp6yvB:freeGate http://www.cnblogs.com/zhang-cb/p/6065118.htmlC: app\gradle.propertiesadd12345systemProp.http.proxyHost=android-mirror.bugly.qq.comsystemProp.http.proxyPort=8080org.gradle.jvmargs=-Xmx2048m -XX\:MaxPermSize\=512m -XX\:+HeapDumpOnOutOfMemoryError -Dfile.encoding\=UTF-8org.gradle.parallel=truetarget-sdk=23 read more: http://hucaihua.cn/2015/06/06/android_studio_problem/ Q: sdk not definedsys env var add%ANDROID_HOME%path add%ANDROID_HOME%;%ANDROID_HOME%\platform-tools; Q: copy in cmd标记 选中 回车 Q: Could not create ADB Bridgesettings-ADB-Use custom SDK tools.Restart genymotionread more: http://stackoverflow.com/questions/35959350/react-native-android-genymotion-adb-server-didnt-ack Q: adb wifi1 usb connect, enable USB Debugging2 cmd adb tcpip 55553 adb connect 192.168.1.***back to usb mode: adb usbshow devices: adb devicesstop adb wifi:adb tcpip -1adb wifi 不稳定 Q: failed to install all/ Unable to upload some APKs (真机测试)android/build.gradlechange version to 1.2.3change ProjectDir\android\gradle\wrapper\gradle-wrapper.propertiesurl to gradle-2.2-all.zipcmd adb reverse tcp:8081 tcp:8081read more: http://blog.csdn.net/yk377657321/article/details/53036788 Q:开启Gradle Daemondir .gradlecreat file gradle.propertiesaddorg.gradle.daemon=true Q: 官网找不到Genymotion下载，提示收费。先登录，点下载，滑到下面就有了。 Q: Genymotion: Unable to create Virtual Device: Connection timeout.A: Check the /home/user/.Genymobile/Genymotion/genymotion.log file and at last 10 lines of the file you will get somthing like this:http://dl.genymotion.com/dists/6.0.0/ova/genymotion_vbox86p_6.0_160825_141918.ovadownload and put this image file to /home/user/.Genymobile/Genymotion/ova/ and restart Genymotion and add this device.参考链接： http://stackoverflow.com/questions/19700646/unable-to-create-genymotion-virtual-devicesconnection-timeout Q:error:device offline重启模拟器，实在不行就：adb kill-serveradb start-serveradb remount` Q:真机测试始终白屏手机设置，项目APP开启桌面悬浮窗权限 Q:真机摇一摇没反应手机设置，项目APP开启桌面悬浮窗权限]]></content>
@@ -86,6 +86,17 @@
       </categories>
       <tags>
         <tag>React Native</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[下拉菜单的4种解法]]></title>
+    <url>%2F2017%2F02%2F15%2F%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95%2F</url>
+    <content type="text"><![CDATA[Html + Css默认不显示，指针经过就显示 js 自己实现定义两个方法html调用 jquery 实现用封装好的mouseover和mouseout方法 bootstrap 没有最懒，只有更懒class 和 date-toggle直接写标签里 源码：123：http://www.imooc.com/learn/124: http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>web</tag>
       </tags>
   </entry>
   <entry>

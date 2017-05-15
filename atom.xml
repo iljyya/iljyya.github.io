@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-04T09:48:21.250Z</updated>
+  <updated>2017-05-15T01:15:55.622Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>秒级编译工具 FREELINE 从入门到上天</title>
+    <link href="http://yoursite.com/2017/05/09/%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9/"/>
+    <id>http://yoursite.com/2017/05/09/秒级编译工具-FREELINE-从入门到上天/</id>
+    <published>2017-05-09T02:17:22.000Z</published>
+    <updated>2017-05-15T01:15:55.622Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><p>Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。</p>
+<h3 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h3><p>装个python，目录加到path<br> 加个依赖</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-33dd73a7e0a4c482.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p> 下个插件</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-4d0118ac8bb326b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p> 重启AS<br><img src="http://upload-images.jianshu.io/upload_images/49483-f6e87da6b40f807a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>第一次编译完，以后点这个。<br><img src="http://upload-images.jianshu.io/upload_images/49483-5fb6210780f05ffb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>参考文献：<br><a href="http://stormzhang.com/2016/12/02/android-seconds-build-freeline/" target="_blank" rel="external">http://stormzhang.com/2016/12/02/android-seconds-build-freeline/</a><br><a href="https://github.com/alibaba/freeline" target="_blank" rel="external">https://github.com/alibaba/freeline</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Intro&quot;&gt;&lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h3&gt;&lt;p&gt;Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，
+    
+    </summary>
+    
+      <category term="Android Studio" scheme="http://yoursite.com/categories/Android-Studio/"/>
+    
+    
+      <category term="Android Studio" scheme="http://yoursite.com/tags/Android-Studio/"/>
+    
+  </entry>
   
   <entry>
     <title>Shadowsocks 从出门到出墙</title>
@@ -114,7 +143,7 @@
     <link href="http://yoursite.com/2017/04/23/hexo%20theme%20Material/"/>
     <id>http://yoursite.com/2017/04/23/hexo theme Material/</id>
     <published>2017-04-23T06:07:32.000Z</published>
-    <updated>2017-05-04T05:37:38.982Z</updated>
+    <updated>2017-05-05T08:45:34.232Z</updated>
     
     <content type="html"><![CDATA[<h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-<span class="keyword">cli</span></div></pre></td></tr></table></figure>
 <h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><p><a href="https://material.viosey.com/start/" target="_blank" rel="external">https://material.viosey.com/start/</a></p>
@@ -197,35 +226,6 @@
   </entry>
   
   <entry>
-    <title>秒级编译工具 FREELINE 从入门到上天</title>
-    <link href="http://yoursite.com/2017/04/09/%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9/"/>
-    <id>http://yoursite.com/2017/04/09/秒级编译工具-FREELINE-从入门到上天/</id>
-    <published>2017-04-09T02:17:22.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><p>Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。</p>
-<h3 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h3><p>装个python，目录加到path<br> 加个依赖</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-33dd73a7e0a4c482.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p> 下个插件</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-4d0118ac8bb326b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p> 重启AS<br><img src="http://upload-images.jianshu.io/upload_images/49483-f6e87da6b40f807a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>第一次编译完，以后点这个。<br><img src="http://upload-images.jianshu.io/upload_images/49483-5fb6210780f05ffb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>参考文献：<br><a href="http://stormzhang.com/2016/12/02/android-seconds-build-freeline/" target="_blank" rel="external">http://stormzhang.com/2016/12/02/android-seconds-build-freeline/</a><br><a href="https://github.com/alibaba/freeline" target="_blank" rel="external">https://github.com/alibaba/freeline</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;Intro&quot;&gt;&lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h3&gt;&lt;p&gt;Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，
-    
-    </summary>
-    
-      <category term="Android Studio" scheme="http://yoursite.com/categories/Android-Studio/"/>
-    
-    
-      <category term="Android Studio" scheme="http://yoursite.com/tags/Android-Studio/"/>
-    
-  </entry>
-  
-  <entry>
     <title>React Native 从入门到踩坑</title>
     <link href="http://yoursite.com/2017/03/13/React-Native-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/"/>
     <id>http://yoursite.com/2017/03/13/React-Native-从入门到踩坑/</id>
@@ -258,6 +258,32 @@
     
     
       <category term="React Native" scheme="http://yoursite.com/tags/React-Native/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>下拉菜单的4种解法</title>
+    <link href="http://yoursite.com/2017/02/15/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95/"/>
+    <id>http://yoursite.com/2017/02/15/下拉菜单的4种解法/</id>
+    <published>2017-02-15T01:12:53.000Z</published>
+    <updated>2017-05-15T01:26:34.275Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Html-Css"><a href="#Html-Css" class="headerlink" title="Html + Css"></a>Html + Css</h3><p>默认不显示，指针经过就显示<br><img src="http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="js-自己实现"><a href="#js-自己实现" class="headerlink" title="js 自己实现"></a>js 自己实现</h3><p>定义两个方法<br><img src="http://upload-images.jianshu.io/upload_images/49483-4a1c0bcf47162d8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>html调用<br><img src="http://upload-images.jianshu.io/upload_images/49483-c422dc30781388c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="jquery-实现"><a href="#jquery-实现" class="headerlink" title="jquery 实现"></a>jquery 实现</h3><p>用封装好的mouseover和mouseout方法<br><img src="http://upload-images.jianshu.io/upload_images/49483-f40ccd3aaa460c04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"></p>
+<h3 id="bootstrap-没有最懒，只有更懒"><a href="#bootstrap-没有最懒，只有更懒" class="headerlink" title="bootstrap 没有最懒，只有更懒"></a>bootstrap 没有最懒，只有更懒</h3><p>class 和 date-toggle直接写标签里<br><img src="http://upload-images.jianshu.io/upload_images/49483-908b945312c14cf0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="源码："><a href="#源码：" class="headerlink" title="源码："></a>源码：</h3><h4 id="123：http-www-imooc-com-learn-12"><a href="#123：http-www-imooc-com-learn-12" class="headerlink" title="123：http://www.imooc.com/learn/12"></a>123：<a href="http://www.imooc.com/learn/12" target="_blank" rel="external">http://www.imooc.com/learn/12</a></h4><h4 id="4-http-www-runoob-com-try-try2-php-filename-bootstrap3-plugin-dropdown-defaultnavbar"><a href="#4-http-www-runoob-com-try-try2-php-filename-bootstrap3-plugin-dropdown-defaultnavbar" class="headerlink" title="4: http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar"></a>4: <a href="http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar" target="_blank" rel="external">http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar</a></h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Html-Css&quot;&gt;&lt;a href=&quot;#Html-Css&quot; class=&quot;headerlink&quot; title=&quot;Html + Css&quot;&gt;&lt;/a&gt;Html + Css&lt;/h3&gt;&lt;p&gt;默认不显示，指针经过就显示&lt;br&gt;&lt;img src=&quot;http://upload-i
+    
+    </summary>
+    
+      <category term="web" scheme="http://yoursite.com/categories/web/"/>
+    
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   
