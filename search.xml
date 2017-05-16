@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Sublime text 3126 中文文件名显示方框]]></title>
+    <url>%2F2017%2F05%2F16%2FSublime-text-3126-%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%BE%E7%A4%BA%E6%96%B9%E6%A1%86%2F</url>
+    <content type="text"><![CDATA[问题根本Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。 解决方法Preferences-Settings-User 加上&quot;dpi_scale&quot;: 1.0但字会变很小，详细解决方法：https://www.zhihu.com/question/24029280 奇遇折腾半天发现Sublime text Dev channel 3130解决了这个bug，但是需要巨款注册，不过有特俗渠道：thepiratebay, cracknow.哈哈，塞翁失马！]]></content>
+      <categories>
+        <category>Sublime text</category>
+      </categories>
+      <tags>
+        <tag>Sublime text</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[秒级编译工具 FREELINE 从入门到上天]]></title>
     <url>%2F2017%2F05%2F09%2F%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9%2F</url>
     <content type="text"><![CDATA[IntroFreeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。 Usage装个python，目录加到path 加个依赖 下个插件 重启AS 第一次编译完，以后点这个。 参考文献：http://stormzhang.com/2016/12/02/android-seconds-build-freeline/https://github.com/alibaba/freeline]]></content>
@@ -53,6 +64,17 @@
       </categories>
       <tags>
         <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Sublime Text 3 Plugin]]></title>
+    <url>%2F2017%2F04%2F15%2FSublime-Text-3-Plugin%2F</url>
+    <content type="text"><![CDATA[安装插件方法Ctrl + Shift + P 输入 install 回车 搜索插件名回车安装，重启即可生效 AlignmentBefore: 选中 Ctrl + Alt + A : Vim模式Preferences - Settings ，vintage 去掉这时按 esc 和 i 键可以在左下角左下角看到 COMMAND MODE 和 INSERT MODE的切换了 简明 VIM 练级攻略http://coolshell.cn/articles/5426.html cTags追踪函数功能，ST3 已经自带，ST2 可以装 Gitinit之后就可以用了 参考资料http://stormzhang.com/devtools/2012/12/30/sublime-plugin/]]></content>
+      <categories>
+        <category>Sublime Text</category>
+      </categories>
+      <tags>
+        <tag>Sublime Text</tag>
       </tags>
   </entry>
   <entry>

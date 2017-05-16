@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-15T01:15:55.622Z</updated>
+  <updated>2017-05-16T04:24:25.181Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Sublime text 3126 中文文件名显示方框</title>
+    <link href="http://yoursite.com/2017/05/16/Sublime-text-3126-%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%BE%E7%A4%BA%E6%96%B9%E6%A1%86/"/>
+    <id>http://yoursite.com/2017/05/16/Sublime-text-3126-中文文件名显示方框/</id>
+    <published>2017-05-16T04:17:10.000Z</published>
+    <updated>2017-05-16T04:24:25.181Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="问题根本"><a href="#问题根本" class="headerlink" title="问题根本"></a>问题根本</h3><p>Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。</p>
+<h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p><code>Preferences</code>-<code>Settings-User</code> 加上<code>&quot;dpi_scale&quot;: 1.0</code><br>但字会变很小，详细解决方法：<br><a href="https://www.zhihu.com/question/24029280" target="_blank" rel="external">https://www.zhihu.com/question/24029280</a></p>
+<h3 id="奇遇"><a href="#奇遇" class="headerlink" title="奇遇"></a>奇遇</h3><p>折腾半天发现Sublime text Dev channel 3130解决了这个bug，但是需要巨款注册，不过有特俗渠道：thepiratebay, cracknow.<br>哈哈，塞翁失马！</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-413b3cdf34c40471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;问题根本&quot;&gt;&lt;a href=&quot;#问题根本&quot; class=&quot;headerlink&quot; title=&quot;问题根本&quot;&gt;&lt;/a&gt;问题根本&lt;/h3&gt;&lt;p&gt;Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。&lt;/p&gt;
+&lt;h3 id=&quot;解决方法&quot;&gt;&lt;a hre
+    
+    </summary>
+    
+      <category term="Sublime text" scheme="http://yoursite.com/categories/Sublime-text/"/>
+    
+    
+      <category term="Sublime text" scheme="http://yoursite.com/tags/Sublime-text/"/>
+    
+  </entry>
+  
+  <entry>
     <title>秒级编译工具 FREELINE 从入门到上天</title>
     <link href="http://yoursite.com/2017/05/09/%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9/"/>
     <id>http://yoursite.com/2017/05/09/秒级编译工具-FREELINE-从入门到上天/</id>
     <published>2017-05-09T02:17:22.000Z</published>
-    <updated>2017-05-15T01:15:55.622Z</updated>
+    <updated>2017-05-15T01:15:56.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><p>Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。</p>
 <h3 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h3><p>装个python，目录加到path<br> 加个依赖</p>
@@ -49,7 +75,7 @@
     <link href="http://yoursite.com/2017/05/04/Shadowsocks-%E4%BB%8E%E5%87%BA%E9%97%A8%E5%88%B0%E5%87%BA%E5%A2%99/"/>
     <id>http://yoursite.com/2017/05/04/Shadowsocks-从出门到出墙/</id>
     <published>2017-05-04T08:58:15.000Z</published>
-    <updated>2017-05-04T09:48:21.250Z</updated>
+    <updated>2017-05-04T09:48:22.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h3><p><a href="https://portal.shadowsocks.com.hk" target="_blank" rel="external">https://portal.shadowsocks.com.hk</a></p>
 <p><img src="http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！</p>
@@ -77,7 +103,7 @@
     <link href="http://yoursite.com/2017/05/04/%E5%A4%9C%E5%8D%8A%E6%B1%BD%E7%AC%9B%E5%A3%B0-%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91/"/>
     <id>http://yoursite.com/2017/05/04/夜半汽笛声-村上春树/</id>
     <published>2017-05-04T05:41:20.000Z</published>
-    <updated>2017-05-12T12:29:42.636Z</updated>
+    <updated>2017-05-12T12:29:44.000Z</updated>
     
     <content type="html"><![CDATA[<p>女孩问男孩：「你怎么样的喜欢我？」<br>少年想了想，声音低沉地回答说：「就像喜欢夜半的汽笛声一样。」<br>少女默默地等着他说下去，他一定会加以说明的。<br>「有一天半夜里我忽然醒了。」他说：「正确的时间不知道，大概是两点<br>或三点吧，但那时是几点并不重要。总之，是半夜里，我独自一个人，没有<br>谁在我旁边。你试想像这种情形。四周黑漆漆，什么都看不见，没有一点声<br>音，连时钟的针刻着时间的声音都听不见–也许是时钟停了。而我突然感到<br>自己被隔离在一处遥远的谁也不知道的地方。我体会到在这广大的世界上，<br>没有谁爱我，没有谁跟我说话，没有谁会想到我。即使我就这样从世界上消<br>失了，也没有谁会发觉到吧？就像被装在大铁箱沉入深海的心情。因为气压<br>我觉得心脏痛，痛得几乎会撕裂成两半–你体会得出这种感觉吧？」</p>
 <p>少女点点头。大概是了解的吧。</p>
@@ -102,7 +128,7 @@
     <link href="http://yoursite.com/2017/04/30/Hexo-theme-Next%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%81%B0%E5%A4%B4%E5%9C%9F%E8%84%B8/"/>
     <id>http://yoursite.com/2017/04/30/Hexo-theme-Next从入门到灰头土脸/</id>
     <published>2017-04-30T08:57:56.000Z</published>
-    <updated>2017-05-04T08:24:19.059Z</updated>
+    <updated>2017-05-04T08:24:20.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="头像"><a href="#头像" class="headerlink" title="头像"></a>头像</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-07a5171344471232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
 <h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-8aa46ad39385fa9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
@@ -143,7 +169,7 @@
     <link href="http://yoursite.com/2017/04/23/hexo%20theme%20Material/"/>
     <id>http://yoursite.com/2017/04/23/hexo theme Material/</id>
     <published>2017-04-23T06:07:32.000Z</published>
-    <updated>2017-05-05T08:45:34.232Z</updated>
+    <updated>2017-05-05T08:45:36.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-<span class="keyword">cli</span></div></pre></td></tr></table></figure>
 <h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><p><a href="https://material.viosey.com/start/" target="_blank" rel="external">https://material.viosey.com/start/</a></p>
@@ -168,6 +194,37 @@
     
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sublime Text 3 Plugin</title>
+    <link href="http://yoursite.com/2017/04/15/Sublime-Text-3-Plugin/"/>
+    <id>http://yoursite.com/2017/04/15/Sublime-Text-3-Plugin/</id>
+    <published>2017-04-15T02:40:59.000Z</published>
+    <updated>2017-05-15T03:08:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="安装插件方法"><a href="#安装插件方法" class="headerlink" title="安装插件方法"></a>安装插件方法</h3><p>Ctrl + Shift + P 输入 install 回车</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-f124a8cc632ad0e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>搜索插件名回车安装，重启即可生效</p>
+<h3 id="Alignment"><a href="#Alignment" class="headerlink" title="Alignment"></a>Alignment</h3><p>Before:</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-38e8148640159de5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>选中 Ctrl + Alt + A :<br><img src="http://upload-images.jianshu.io/upload_images/49483-ab0413e7e033d2f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="Vim模式"><a href="#Vim模式" class="headerlink" title="Vim模式"></a>Vim模式</h3><p>Preferences - Settings ，vintage 去掉<br><img src="http://upload-images.jianshu.io/upload_images/49483-043a9aa35da439a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>这时按 esc 和 i 键可以在左下角左下角看到 COMMAND MODE 和 INSERT MODE的切换了</p>
+<h4 id="简明-VIM-练级攻略"><a href="#简明-VIM-练级攻略" class="headerlink" title="简明 VIM 练级攻略"></a>简明 VIM 练级攻略</h4><p><a href="http://coolshell.cn/articles/5426.html" target="_blank" rel="external">http://coolshell.cn/articles/5426.html</a></p>
+<h3 id="cTags"><a href="#cTags" class="headerlink" title="cTags"></a>cTags</h3><p>追踪函数功能，ST3 已经自带，ST2 可以装</p>
+<h3 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-7ee29d378f9d5733.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>init之后就可以用了<br><img src="http://upload-images.jianshu.io/upload_images/49483-f3b007a79b153b45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a href="http://stormzhang.com/devtools/2012/12/30/sublime-plugin/" target="_blank" rel="external">http://stormzhang.com/devtools/2012/12/30/sublime-plugin/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;安装插件方法&quot;&gt;&lt;a href=&quot;#安装插件方法&quot; class=&quot;headerlink&quot; title=&quot;安装插件方法&quot;&gt;&lt;/a&gt;安装插件方法&lt;/h3&gt;&lt;p&gt;Ctrl + Shift + P 输入 install 回车&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http:/
+    
+    </summary>
+    
+      <category term="Sublime Text" scheme="http://yoursite.com/categories/Sublime-Text/"/>
+    
+    
+      <category term="Sublime Text" scheme="http://yoursite.com/tags/Sublime-Text/"/>
     
   </entry>
   
@@ -266,7 +323,7 @@
     <link href="http://yoursite.com/2017/02/15/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95/"/>
     <id>http://yoursite.com/2017/02/15/下拉菜单的4种解法/</id>
     <published>2017-02-15T01:12:53.000Z</published>
-    <updated>2017-05-15T01:26:34.275Z</updated>
+    <updated>2017-05-15T01:26:36.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Html-Css"><a href="#Html-Css" class="headerlink" title="Html + Css"></a>Html + Css</h3><p>默认不显示，指针经过就显示<br><img src="http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="js-自己实现"><a href="#js-自己实现" class="headerlink" title="js 自己实现"></a>js 自己实现</h3><p>定义两个方法<br><img src="http://upload-images.jianshu.io/upload_images/49483-4a1c0bcf47162d8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>html调用<br><img src="http://upload-images.jianshu.io/upload_images/49483-c422dc30781388c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
@@ -292,7 +349,7 @@
     <link href="http://yoursite.com/2016/09/15/CAD-%E4%BB%8E0%E5%88%B0%E7%94%BB%E8%AE%BE%E8%AE%A1%E5%9B%BE/"/>
     <id>http://yoursite.com/2016/09/15/CAD-从0到画设计图/</id>
     <published>2016-09-14T19:50:12.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
+    <updated>2017-05-16T04:13:23.796Z</updated>
     
     <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？<br>我之前自学过一点CAD，当场爽快答应。</p>
 <h3 id="下载CAD破解"><a href="#下载CAD破解" class="headerlink" title="下载CAD破解"></a>下载CAD破解</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-6595acc3b146b673.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>一个世纪过去安装完毕，XFORCE Keygen破解。</p>
@@ -372,7 +429,7 @@
     <link href="http://yoursite.com/2016/05/07/Awesome%20Java%20QAs/"/>
     <id>http://yoursite.com/2016/05/07/Awesome Java QAs/</id>
     <published>2016-05-07T13:17:45.000Z</published>
-    <updated>2017-05-04T05:37:50.311Z</updated>
+    <updated>2017-05-04T05:37:52.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Java中是否可以覆盖-override-一个private或者是static的方法"><a href="#Java中是否可以覆盖-override-一个private或者是static的方法" class="headerlink" title="Java中是否可以覆盖(override)一个private或者是static的方法?"></a>Java中是否可以覆盖(override)一个private或者是static的方法?</h3><p>static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。<br>无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。<br>static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。</p>
 <h3 id="Java支持的数据类型有哪些？什么是自动拆装箱？"><a href="#Java支持的数据类型有哪些？什么是自动拆装箱？" class="headerlink" title="Java支持的数据类型有哪些？什么是自动拆装箱？"></a>Java支持的数据类型有哪些？什么是自动拆装箱？</h3><p> byte short int long float double boolean char<br> 把int转化成Integer是自动装箱。反之就是自动拆箱。<br><a id="more"></a></p>
@@ -403,7 +460,7 @@
     <link href="http://yoursite.com/2016/05/05/%E4%BD%BF%E7%94%A8sublime-Text-3%E8%BF%9B%E8%A1%8Cjava%E7%BC%96%E7%A8%8B/"/>
     <id>http://yoursite.com/2016/05/05/使用sublime-Text-3进行java编程/</id>
     <published>2016-05-05T01:50:12.000Z</published>
-    <updated>2017-05-04T05:38:25.099Z</updated>
+    <updated>2017-05-04T05:38:26.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="实现sublime-Text-3对Java编译执行"><a href="#实现sublime-Text-3对Java编译执行" class="headerlink" title="实现sublime Text 3对Java编译执行"></a>实现sublime Text 3对Java编译执行</h3><p>直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：</p>
 <pre><code>{  
