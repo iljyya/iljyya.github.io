@@ -111,6 +111,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[open file in Cmd with Sublime on Win]]></title>
+    <url>%2F2017%2F02%2F16%2Fopen-file-in-Cmd-with-Sublime-on-Win%2F</url>
+    <content type="text"><![CDATA[设置方法add PathC:\Program Files\Sublime Text 3 安装目录加进去 开始使用subl是直接运行，加文件名是打开文件，加 . 是打开当前文件夹。 bash技巧输入文件名两三个字母时按tab 可以自动补全 总结很多时候简单的东西也是折腾了很久才发现的，但是自己动手解决了还是挺开心的。]]></content>
+      <categories>
+        <category>Sublime Text</category>
+      </categories>
+      <tags>
+        <tag>Sublime Text</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[下拉菜单的4种解法]]></title>
     <url>%2F2017%2F02%2F15%2F%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95%2F</url>
     <content type="text"><![CDATA[Html + Css默认不显示，指针经过就显示 js 自己实现定义两个方法html调用 jquery 实现用封装好的mouseover和mouseout方法 bootstrap 没有最懒，只有更懒class 和 date-toggle直接写标签里 源码：123：http://www.imooc.com/learn/124: http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar]]></content>
@@ -165,7 +176,7 @@
   <entry>
     <title><![CDATA[使用sublime-Text-3进行java编程]]></title>
     <url>%2F2016%2F05%2F05%2F%E4%BD%BF%E7%94%A8sublime-Text-3%E8%BF%9B%E8%A1%8Cjava%E7%BC%96%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[实现sublime Text 3对Java编译执行直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下： { &quot;shell_cmd&quot;: &quot;javaRun \&quot;$file\&quot;&quot;, &quot;file_regex&quot;: &quot;^(...*?):([0-9]*):?([0-9]*)&quot;, &quot;selector&quot;: &quot;source.java&quot;, &quot;encoding&quot;:&quot;cp936&quot; } 然后在jdk安装路径下的bin目录中新建一个javaRun.bat批处理文件，内容如下： @ECHO OFF cd %~dp1 ECHO Compiling %~nx1....... IF EXIST %~n1.class ( DEL %~n1.class ) javac %~nx1 IF EXIST %~n1.class ( ECHO -----------OUTPUT----------- java %~n1 ) 之后就可以使用ctrl+B 若显示编译显示[Decode error - output not utf-8]SublimeText3\Packages\Java.sublime-package\JavaC.sublime-build\添加 “encoding”:”cp936” 编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】将上述javaRun.bat修改为： [plain] view plain copy 在CODE上查看代码片派生到我的代码片 @ECHO OFF cd %~dp1 ECHO Compiling %~nx1....... IF EXIST %~n1.class ( DEL %~n1.class ) javac -encoding UTF-8 %~nx1 IF EXIST %~n1.class ( ECHO -----------OUTPUT----------- java %~n1 ) 原文]]></content>
+    <content type="text"><![CDATA[实现sublime Text 3对Java编译执行直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下： 123456&#123; "shell_cmd": "javaRun \"$file\"", "file_regex": "^(...*?):([0-9]*):?([0-9]*)", "selector": "source.java", "encoding":"cp936" &#125; 然后在jdk安装路径下的bin目录中新建一个javaRun.bat批处理文件，内容如下： 1234567891011@ECHO OFF cd %~dp1 ECHO Compiling %~nx1....... IF EXIST %~n1.class ( DEL %~n1.class ) javac %~nx1 IF EXIST %~n1.class ( ECHO -----------OUTPUT----------- java %~n1 ) 之后就可以使用ctrl+B 若显示编译显示[Decode error - output not utf-8]SublimeText3\Packages\Java.sublime-package\JavaC.sublime-build\添加 “encoding”:”cp936” 编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】将上述javaRun.bat修改为： [plain] view plain copy 在CODE上查看代码片派生到我的代码片 @ECHO OFF cd %~dp1 ECHO Compiling %~nx1....... IF EXIST %~n1.class ( DEL %~n1.class ) javac -encoding UTF-8 %~nx1 IF EXIST %~n1.class ( ECHO -----------OUTPUT----------- java %~n1 ) 原文]]></content>
       <categories>
         <category>java</category>
       </categories>

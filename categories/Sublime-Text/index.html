@@ -95,7 +95,7 @@
 <meta name="description" content="他山之石，可以攻玉。">
 <meta property="og:type" content="website">
 <meta property="og:title" content="iljyya">
-<meta property="og:url" content="http://yoursite.com/categories/Sublime-Text/index.html">
+<meta property="og:url" content="http://yoursite.com/categories/Sublime-text/index.html">
 <meta property="og:site_name" content="iljyya">
 <meta property="og:description" content="他山之石，可以攻玉。">
 <meta name="twitter:card" content="summary">
@@ -128,13 +128,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/categories/Sublime-Text/">
+  <link rel="canonical" href="http://yoursite.com/categories/Sublime-text/">
 
 
 
 
 
-  <title>Category: Sublime Text | iljyya</title>
+  <title>Category: Sublime text | iljyya</title>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="en">
@@ -308,7 +308,7 @@
   <section id="posts" class="posts-collapse">
     <div class="collection-title">
       <h2>
-        Sublime Text
+        Sublime text
         <small>Category</small>
       </h2>
     </div>
@@ -321,17 +321,17 @@
 
       <h1 class="post-title">
         
-            <a class="post-title-link" href="/2017/04/15/Sublime-Text-3-Plugin/" itemprop="url">
+            <a class="post-title-link" href="/2017/05/16/Sublime-text-3126-中文文件名显示方框/" itemprop="url">
               
-                <span itemprop="name">Sublime Text 3 Plugin</span>
+                <span itemprop="name">Sublime text 3126 中文文件名显示方框</span>
               
             </a>
         
       </h1>
 
       <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2017-04-15T10:40:59+08:00" content="2017-04-15">
-          04-15
+        <time class="post-time" itemprop="dateCreated" datetime="2017-05-16T12:17:10+08:00" content="2017-05-16">
+          05-16
         </time>
       </div>
 
@@ -384,7 +384,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">18</span>
+                <span class="site-state-item-count">19</span>
                 <span class="site-state-item-name">posts</span>
               </a>
             </div>
@@ -994,7 +994,27 @@
   
 
 </body>
-</html>script>
+</html>r').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
 
 
 

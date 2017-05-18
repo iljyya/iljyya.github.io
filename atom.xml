@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-16T04:24:25.181Z</updated>
+  <updated>2017-05-16T05:25:40.122Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,17 +20,16 @@
     <link href="http://yoursite.com/2017/05/16/Sublime-text-3126-%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%BE%E7%A4%BA%E6%96%B9%E6%A1%86/"/>
     <id>http://yoursite.com/2017/05/16/Sublime-text-3126-中文文件名显示方框/</id>
     <published>2017-05-16T04:17:10.000Z</published>
-    <updated>2017-05-16T04:24:25.181Z</updated>
+    <updated>2017-05-16T05:25:40.122Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="问题根本"><a href="#问题根本" class="headerlink" title="问题根本"></a>问题根本</h3><p>Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。</p>
+    <content type="html"><![CDATA[<h3 id="问题根本"><a href="#问题根本" class="headerlink" title="问题根本"></a>问题根本</h3><p>Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。<br><a id="more"></a></p>
 <h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p><code>Preferences</code>-<code>Settings-User</code> 加上<code>&quot;dpi_scale&quot;: 1.0</code><br>但字会变很小，详细解决方法：<br><a href="https://www.zhihu.com/question/24029280" target="_blank" rel="external">https://www.zhihu.com/question/24029280</a></p>
 <h3 id="奇遇"><a href="#奇遇" class="headerlink" title="奇遇"></a>奇遇</h3><p>折腾半天发现Sublime text Dev channel 3130解决了这个bug，但是需要巨款注册，不过有特俗渠道：thepiratebay, cracknow.<br>哈哈，塞翁失马！</p>
 <p><img src="http://upload-images.jianshu.io/upload_images/49483-413b3cdf34c40471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;问题根本&quot;&gt;&lt;a href=&quot;#问题根本&quot; class=&quot;headerlink&quot; title=&quot;问题根本&quot;&gt;&lt;/a&gt;问题根本&lt;/h3&gt;&lt;p&gt;Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。&lt;/p&gt;
-&lt;h3 id=&quot;解决方法&quot;&gt;&lt;a hre
+      &lt;h3 id=&quot;问题根本&quot;&gt;&lt;a href=&quot;#问题根本&quot; class=&quot;headerlink&quot; title=&quot;问题根本&quot;&gt;&lt;/a&gt;问题根本&lt;/h3&gt;&lt;p&gt;Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。&lt;br&gt;
     
     </summary>
     
@@ -46,9 +45,9 @@
     <link href="http://yoursite.com/2017/05/09/%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9/"/>
     <id>http://yoursite.com/2017/05/09/秒级编译工具-FREELINE-从入门到上天/</id>
     <published>2017-05-09T02:17:22.000Z</published>
-    <updated>2017-05-15T01:15:56.000Z</updated>
+    <updated>2017-05-16T05:26:46.705Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><p>Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。</p>
+    <content type="html"><![CDATA[<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><p>Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。<br><a id="more"></a></p>
 <h3 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h3><p>装个python，目录加到path<br> 加个依赖</p>
 <p><img src="http://upload-images.jianshu.io/upload_images/49483-33dd73a7e0a4c482.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <p> 下个插件</p>
@@ -59,7 +58,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Intro&quot;&gt;&lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h3&gt;&lt;p&gt;Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，
+      &lt;h3 id=&quot;Intro&quot;&gt;&lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h3&gt;&lt;p&gt;Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。&lt;br&gt;
     
     </summary>
     
@@ -75,10 +74,10 @@
     <link href="http://yoursite.com/2017/05/04/Shadowsocks-%E4%BB%8E%E5%87%BA%E9%97%A8%E5%88%B0%E5%87%BA%E5%A2%99/"/>
     <id>http://yoursite.com/2017/05/04/Shadowsocks-从出门到出墙/</id>
     <published>2017-05-04T08:58:15.000Z</published>
-    <updated>2017-05-04T09:48:22.000Z</updated>
+    <updated>2017-05-16T05:25:53.759Z</updated>
     
     <content type="html"><![CDATA[<h3 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h3><p><a href="https://portal.shadowsocks.com.hk" target="_blank" rel="external">https://portal.shadowsocks.com.hk</a></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！<br><a id="more"></a></p>
 <h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><p>下载shadowsocks<br><a href="https://github.com/shadowsocks/shadowsocks-windows/releases" target="_blank" rel="external">https://github.com/shadowsocks/shadowsocks-windows/releases</a><br>下个json文件就配置好了。</p>
 <h3 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h3><p>下载影梭 <a href="http://pan.baidu.com/s/1jInUO1w" target="_blank" rel="external">http://pan.baidu.com/s/1jInUO1w</a>  密码：m5sg<br>配置不要手动填写，有点low，要扫描二维码。</p>
 <h3 id="IOS"><a href="#IOS" class="headerlink" title="IOS"></a>IOS</h3><p>App store下载shadowrocket ，只要18元。</p>
@@ -87,7 +86,8 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;购买&quot;&gt;&lt;a href=&quot;#购买&quot; class=&quot;headerlink&quot; title=&quot;购买&quot;&gt;&lt;/a&gt;购买&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://portal.shadowsocks.com.hk&quot; target=&quot;_blank&quot; rel=&quot;exter
+      &lt;h3 id=&quot;购买&quot;&gt;&lt;a href=&quot;#购买&quot; class=&quot;headerlink&quot; title=&quot;购买&quot;&gt;&lt;/a&gt;购买&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://portal.shadowsocks.com.hk&quot;&gt;https://portal.shadowsocks.com.hk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！&lt;br&gt;
     
     </summary>
     
@@ -103,16 +103,16 @@
     <link href="http://yoursite.com/2017/05/04/%E5%A4%9C%E5%8D%8A%E6%B1%BD%E7%AC%9B%E5%A3%B0-%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91/"/>
     <id>http://yoursite.com/2017/05/04/夜半汽笛声-村上春树/</id>
     <published>2017-05-04T05:41:20.000Z</published>
-    <updated>2017-05-12T12:29:44.000Z</updated>
+    <updated>2017-05-16T05:26:59.193Z</updated>
     
-    <content type="html"><![CDATA[<p>女孩问男孩：「你怎么样的喜欢我？」<br>少年想了想，声音低沉地回答说：「就像喜欢夜半的汽笛声一样。」<br>少女默默地等着他说下去，他一定会加以说明的。<br>「有一天半夜里我忽然醒了。」他说：「正确的时间不知道，大概是两点<br>或三点吧，但那时是几点并不重要。总之，是半夜里，我独自一个人，没有<br>谁在我旁边。你试想像这种情形。四周黑漆漆，什么都看不见，没有一点声<br>音，连时钟的针刻着时间的声音都听不见–也许是时钟停了。而我突然感到<br>自己被隔离在一处遥远的谁也不知道的地方。我体会到在这广大的世界上，<br>没有谁爱我，没有谁跟我说话，没有谁会想到我。即使我就这样从世界上消<br>失了，也没有谁会发觉到吧？就像被装在大铁箱沉入深海的心情。因为气压<br>我觉得心脏痛，痛得几乎会撕裂成两半–你体会得出这种感觉吧？」</p>
+    <content type="html"><![CDATA[<p>女孩问男孩：「你怎么样的喜欢我？」<br>少年想了想，声音低沉地回答说：「就像喜欢夜半的汽笛声一样。」<br>少女默默地等着他说下去，他一定会加以说明的。<br><a id="more"></a><br>「有一天半夜里我忽然醒了。」他说：「正确的时间不知道，大概是两点<br>或三点吧，但那时是几点并不重要。总之，是半夜里，我独自一个人，没有<br>谁在我旁边。你试想像这种情形。四周黑漆漆，什么都看不见，没有一点声<br>音，连时钟的针刻着时间的声音都听不见–也许是时钟停了。而我突然感到<br>自己被隔离在一处遥远的谁也不知道的地方。我体会到在这广大的世界上，<br>没有谁爱我，没有谁跟我说话，没有谁会想到我。即使我就这样从世界上消<br>失了，也没有谁会发觉到吧？就像被装在大铁箱沉入深海的心情。因为气压<br>我觉得心脏痛，痛得几乎会撕裂成两半–你体会得出这种感觉吧？」</p>
 <p>少女点点头。大概是了解的吧。</p>
 <p>少年继续说：「这恐怕是人活着所经验的最痛苦的事情之一吧，我真的悲伤得<br>要死。不，不是死了也罢了，而是就那样下去，箱子里的空气稀薄，事实上会<br>死。这不是比喻，是真的。是半夜里孤独一个人，醒来时的况味，你也了解吧？」</p>
 <p>少女又默默地点头。少年停顿一下又说：「但是这时我听到远远的地方有汽笛声。<br>那真是真是很远的地方的汽笛声。铁路到底在那里我都不知道，可见多么的远。微<br>微的声音似乎听见了，又似乎听不见。但我知道那是火车的汽笛声。没错。我在黑<br>暗里静静地谛听着。于是我再一次听到了那汽笛声。而我的心脏不痛了，时钟的针<br>开始动了，铁箱子慢慢浮上海面。这都是由于那小汽笛声，由于那又像听见又像听<br>不见的微微汽笛声。就像对那汽笛声一样我爱你。」</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;女孩问男孩：「你怎么样的喜欢我？」&lt;br&gt;少年想了想，声音低沉地回答说：「就像喜欢夜半的汽笛声一样。」&lt;br&gt;少女默默地等着他说下去，他一定会加以说明的。&lt;br&gt;「有一天半夜里我忽然醒了。」他说：「正确的时间不知道，大概是两点&lt;br&gt;或三点吧，但那时是几点并不重要。总之，是
+      &lt;p&gt;女孩问男孩：「你怎么样的喜欢我？」&lt;br&gt;少年想了想，声音低沉地回答说：「就像喜欢夜半的汽笛声一样。」&lt;br&gt;少女默默地等着他说下去，他一定会加以说明的。&lt;br&gt;
     
     </summary>
     
@@ -202,10 +202,10 @@
     <link href="http://yoursite.com/2017/04/15/Sublime-Text-3-Plugin/"/>
     <id>http://yoursite.com/2017/04/15/Sublime-Text-3-Plugin/</id>
     <published>2017-04-15T02:40:59.000Z</published>
-    <updated>2017-05-15T03:08:50.000Z</updated>
+    <updated>2017-05-16T05:25:49.054Z</updated>
     
     <content type="html"><![CDATA[<h3 id="安装插件方法"><a href="#安装插件方法" class="headerlink" title="安装插件方法"></a>安装插件方法</h3><p>Ctrl + Shift + P 输入 install 回车</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-f124a8cc632ad0e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>搜索插件名回车安装，重启即可生效</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-f124a8cc632ad0e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>搜索插件名回车安装，重启即可生效<br><a id="more"></a></p>
 <h3 id="Alignment"><a href="#Alignment" class="headerlink" title="Alignment"></a>Alignment</h3><p>Before:</p>
 <p><img src="http://upload-images.jianshu.io/upload_images/49483-38e8148640159de5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>选中 Ctrl + Alt + A :<br><img src="http://upload-images.jianshu.io/upload_images/49483-ab0413e7e033d2f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="Vim模式"><a href="#Vim模式" class="headerlink" title="Vim模式"></a>Vim模式</h3><p>Preferences - Settings ，vintage 去掉<br><img src="http://upload-images.jianshu.io/upload_images/49483-043a9aa35da439a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>这时按 esc 和 i 键可以在左下角左下角看到 COMMAND MODE 和 INSERT MODE的切换了</p>
@@ -217,7 +217,7 @@
     <summary type="html">
     
       &lt;h3 id=&quot;安装插件方法&quot;&gt;&lt;a href=&quot;#安装插件方法&quot; class=&quot;headerlink&quot; title=&quot;安装插件方法&quot;&gt;&lt;/a&gt;安装插件方法&lt;/h3&gt;&lt;p&gt;Ctrl + Shift + P 输入 install 回车&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http:/
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-f124a8cc632ad0e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;搜索插件名回车安装，重启即可生效&lt;br&gt;
     
     </summary>
     
@@ -233,10 +233,10 @@
     <link href="http://yoursite.com/2017/04/14/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/"/>
     <id>http://yoursite.com/2017/04/14/小程序入门教程整理/</id>
     <published>2017-04-13T19:50:12.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
+    <updated>2017-05-16T05:26:52.661Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="开发详解系列"><a href="#开发详解系列" class="headerlink" title="开发详解系列"></a>开发详解系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=940" target="_blank" rel="external">开发准备，开发工具使用简介，工程目录结构 …</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=941" target="_blank" rel="external">开发组件使用初步，配置</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=942" target="_blank" rel="external">APP生命周期</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=943" target="_blank" rel="external">页面生命周期和参数传递</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=987" target="_blank" rel="external">布局基础</a></p>
+<h3 id="开发详解系列"><a href="#开发详解系列" class="headerlink" title="开发详解系列"></a>开发详解系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=940" target="_blank" rel="external">开发准备，开发工具使用简介，工程目录结构 …</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=941" target="_blank" rel="external">开发组件使用初步，配置</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=942" target="_blank" rel="external">APP生命周期</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=943" target="_blank" rel="external">页面生命周期和参数传递</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=987" target="_blank" rel="external">布局基础</a><br><a id="more"></a></p>
 <h3 id="程序员实战系列"><a href="#程序员实战系列" class="headerlink" title="程序员实战系列"></a>程序员实战系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=739" target="_blank" rel="external">程序员开发实战系列《一》注册、预览小程序</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=465" target="_blank" rel="external">程序员开发实战系列《二》微信小程序架构篇</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=466" target="_blank" rel="external">程序员开发实战系列《三》App()和Page()</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=478" target="_blank" rel="external">程序员开发实战系列《四》视图层WXML绑定数据、模板、逻辑</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=479" target="_blank" rel="external">程序员开发实战系列《五》视图层WXML：事件</a></p>
 <h3 id="学习记录系列"><a href="#学习记录系列" class="headerlink" title="学习记录系列"></a>学习记录系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=495" target="_blank" rel="external">微信小程序学习记录《一》：目录结构介绍，开发工具菜单介绍</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=497" target="_blank" rel="external">微信小程序学习记录《二》：系统配置app.json，程序和页面注册.js</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=506" target="_blank" rel="external">微信小程序学习记录《三》：视图容器</a></p>
 <h3 id="现学现卖系列"><a href="#现学现卖系列" class="headerlink" title="现学现卖系列"></a>现学现卖系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=1030" target="_blank" rel="external">现学现卖微信小程序开发（三）：引入“Rx”为小程序插上翅膀 …</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=1015" target="_blank" rel="external">现学现卖的一个“快递查询“的小程序开发</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=986" target="_blank" rel="external">现学现卖微信小程序开发（二）</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=964" target="_blank" rel="external">现学现卖微信小程序开发（一）开始</a></p>
@@ -245,7 +245,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; al
+      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;开发详解系列&quot;&gt;&lt;a href=&quot;#开发详解系列&quot; class=&quot;headerlink&quot; title=&quot;开发详解系列&quot;&gt;&lt;/a&gt;开发详解系列&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=940&quot;&gt;开发准备，开发工具使用简介，工程目录结构 …&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=941&quot;&gt;开发组件使用初步，配置&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=942&quot;&gt;APP生命周期&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=943&quot;&gt;页面生命周期和参数传递&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=987&quot;&gt;布局基础&lt;/a&gt;&lt;br&gt;
     
     </summary>
     
@@ -261,9 +262,9 @@
     <link href="http://yoursite.com/2017/04/11/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%85%A5%E9%97%A8/"/>
     <id>http://yoursite.com/2017/04/11/小程序-入门/</id>
     <published>2017-04-10T19:50:12.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
+    <updated>2017-05-16T05:26:49.523Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="注册小程序账号"><a href="#注册小程序账号" class="headerlink" title="注册小程序账号"></a>注册小程序账号</h3><p><a href="https://mp.weixin.qq.com" target="_blank" rel="external">https://mp.weixin.qq.com</a></p>
+    <content type="html"><![CDATA[<h3 id="注册小程序账号"><a href="#注册小程序账号" class="headerlink" title="注册小程序账号"></a>注册小程序账号</h3><p><a href="https://mp.weixin.qq.com" target="_blank" rel="external">https://mp.weixin.qq.com</a><br><a id="more"></a></p>
 <p>###获取微信小程序的 AppID<br>登录 <a href="https://mp.weixin.qq.com" target="_blank" rel="external">https://mp.weixin.qq.com</a> ，在「设置」-「开发者设置」中，找到 AppID。</p>
 <p>###真机测试小程序教程<br><a href="https://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&amp;mid=2736711271&amp;idx=1&amp;sn=9a099f03b30a55e893d126ea634d3ff3&amp;chksm=b6aac77981dd4e6fe24ef7a9dbbb21b5c0ad4d433a653668618cea0adc4572ccf54b0f9ee736&amp;mpshare=1&amp;scene=1&amp;srcid=0331HHQ1AyHhox3cmckX3cMo#rd" target="_blank" rel="external">https://mp.weixin.qq.com…</a></p>
 <p>###填写appid后json不能加载<br>需要在request合法域名添加api地址<br><a href="http://www.wxapp-union.com/forum.php?mod=viewthread&amp;tid=803" target="_blank" rel="external">http://www.wxapp-union.com/forum.php?mod=viewthread&amp;tid=803</a></p>
@@ -271,7 +272,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;注册小程序账号&quot;&gt;&lt;a href=&quot;#注册小程序账号&quot; class=&quot;headerlink&quot; title=&quot;注册小程序账号&quot;&gt;&lt;/a&gt;注册小程序账号&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com&quot; target=&quot;_blank&quot;
+      &lt;h3 id=&quot;注册小程序账号&quot;&gt;&lt;a href=&quot;#注册小程序账号&quot; class=&quot;headerlink&quot; title=&quot;注册小程序账号&quot;&gt;&lt;/a&gt;注册小程序账号&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com&quot;&gt;https://mp.weixin.qq.com&lt;/a&gt;&lt;br&gt;
     
     </summary>
     
@@ -287,9 +288,9 @@
     <link href="http://yoursite.com/2017/03/13/React-Native-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/"/>
     <id>http://yoursite.com/2017/03/13/React-Native-从入门到踩坑/</id>
     <published>2017-03-12T19:50:12.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
+    <updated>2017-05-16T05:25:57.858Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Get-started"><a href="#Get-started" class="headerlink" title="Get started."></a>Get started.</h3><p><a href="http://reactnative.cn/docs/0.42/getting-started.html#content" target="_blank" rel="external">http://reactnative.cn/docs/0.42/getting-started.html#content</a></p>
+    <content type="html"><![CDATA[<h3 id="Get-started"><a href="#Get-started" class="headerlink" title="Get started."></a>Get started.</h3><p><a href="http://reactnative.cn/docs/0.42/getting-started.html#content" target="_blank" rel="external">http://reactnative.cn/docs/0.42/getting-started.html#content</a><br><a id="more"></a></p>
 <h3 id="Forum"><a href="#Forum" class="headerlink" title="Forum"></a>Forum</h3><p><a href="http://bbs.reactnative.cn/category/4/求助专区" target="_blank" rel="external">http://bbs.reactnative.cn/category/4/求助专区</a></p>
 <h3 id="Q-gradle-download-slow"><a href="#Q-gradle-download-slow" class="headerlink" title="Q: gradle download slow."></a>Q: gradle download slow.</h3><p>A: copy and download link like:<br><a href="https://services.gradle.org/distributions/gradle-2.14.1-all.zip" target="_blank" rel="external">https://services.gradle.org/distributions/gradle-2.14.1-all.zip</a><br>put zip in<code>C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\8bnwg5hd3w55iofp58khbp6yv</code><br>B:freeGate <a href="http://www.cnblogs.com/zhang-cb/p/6065118.html" target="_blank" rel="external">http://www.cnblogs.com/zhang-cb/p/6065118.html</a><br>C: <code>app\gradle.properties</code>add<br><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">systemProp.http.proxyHost=android-mirror.bugly.qq.com</div><div class="line">systemProp.http.proxyPort=<span class="number">8080</span></div><div class="line">org.gradle.jvmargs=-Xmx2048m -XX\:MaxPermSize\=<span class="number">512</span>m -XX\:+HeapDumpOnOutOfMemoryError -Dfile.encoding\=UTF-<span class="number">8</span></div><div class="line">org.gradle.parallel=<span class="keyword">true</span></div><div class="line">target-sdk=<span class="number">23</span></div></pre></td></tr></table></figure></p>
 <p>read more: <a href="http://hucaihua.cn/2015/06/06/android_studio_problem/" target="_blank" rel="external">http://hucaihua.cn/2015/06/06/android_studio_problem/</a></p>
@@ -307,7 +308,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Get-started&quot;&gt;&lt;a href=&quot;#Get-started&quot; class=&quot;headerlink&quot; title=&quot;Get started.&quot;&gt;&lt;/a&gt;Get started.&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://reactnative.cn/d
+      &lt;h3 id=&quot;Get-started&quot;&gt;&lt;a href=&quot;#Get-started&quot; class=&quot;headerlink&quot; title=&quot;Get started.&quot;&gt;&lt;/a&gt;Get started.&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://reactnative.cn/docs/0.42/getting-started.html#content&quot;&gt;http://reactnative.cn/docs/0.42/getting-started.html#content&lt;/a&gt;&lt;br&gt;
     
     </summary>
     
@@ -319,13 +320,39 @@
   </entry>
   
   <entry>
+    <title>open file in Cmd with Sublime on Win</title>
+    <link href="http://yoursite.com/2017/02/16/open-file-in-Cmd-with-Sublime-on-Win/"/>
+    <id>http://yoursite.com/2017/02/16/open-file-in-Cmd-with-Sublime-on-Win/</id>
+    <published>2017-02-16T05:22:18.000Z</published>
+    <updated>2017-05-16T05:26:13.888Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="设置方法"><a href="#设置方法" class="headerlink" title="设置方法"></a>设置方法</h3><p>add Path<br><code>C:\Program Files\Sublime Text 3</code> 安装目录加进去<br><a id="more"></a></p>
+<h3 id="开始使用"><a href="#开始使用" class="headerlink" title="开始使用"></a>开始使用</h3><p><code>subl</code>是直接运行，加文件名是打开文件，加 . 是打开当前文件夹。</p>
+<h3 id="bash技巧"><a href="#bash技巧" class="headerlink" title="bash技巧"></a>bash技巧</h3><p>输入文件名两三个字母时按<code>tab</code> 可以自动补全</p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>很多时候简单的东西也是折腾了很久才发现的，但是自己动手解决了还是挺开心的。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-3eb9486b03634fb4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;设置方法&quot;&gt;&lt;a href=&quot;#设置方法&quot; class=&quot;headerlink&quot; title=&quot;设置方法&quot;&gt;&lt;/a&gt;设置方法&lt;/h3&gt;&lt;p&gt;add Path&lt;br&gt;&lt;code&gt;C:\Program Files\Sublime Text 3&lt;/code&gt; 安装目录加进去&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Sublime Text" scheme="http://yoursite.com/categories/Sublime-Text/"/>
+    
+    
+      <category term="Sublime Text" scheme="http://yoursite.com/tags/Sublime-Text/"/>
+    
+  </entry>
+  
+  <entry>
     <title>下拉菜单的4种解法</title>
     <link href="http://yoursite.com/2017/02/15/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95/"/>
     <id>http://yoursite.com/2017/02/15/下拉菜单的4种解法/</id>
     <published>2017-02-15T01:12:53.000Z</published>
-    <updated>2017-05-15T01:26:36.000Z</updated>
+    <updated>2017-05-16T05:28:11.495Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Html-Css"><a href="#Html-Css" class="headerlink" title="Html + Css"></a>Html + Css</h3><p>默认不显示，指针经过就显示<br><img src="http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+    <content type="html"><![CDATA[<h3 id="Html-Css"><a href="#Html-Css" class="headerlink" title="Html + Css"></a>Html + Css</h3><p>默认不显示，指针经过就显示<br><img src="http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
 <h3 id="js-自己实现"><a href="#js-自己实现" class="headerlink" title="js 自己实现"></a>js 自己实现</h3><p>定义两个方法<br><img src="http://upload-images.jianshu.io/upload_images/49483-4a1c0bcf47162d8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>html调用<br><img src="http://upload-images.jianshu.io/upload_images/49483-c422dc30781388c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="jquery-实现"><a href="#jquery-实现" class="headerlink" title="jquery 实现"></a>jquery 实现</h3><p>用封装好的mouseover和mouseout方法<br><img src="http://upload-images.jianshu.io/upload_images/49483-f40ccd3aaa460c04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"></p>
 <h3 id="bootstrap-没有最懒，只有更懒"><a href="#bootstrap-没有最懒，只有更懒" class="headerlink" title="bootstrap 没有最懒，只有更懒"></a>bootstrap 没有最懒，只有更懒</h3><p>class 和 date-toggle直接写标签里<br><img src="http://upload-images.jianshu.io/upload_images/49483-908b945312c14cf0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
@@ -333,7 +360,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Html-Css&quot;&gt;&lt;a href=&quot;#Html-Css&quot; class=&quot;headerlink&quot; title=&quot;Html + Css&quot;&gt;&lt;/a&gt;Html + Css&lt;/h3&gt;&lt;p&gt;默认不显示，指针经过就显示&lt;br&gt;&lt;img src=&quot;http://upload-i
+      &lt;h3 id=&quot;Html-Css&quot;&gt;&lt;a href=&quot;#Html-Css&quot; class=&quot;headerlink&quot; title=&quot;Html + Css&quot;&gt;&lt;/a&gt;Html + Css&lt;/h3&gt;&lt;p&gt;默认不显示，指针经过就显示&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
     
     </summary>
     
@@ -349,15 +376,15 @@
     <link href="http://yoursite.com/2016/09/15/CAD-%E4%BB%8E0%E5%88%B0%E7%94%BB%E8%AE%BE%E8%AE%A1%E5%9B%BE/"/>
     <id>http://yoursite.com/2016/09/15/CAD-从0到画设计图/</id>
     <published>2016-09-14T19:50:12.000Z</published>
-    <updated>2017-05-16T04:13:23.796Z</updated>
+    <updated>2017-05-16T05:26:34.702Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？<br>我之前自学过一点CAD，当场爽快答应。</p>
+    <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？<br>我之前自学过一点CAD，当场爽快答应。<br><a id="more"></a></p>
 <h3 id="下载CAD破解"><a href="#下载CAD破解" class="headerlink" title="下载CAD破解"></a>下载CAD破解</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-6595acc3b146b673.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>一个世纪过去安装完毕，XFORCE Keygen破解。</p>
 <h3 id="预览图"><a href="#预览图" class="headerlink" title="预览图"></a>预览图</h3><p>从新近开始一步步查资料新建布局，到后来的连续标注，楼梯阴影，功夫不负有心人，灰头土脸的画了一天，终于两层都赶出来了。<br><img src="http://upload-images.jianshu.io/upload_images/49483-9f639cc33e3627bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一层局部"><br><img src="http://upload-images.jianshu.io/upload_images/49483-5b7d1f839e676ba2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一层整体"></p>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;故事背景&quot;&gt;&lt;a href=&quot;#故事背景&quot; class=&quot;headerlink&quot; title=&quot;故事背景&quot;&gt;&lt;/a&gt;故事背景&lt;/h3&gt;&lt;p&gt;老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？&lt;br&gt;我之前自学过一点CAD，当场爽快答
+      &lt;h3 id=&quot;故事背景&quot;&gt;&lt;a href=&quot;#故事背景&quot; class=&quot;headerlink&quot; title=&quot;故事背景&quot;&gt;&lt;/a&gt;故事背景&lt;/h3&gt;&lt;p&gt;老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？&lt;br&gt;我之前自学过一点CAD，当场爽快答应。&lt;br&gt;
     
     </summary>
     
@@ -373,9 +400,9 @@
     <link href="http://yoursite.com/2016/09/02/CAD-%E4%BB%8E0%E5%88%B0%E6%8E%92%E7%89%88%E6%89%93%E5%8D%B0/"/>
     <id>http://yoursite.com/2016/09/02/CAD-从0到排版打印/</id>
     <published>2016-09-01T19:50:12.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
+    <updated>2017-05-16T05:26:38.303Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。</p>
+    <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。<br><a id="more"></a></p>
 <h3 id="创建画布"><a href="#创建画布" class="headerlink" title="创建画布"></a>创建画布</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-0dc326b9135d0dc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>工具 - 向导 - 创建画布 - A4</p>
 <h3 id="平移"><a href="#平移" class="headerlink" title="平移"></a>平移</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-87d4014813c94d7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>esc 到默认工具，左键拖拽框选，再点左键拖拽平移。</p>
 <h3 id="缩放"><a href="#缩放" class="headerlink" title="缩放"></a>缩放</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a9b29065d373cd02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>选择图形 - 输入缩放命令 sc 回车 - 选取缩放基点 - 瞄准缩放方向 - 输入缩放倍速回车</p>
@@ -385,8 +412,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;故事背景&quot;&gt;&lt;a href=&quot;#故事背景&quot; class=&quot;headerlink&quot; title=&quot;故事背景&quot;&gt;&lt;/a&gt;故事背景&lt;/h3&gt;&lt;p&gt;同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。&lt;/p&gt;
-&lt;h3 id=&quot;创建画布&quot;&gt;&lt;a
+      &lt;h3 id=&quot;故事背景&quot;&gt;&lt;a href=&quot;#故事背景&quot; class=&quot;headerlink&quot; title=&quot;故事背景&quot;&gt;&lt;/a&gt;故事背景&lt;/h3&gt;&lt;p&gt;同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。&lt;br&gt;
     
     </summary>
     
@@ -402,9 +428,9 @@
     <link href="http://yoursite.com/2016/08/13/Chrome%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     <id>http://yoursite.com/2016/08/13/Chrome插件推荐/</id>
     <published>2016-08-12T19:50:12.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
+    <updated>2017-05-16T05:26:30.217Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Google-Dictionary"><a href="#Google-Dictionary" class="headerlink" title="Google Dictionary"></a>Google Dictionary</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-60e5cbe75abc2366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+    <content type="html"><![CDATA[<h3 id="Google-Dictionary"><a href="#Google-Dictionary" class="headerlink" title="Google Dictionary"></a>Google Dictionary</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-60e5cbe75abc2366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
 <h3 id="Sight"><a href="#Sight" class="headerlink" title="Sight"></a>Sight</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-f5d8c66e716d360e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="Adblock-Plus"><a href="#Adblock-Plus" class="headerlink" title="Adblock Plus"></a>Adblock Plus</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-5bf17672fa13445d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="Octotree"><a href="#Octotree" class="headerlink" title="Octotree"></a>Octotree</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-e6e6c1ae260af24c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
@@ -413,7 +439,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Google-Dictionary&quot;&gt;&lt;a href=&quot;#Google-Dictionary&quot; class=&quot;headerlink&quot; title=&quot;Google Dictionary&quot;&gt;&lt;/a&gt;Google Dictionary&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;
+      &lt;h3 id=&quot;Google-Dictionary&quot;&gt;&lt;a href=&quot;#Google-Dictionary&quot; class=&quot;headerlink&quot; title=&quot;Google Dictionary&quot;&gt;&lt;/a&gt;Google Dictionary&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-60e5cbe75abc2366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
     
     </summary>
     
@@ -429,10 +455,10 @@
     <link href="http://yoursite.com/2016/05/07/Awesome%20Java%20QAs/"/>
     <id>http://yoursite.com/2016/05/07/Awesome Java QAs/</id>
     <published>2016-05-07T13:17:45.000Z</published>
-    <updated>2017-05-04T05:37:52.000Z</updated>
+    <updated>2017-05-16T05:26:43.272Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Java中是否可以覆盖-override-一个private或者是static的方法"><a href="#Java中是否可以覆盖-override-一个private或者是static的方法" class="headerlink" title="Java中是否可以覆盖(override)一个private或者是static的方法?"></a>Java中是否可以覆盖(override)一个private或者是static的方法?</h3><p>static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。<br>无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。<br>static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。</p>
-<h3 id="Java支持的数据类型有哪些？什么是自动拆装箱？"><a href="#Java支持的数据类型有哪些？什么是自动拆装箱？" class="headerlink" title="Java支持的数据类型有哪些？什么是自动拆装箱？"></a>Java支持的数据类型有哪些？什么是自动拆装箱？</h3><p> byte short int long float double boolean char<br> 把int转化成Integer是自动装箱。反之就是自动拆箱。<br><a id="more"></a></p>
+    <content type="html"><![CDATA[<h3 id="Java中是否可以覆盖-override-一个private或者是static的方法"><a href="#Java中是否可以覆盖-override-一个private或者是static的方法" class="headerlink" title="Java中是否可以覆盖(override)一个private或者是static的方法?"></a>Java中是否可以覆盖(override)一个private或者是static的方法?</h3><p>static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。<br>无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。<br>static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。<br><a id="more"></a></p>
+<h3 id="Java支持的数据类型有哪些？什么是自动拆装箱？"><a href="#Java支持的数据类型有哪些？什么是自动拆装箱？" class="headerlink" title="Java支持的数据类型有哪些？什么是自动拆装箱？"></a>Java支持的数据类型有哪些？什么是自动拆装箱？</h3><p> byte short int long float double boolean char<br> 把int转化成Integer是自动装箱。反之就是自动拆箱。<br><!--more--></p>
 <h3 id="Java为什么不支持多继承"><a href="#Java为什么不支持多继承" class="headerlink" title="Java为什么不支持多继承?"></a>Java为什么不支持多继承?</h3><p>多继承指一个子类能同时继承于多个父类，从而同时拥有多个父类的特征，但缺点是显著的。<br>1.若子类继承的父类中拥有相同的成员变量，子类在引用该变量时将无法判别使用哪个父类的成员变量。<br>2.若一个子类继承的多个父类拥有相同方法，同时子类并未覆盖该方法（若覆盖，则直接使用子类中该方法），那么调用该方法时将无法确定调用哪个父类的方法。<br>因此，Java仅允许单继承，即一个子类只能继承于一个父类。但为了拓展子类的功能，Java使用接口以克服不使用多继承带来的不足。<br>接口是一个特殊的抽象类，接口中成员变量均默认为 static final 类型，即常量，且接口中的方法都为抽象的，都没有方法体。<br>具体方法只能由实现接口的类实现，在调用的时候始终只会调用实现类的方法（不存在歧义），因此不存在多继承的第二个缺点；而又因为接口只有静态的常量，但是由于静态变量是在编译期决定调用关系的，即使存在一定的冲突也会在编译时提示出错；而引用静态变量一般直接使用类名或接口名，从而避免产生歧义，因此也不存在多继承的第一个缺点。对于一个接口继承多个父接口的情况也一样不存在这些缺点。</p>
 <h3 id="java中的值传递和引用传递到底有什么区别"><a href="#java中的值传递和引用传递到底有什么区别" class="headerlink" title="java中的值传递和引用传递到底有什么区别?"></a>java中的值传递和引用传递到底有什么区别?</h3><p>值传递：(形式参数类型是基本数据类型)：方法调用时，实际参数把它的值传递给对应的形式参数，形式参数只是用实际参数的值初始化自己的存储单元内容，是两个不同的存储单元，所以方法执行中形式参数值的改变不影响实际参数的值。<br>引用传递：(形式参数类型是引用数据类型参数)：也称为传地址。方法调用时，实际参数是对象(或数组)，这时实际参数与形式参数指向同一个地址，在方法执行中，对形式参数的操作实际上就是对实际参数的操作，这个结果在方法结束后被保留了下来，所以方法执行中形式参数的改变将会影响实际参数。</p>
 <h3 id="java创建线程的方式和区别？"><a href="#java创建线程的方式和区别？" class="headerlink" title="java创建线程的方式和区别？"></a>java创建线程的方式和区别？</h3><p>采用实现Runnable、Callable接口的方式创见多线程时，优势是：线程类只是实现了Runnable接口或Callable接口，还可以继承其他类。在这种方式下，多个线程可以共享同一个target对象，所以非常适合多个相同线程来处理同一份资源的情况，从而可以将CPU、代码和数据分开，形成清晰的模型，较好地体现了面向对象的思想。<br>劣势是：编程稍微复杂，如果要访问当前线程，则必须使用Thread.currentThread()方法。<br>使用继承Thread类的方式创建多线程时优势是：编写简单，如果需要访问当前线程，则无需使用Thread.currentThread()方法，直接使用this即可获得当前线程。<br>劣势是：线程类已经继承了Thread类，所以不能再继承其他父类。<br><a href="http://blog.csdn.net/longshengguoji/article/details/41126119" target="_blank" rel="external">原文</a></p>
@@ -445,8 +471,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Java中是否可以覆盖-override-一个private或者是static的方法&quot;&gt;&lt;a href=&quot;#Java中是否可以覆盖-override-一个private或者是static的方法&quot; class=&quot;headerlink&quot; title=&quot;Java中是否可以覆盖(override)一个private或者是static的方法?&quot;&gt;&lt;/a&gt;Java中是否可以覆盖(override)一个private或者是static的方法?&lt;/h3&gt;&lt;p&gt;static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。&lt;br&gt;无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。&lt;br&gt;static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。&lt;/p&gt;
-&lt;h3 id=&quot;Java支持的数据类型有哪些？什么是自动拆装箱？&quot;&gt;&lt;a href=&quot;#Java支持的数据类型有哪些？什么是自动拆装箱？&quot; class=&quot;headerlink&quot; title=&quot;Java支持的数据类型有哪些？什么是自动拆装箱？&quot;&gt;&lt;/a&gt;Java支持的数据类型有哪些？什么是自动拆装箱？&lt;/h3&gt;&lt;p&gt; byte short int long float double boolean char&lt;br&gt; 把int转化成Integer是自动装箱。反之就是自动拆箱。&lt;br&gt;
+      &lt;h3 id=&quot;Java中是否可以覆盖-override-一个private或者是static的方法&quot;&gt;&lt;a href=&quot;#Java中是否可以覆盖-override-一个private或者是static的方法&quot; class=&quot;headerlink&quot; title=&quot;Java中是否可以覆盖(override)一个private或者是static的方法?&quot;&gt;&lt;/a&gt;Java中是否可以覆盖(override)一个private或者是static的方法?&lt;/h3&gt;&lt;p&gt;static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。&lt;br&gt;无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。&lt;br&gt;static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。&lt;br&gt;
     
     </summary>
     
@@ -460,29 +485,14 @@
     <link href="http://yoursite.com/2016/05/05/%E4%BD%BF%E7%94%A8sublime-Text-3%E8%BF%9B%E8%A1%8Cjava%E7%BC%96%E7%A8%8B/"/>
     <id>http://yoursite.com/2016/05/05/使用sublime-Text-3进行java编程/</id>
     <published>2016-05-05T01:50:12.000Z</published>
-    <updated>2017-05-04T05:38:26.000Z</updated>
+    <updated>2017-05-16T05:28:07.759Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="实现sublime-Text-3对Java编译执行"><a href="#实现sublime-Text-3对Java编译执行" class="headerlink" title="实现sublime Text 3对Java编译执行"></a>实现sublime Text 3对Java编译执行</h3><p>直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：</p>
-<pre><code>{  
-    &quot;shell_cmd&quot;: &quot;javaRun \&quot;$file\&quot;&quot;,  
-    &quot;file_regex&quot;: &quot;^(...*?):([0-9]*):?([0-9]*)&quot;,  
-    &quot;selector&quot;: &quot;source.java&quot;,  
-    &quot;encoding&quot;:&quot;cp936&quot;  
-}  
-</code></pre><a id="more"></a>
+    <content type="html"><![CDATA[<h3 id="实现sublime-Text-3对Java编译执行"><a href="#实现sublime-Text-3对Java编译执行" class="headerlink" title="实现sublime Text 3对Java编译执行"></a>实现sublime Text 3对Java编译执行</h3><p>直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：<br><a id="more"></a></p>
+<figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&#123;  </div><div class="line">    <span class="attr">"shell_cmd"</span>: <span class="string">"javaRun \"$file\""</span>,  </div><div class="line">    <span class="attr">"file_regex"</span>: <span class="string">"^(...*?):([0-9]*):?([0-9]*)"</span>,  </div><div class="line">    <span class="attr">"selector"</span>: <span class="string">"source.java"</span>,  </div><div class="line">    <span class="attr">"encoding"</span>:<span class="string">"cp936"</span>  </div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<!--more-->
 <p>然后在jdk安装路径下的bin目录中新建一个javaRun.bat批处理文件，内容如下：</p>
-<pre><code>@ECHO OFF  
-cd %~dp1  
-ECHO Compiling %~nx1.......  
-IF EXIST %~n1.class (  
-DEL %~n1.class  
-)  
-javac  %~nx1  
-IF EXIST %~n1.class (  
-ECHO -----------OUTPUT-----------  
-java %~n1  
-)  
-</code></pre><p>之后就可以使用ctrl+B</p>
+<figure class="highlight dos"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">@<span class="built_in">ECHO</span> OFF  </div><div class="line"><span class="built_in">cd</span> %~dp1  </div><div class="line"><span class="built_in">ECHO</span> Compiling %~nx1.......  </div><div class="line"><span class="keyword">IF</span> <span class="keyword">EXIST</span> %~n1.class (  </div><div class="line"><span class="built_in">DEL</span> %~n1.class  </div><div class="line">)  </div><div class="line">javac  %~nx1  </div><div class="line"><span class="keyword">IF</span> <span class="keyword">EXIST</span> %~n1.class (  </div><div class="line"><span class="built_in">ECHO</span> -----------OUTPUT-----------  </div><div class="line">java %~n1  </div><div class="line">)</div></pre></td></tr></table></figure>
+<p>之后就可以使用ctrl+B</p>
 <h3 id="若显示编译显示-Decode-error-output-not-utf-8"><a href="#若显示编译显示-Decode-error-output-not-utf-8" class="headerlink" title="若显示编译显示[Decode error - output not utf-8]"></a>若显示编译显示[Decode error - output not utf-8]</h3><p>SublimeText3\Packages\Java.sublime-package\JavaC.sublime-build\<br>添加     “encoding”:”cp936”</p>
 <h3 id="编译显示：-编码GBK的不可映射字符【注：需要在前面的基础下】"><a href="#编译显示：-编码GBK的不可映射字符【注：需要在前面的基础下】" class="headerlink" title="编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】"></a>编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】</h3><p>将上述javaRun.bat修改为：</p>
 <pre><code>[plain] view plain copy 在CODE上查看代码片派生到我的代码片
@@ -501,14 +511,7 @@ java %~n1
     
     <summary type="html">
     
-      &lt;h3 id=&quot;实现sublime-Text-3对Java编译执行&quot;&gt;&lt;a href=&quot;#实现sublime-Text-3对Java编译执行&quot; class=&quot;headerlink&quot; title=&quot;实现sublime Text 3对Java编译执行&quot;&gt;&lt;/a&gt;实现sublime Text 3对Java编译执行&lt;/h3&gt;&lt;p&gt;直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{  
-    &amp;quot;shell_cmd&amp;quot;: &amp;quot;javaRun \&amp;quot;$file\&amp;quot;&amp;quot;,  
-    &amp;quot;file_regex&amp;quot;: &amp;quot;^(...*?):([0-9]*):?([0-9]*)&amp;quot;,  
-    &amp;quot;selector&amp;quot;: &amp;quot;source.java&amp;quot;,  
-    &amp;quot;encoding&amp;quot;:&amp;quot;cp936&amp;quot;  
-}  
-&lt;/code&gt;&lt;/pre&gt;
+      &lt;h3 id=&quot;实现sublime-Text-3对Java编译执行&quot;&gt;&lt;a href=&quot;#实现sublime-Text-3对Java编译执行&quot; class=&quot;headerlink&quot; title=&quot;实现sublime Text 3对Java编译执行&quot;&gt;&lt;/a&gt;实现sublime Text 3对Java编译执行&lt;/h3&gt;&lt;p&gt;直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：&lt;br&gt;
     
     </summary>
     
@@ -524,9 +527,9 @@ java %~n1
     <link href="http://yoursite.com/2016/03/22/java%E5%BC%80%E5%8F%91%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%B9%B3%E5%8F%B0-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/"/>
     <id>http://yoursite.com/2016/03/22/java开发微信公众平台-从入门到踩坑/</id>
     <published>2016-03-21T19:50:12.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
+    <updated>2017-05-16T05:26:20.701Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="找教程"><a href="#找教程" class="headerlink" title="找教程"></a>找教程</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a1f2ca0bfa8b8894.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+    <content type="html"><![CDATA[<h3 id="找教程"><a href="#找教程" class="headerlink" title="找教程"></a>找教程</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a1f2ca0bfa8b8894.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
 <h3 id="eclipse"><a href="#eclipse" class="headerlink" title="eclipse"></a>eclipse</h3><p>发现需要服务器地址，想到要eclipse的tomcat的服务器，得先下载个eclipse，老规矩，搜</p>
 <p><img src="http://upload-images.jianshu.io/upload_images/49483-03091f4babce75ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>下载安装 eclipse-javaEE</p>
 <h3 id="tomcat"><a href="#tomcat" class="headerlink" title="tomcat"></a>tomcat</h3><p>安装完eclipse发现需要装tomcat，搜</p>
@@ -539,7 +542,7 @@ java %~n1
     
     <summary type="html">
     
-      &lt;h3 id=&quot;找教程&quot;&gt;&lt;a href=&quot;#找教程&quot; class=&quot;headerlink&quot; title=&quot;找教程&quot;&gt;&lt;/a&gt;找教程&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-a1f2
+      &lt;h3 id=&quot;找教程&quot;&gt;&lt;a href=&quot;#找教程&quot; class=&quot;headerlink&quot; title=&quot;找教程&quot;&gt;&lt;/a&gt;找教程&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-a1f2ca0bfa8b8894.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
     
     </summary>
     
@@ -555,9 +558,9 @@ java %~n1
     <link href="http://yoursite.com/2016/03/20/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91-/"/>
     <id>http://yoursite.com/2016/03/20/内网穿透-从入门到踩坑-/</id>
     <published>2016-03-19T19:50:12.000Z</published>
-    <updated>2017-05-12T12:37:02.000Z</updated>
+    <updated>2017-05-16T05:27:03.947Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>就是把本地ip假装成公网。<br>先踩几个坑：</p>
+    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>就是把本地ip假装成公网。<br>先踩几个坑：<br><a id="more"></a></p>
 <h3 id="tunnel-mobi"><a href="#tunnel-mobi" class="headerlink" title="tunnel.mobi"></a>tunnel.mobi</h3><p>网站关了，心疼一秒。</p>
 <h3 id="花生壳"><a href="#花生壳" class="headerlink" title="花生壳"></a>花生壳</h3><p>只有电信免费，认证费6块，联通的要198/年，心疼自己是联通。</p>
 <h3 id="ngrok"><a href="#ngrok" class="headerlink" title="ngrok"></a>ngrok</h3><p>国外的，慢。</p>
@@ -566,8 +569,7 @@ java %~n1
     
     <summary type="html">
     
-      &lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;p&gt;就是把本地ip假装成公网。&lt;br&gt;先踩几个坑：&lt;/p&gt;
-&lt;h3 id=&quot;tunnel-mobi&quot;&gt;&lt;a href=&quot;#tunnel-mobi
+      &lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;p&gt;就是把本地ip假装成公网。&lt;br&gt;先踩几个坑：&lt;br&gt;
     
     </summary>
     

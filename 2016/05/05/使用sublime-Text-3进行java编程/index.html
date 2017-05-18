@@ -92,17 +92,17 @@
 
 
 
-<meta name="description" content="实现sublime Text 3对Java编译执行直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下： {       &amp;quot;">
+<meta name="description" content="实现sublime Text 3对Java编译执行直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：">
 <meta name="keywords" content="java">
 <meta property="og:type" content="article">
 <meta property="og:title" content="使用sublime-Text-3进行java编程">
 <meta property="og:url" content="http://yoursite.com/2016/05/05/使用sublime-Text-3进行java编程/index.html">
 <meta property="og:site_name" content="iljyya">
-<meta property="og:description" content="实现sublime Text 3对Java编译执行直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下： {       &amp;quot;">
-<meta property="og:updated_time" content="2017-05-04T05:38:26.000Z">
+<meta property="og:description" content="实现sublime Text 3对Java编译执行直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：">
+<meta property="og:updated_time" content="2017-05-16T05:28:07.759Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="使用sublime-Text-3进行java编程">
-<meta name="twitter:description" content="实现sublime Text 3对Java编译执行直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下： {       &amp;quot;">
+<meta name="twitter:description" content="实现sublime Text 3对Java编译执行直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：">
 
 
 
@@ -422,27 +422,12 @@
       
 
       
-        <h3 id="实现sublime-Text-3对Java编译执行"><a href="#实现sublime-Text-3对Java编译执行" class="headerlink" title="实现sublime Text 3对Java编译执行"></a>实现sublime Text 3对Java编译执行</h3><p>直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：</p>
-<pre><code>{  
-    &quot;shell_cmd&quot;: &quot;javaRun \&quot;$file\&quot;&quot;,  
-    &quot;file_regex&quot;: &quot;^(...*?):([0-9]*):?([0-9]*)&quot;,  
-    &quot;selector&quot;: &quot;source.java&quot;,  
-    &quot;encoding&quot;:&quot;cp936&quot;  
-}  
-</code></pre><a id="more"></a>
+        <h3 id="实现sublime-Text-3对Java编译执行"><a href="#实现sublime-Text-3对Java编译执行" class="headerlink" title="实现sublime Text 3对Java编译执行"></a>实现sublime Text 3对Java编译执行</h3><p>直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：<br><a id="more"></a></p>
+<figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&#123;  </div><div class="line">    <span class="attr">"shell_cmd"</span>: <span class="string">"javaRun \"$file\""</span>,  </div><div class="line">    <span class="attr">"file_regex"</span>: <span class="string">"^(...*?):([0-9]*):?([0-9]*)"</span>,  </div><div class="line">    <span class="attr">"selector"</span>: <span class="string">"source.java"</span>,  </div><div class="line">    <span class="attr">"encoding"</span>:<span class="string">"cp936"</span>  </div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<!--more-->
 <p>然后在jdk安装路径下的bin目录中新建一个javaRun.bat批处理文件，内容如下：</p>
-<pre><code>@ECHO OFF  
-cd %~dp1  
-ECHO Compiling %~nx1.......  
-IF EXIST %~n1.class (  
-DEL %~n1.class  
-)  
-javac  %~nx1  
-IF EXIST %~n1.class (  
-ECHO -----------OUTPUT-----------  
-java %~n1  
-)  
-</code></pre><p>之后就可以使用ctrl+B</p>
+<figure class="highlight dos"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">@<span class="built_in">ECHO</span> OFF  </div><div class="line"><span class="built_in">cd</span> %~dp1  </div><div class="line"><span class="built_in">ECHO</span> Compiling %~nx1.......  </div><div class="line"><span class="keyword">IF</span> <span class="keyword">EXIST</span> %~n1.class (  </div><div class="line"><span class="built_in">DEL</span> %~n1.class  </div><div class="line">)  </div><div class="line">javac  %~nx1  </div><div class="line"><span class="keyword">IF</span> <span class="keyword">EXIST</span> %~n1.class (  </div><div class="line"><span class="built_in">ECHO</span> -----------OUTPUT-----------  </div><div class="line">java %~n1  </div><div class="line">)</div></pre></td></tr></table></figure>
+<p>之后就可以使用ctrl+B</p>
 <h3 id="若显示编译显示-Decode-error-output-not-utf-8"><a href="#若显示编译显示-Decode-error-output-not-utf-8" class="headerlink" title="若显示编译显示[Decode error - output not utf-8]"></a>若显示编译显示[Decode error - output not utf-8]</h3><p>SublimeText3\Packages\Java.sublime-package\JavaC.sublime-build\<br>添加     “encoding”:”cp936”</p>
 <h3 id="编译显示：-编码GBK的不可映射字符【注：需要在前面的基础下】"><a href="#编译显示：-编码GBK的不可映射字符【注：需要在前面的基础下】" class="headerlink" title="编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】"></a>编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】</h3><p>将上述javaRun.bat修改为：</p>
 <pre><code>[plain] view plain copy 在CODE上查看代码片派生到我的代码片
@@ -632,7 +617,7 @@ java %~n1
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">18</span>
+                <span class="site-state-item-count">19</span>
                 <span class="site-state-item-name">posts</span>
               </a>
             </div>
