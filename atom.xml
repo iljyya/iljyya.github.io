@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>iljyya</title>
-  <subtitle>他山之石，可以攻玉。</subtitle>
+  <subtitle>往昔不谏，来者可追。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -25,7 +25,13 @@
     <content type="html"><![CDATA[<h3 id="问题根本"><a href="#问题根本" class="headerlink" title="问题根本"></a>问题根本</h3><p>Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。<br><a id="more"></a></p>
 <h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p><code>Preferences</code>-<code>Settings-User</code> 加上<code>&quot;dpi_scale&quot;: 1.0</code><br>但字会变很小，详细解决方法：<br><a href="https://www.zhihu.com/question/24029280" target="_blank" rel="external">https://www.zhihu.com/question/24029280</a></p>
 <h3 id="奇遇"><a href="#奇遇" class="headerlink" title="奇遇"></a>奇遇</h3><p>折腾半天发现Sublime text Dev channel 3130解决了这个bug，但是需要巨款注册，不过有特俗渠道：thepiratebay, cracknow.<br>哈哈，塞翁失马！</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-413b3cdf34c40471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-413b3cdf34c40471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>]]></content>
     
     <summary type="html">
     
@@ -49,11 +55,35 @@
     
     <content type="html"><![CDATA[<h3 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h3><p>Freeline是蚂蚁金服旗下平台蚂蚁聚宝 Android 团队开发的一款针对 Android 平台的增量编译工具，较 Android studio 2.0 及 LayoutCast 快 3～5 倍。<br><a id="more"></a></p>
 <h3 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h3><p>装个python，目录加到path<br> 加个依赖</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-33dd73a7e0a4c482.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-33dd73a7e0a4c482.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
 <p> 下个插件</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-4d0118ac8bb326b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p> 重启AS<br><img src="http://upload-images.jianshu.io/upload_images/49483-f6e87da6b40f807a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>第一次编译完，以后点这个。<br><img src="http://upload-images.jianshu.io/upload_images/49483-5fb6210780f05ffb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-4d0118ac8bb326b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p> 重启AS<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f6e87da6b40f807a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>第一次编译完，以后点这个。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-5fb6210780f05ffb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
 <p>参考文献：<br><a href="http://stormzhang.com/2016/12/02/android-seconds-build-freeline/" target="_blank" rel="external">http://stormzhang.com/2016/12/02/android-seconds-build-freeline/</a><br><a href="https://github.com/alibaba/freeline" target="_blank" rel="external">https://github.com/alibaba/freeline</a></p>]]></content>
     
     <summary type="html">
@@ -77,7 +107,14 @@
     <updated>2017-05-16T05:25:53.759Z</updated>
     
     <content type="html"><![CDATA[<h3 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h3><p><a href="https://portal.shadowsocks.com.hk" target="_blank" rel="external">https://portal.shadowsocks.com.hk</a></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！<br><a id="more"></a></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！<br><a id="more"></a></p>
 <h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><p>下载shadowsocks<br><a href="https://github.com/shadowsocks/shadowsocks-windows/releases" target="_blank" rel="external">https://github.com/shadowsocks/shadowsocks-windows/releases</a><br>下个json文件就配置好了。</p>
 <h3 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h3><p>下载影梭 <a href="http://pan.baidu.com/s/1jInUO1w" target="_blank" rel="external">http://pan.baidu.com/s/1jInUO1w</a>  密码：m5sg<br>配置不要手动填写，有点low，要扫描二维码。</p>
 <h3 id="IOS"><a href="#IOS" class="headerlink" title="IOS"></a>IOS</h3><p>App store下载shadowrocket ，只要18元。</p>
@@ -87,7 +124,14 @@
     <summary type="html">
     
       &lt;h3 id=&quot;购买&quot;&gt;&lt;a href=&quot;#购买&quot; class=&quot;headerlink&quot; title=&quot;购买&quot;&gt;&lt;/a&gt;购买&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://portal.shadowsocks.com.hk&quot;&gt;https://portal.shadowsocks.com.hk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！&lt;br&gt;
+&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-9694c33ce1141d1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
+&lt;p&gt;110元/年，看上去有点多，换算成一天3毛就觉得很便宜了！&lt;br&gt;
     
     </summary>
     
@@ -130,30 +174,152 @@
     <published>2017-04-30T08:57:56.000Z</published>
     <updated>2017-05-04T08:24:20.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="头像"><a href="#头像" class="headerlink" title="头像"></a>头像</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-07a5171344471232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
-<h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-8aa46ad39385fa9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="文章创建自动生成"><a href="#文章创建自动生成" class="headerlink" title="文章创建自动生成"></a>文章创建自动生成</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-d9ace5af33581d1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="公众号账号"><a href="#公众号账号" class="headerlink" title="公众号账号"></a>公众号账号</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-96a0272350ee63f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="侧边栏链接"><a href="#侧边栏链接" class="headerlink" title="侧边栏链接"></a>侧边栏链接</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-42b6f737b1b6a6fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="文末公众号"><a href="#文末公众号" class="headerlink" title="文末公众号"></a>文末公众号</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-9c5427fd93277ce8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="文末赞赏"><a href="#文末赞赏" class="headerlink" title="文末赞赏"></a>文末赞赏</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a6f230361d5cedbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="404"><a href="#404" class="headerlink" title="404"></a>404</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-94b2d60bd6477f03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="代码高亮"><a href="#代码高亮" class="headerlink" title="代码高亮"></a>代码高亮</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-6c10b069ee7c58e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="jiathis-分享"><a href="#jiathis-分享" class="headerlink" title="jiathis 分享"></a>jiathis 分享</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-1a9867b6a81aaeca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="Local-Search"><a href="#Local-Search" class="headerlink" title="Local Search"></a>Local Search</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-af47957416fbfe6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="各种插件优化"><a href="#各种插件优化" class="headerlink" title="各种插件优化"></a>各种插件优化</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-7bd40c73bb465861.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="网易云跟帖不让加，已反馈"><a href="#网易云跟帖不让加，已反馈" class="headerlink" title="网易云跟帖不让加，已反馈"></a>网易云跟帖不让加，已反馈</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-9e23e6cc994f5494.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="来必力出现奇怪的韩语"><a href="#来必力出现奇怪的韩语" class="headerlink" title="来必力出现奇怪的韩语"></a>来必力出现奇怪的韩语</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-ed48e0a63471bd02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="只好先用-HyperComments-，怀念多说"><a href="#只好先用-HyperComments-，怀念多说" class="headerlink" title="只好先用 HyperComments ，怀念多说"></a>只好先用 HyperComments ，怀念多说</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-cff6d423a82413bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="七牛云"><a href="#七牛云" class="headerlink" title="七牛云"></a>七牛云</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-eac8619850c2c522.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="favicon"><a href="#favicon" class="headerlink" title="favicon"></a>favicon</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-f3ad9beef097d7ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="关闭评论"><a href="#关闭评论" class="headerlink" title="关闭评论"></a>关闭评论</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-00be70625c0051db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="告一段落"><a href="#告一段落" class="headerlink" title="告一段落"></a>告一段落</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-f948bdd91077c145.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>弄完有点灰头土脸，开心多了很多经验。</p>
+    <content type="html"><![CDATA[<h3 id="头像"><a href="#头像" class="headerlink" title="头像"></a>头像</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-07a5171344471232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<a id="more"></a>
+<h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-8aa46ad39385fa9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="文章创建自动生成"><a href="#文章创建自动生成" class="headerlink" title="文章创建自动生成"></a>文章创建自动生成</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-d9ace5af33581d1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="公众号账号"><a href="#公众号账号" class="headerlink" title="公众号账号"></a>公众号账号</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-96a0272350ee63f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="侧边栏链接"><a href="#侧边栏链接" class="headerlink" title="侧边栏链接"></a>侧边栏链接</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-42b6f737b1b6a6fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="文末公众号"><a href="#文末公众号" class="headerlink" title="文末公众号"></a>文末公众号</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-9c5427fd93277ce8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="文末赞赏"><a href="#文末赞赏" class="headerlink" title="文末赞赏"></a>文末赞赏</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-a6f230361d5cedbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="404"><a href="#404" class="headerlink" title="404"></a>404</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-94b2d60bd6477f03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="代码高亮"><a href="#代码高亮" class="headerlink" title="代码高亮"></a>代码高亮</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-6c10b069ee7c58e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="jiathis-分享"><a href="#jiathis-分享" class="headerlink" title="jiathis 分享"></a>jiathis 分享</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-1a9867b6a81aaeca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="Local-Search"><a href="#Local-Search" class="headerlink" title="Local Search"></a>Local Search</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-af47957416fbfe6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="各种插件优化"><a href="#各种插件优化" class="headerlink" title="各种插件优化"></a>各种插件优化</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-7bd40c73bb465861.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="网易云跟帖不让加，已反馈"><a href="#网易云跟帖不让加，已反馈" class="headerlink" title="网易云跟帖不让加，已反馈"></a>网易云跟帖不让加，已反馈</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-9e23e6cc994f5494.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="来必力出现奇怪的韩语"><a href="#来必力出现奇怪的韩语" class="headerlink" title="来必力出现奇怪的韩语"></a>来必力出现奇怪的韩语</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-ed48e0a63471bd02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="只好先用-HyperComments-，怀念多说"><a href="#只好先用-HyperComments-，怀念多说" class="headerlink" title="只好先用 HyperComments ，怀念多说"></a>只好先用 HyperComments ，怀念多说</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-cff6d423a82413bf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="七牛云"><a href="#七牛云" class="headerlink" title="七牛云"></a>七牛云</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-eac8619850c2c522.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="favicon"><a href="#favicon" class="headerlink" title="favicon"></a>favicon</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f3ad9beef097d7ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="关闭评论"><a href="#关闭评论" class="headerlink" title="关闭评论"></a>关闭评论</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-00be70625c0051db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="告一段落"><a href="#告一段落" class="headerlink" title="告一段落"></a>告一段落</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f948bdd91077c145.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>弄完有点灰头土脸，开心多了很多经验。</p>
 <h3 id="参考文献："><a href="#参考文献：" class="headerlink" title="参考文献："></a>参考文献：</h3><p><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">http://theme-next.iissnan.com/getting-started.html</a><br><a href="http://wuxiaolong.me/2015/07/31/build-blog-by-hexo/" target="_blank" rel="external">http://wuxiaolong.me/2015/07/31/build-blog-by-hexo/</a></p>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;头像&quot;&gt;&lt;a href=&quot;#头像&quot; class=&quot;headerlink&quot; title=&quot;头像&quot;&gt;&lt;/a&gt;头像&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-07a5171344471232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+      &lt;h3 id=&quot;头像&quot;&gt;&lt;a href=&quot;#头像&quot; class=&quot;headerlink&quot; title=&quot;头像&quot;&gt;&lt;/a&gt;头像&lt;/h3&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-07a5171344471232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
     
     </summary>
     
@@ -174,11 +340,38 @@
     <content type="html"><![CDATA[<h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-<span class="keyword">cli</span></div></pre></td></tr></table></figure>
 <h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><p><a href="https://material.viosey.com/start/" target="_blank" rel="external">https://material.viosey.com/start/</a></p>
 <p>在<code>站点配置文件</code>里简单布置一下主题，多的先不多折腾了</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-b26c7422852cc60c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a><br><code>hexo s</code> 本地就有了<br><img src="http://upload-images.jianshu.io/upload_images/49483-5f2e67d20b7558c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-b26c7422852cc60c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<a id="more"></a>
+<p><code>hexo s</code> 本地就有了<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-5f2e67d20b7558c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
 <h3 id="开始创作"><a href="#开始创作" class="headerlink" title="开始创作"></a>开始创作</h3><p>hexo n<br>hexo g<br>hexo d<br>如果博客遇到什么不可抗力 hexo c<br>hexo s 预览</p>
 <h3 id="推到网上！"><a href="#推到网上！" class="headerlink" title="推到网上！"></a>推到网上！</h3><p>hexo d 报错 ERROR Deployer not found，淡定google<br>先 npm install hexo-deployer-git –save 再</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-7ef981e1593f3577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>hexo d 提示输入账号密码，搞定！</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-51adf4f4b313e5ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-7ef981e1593f3577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>hexo d 提示输入账号密码，搞定！</p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-51adf4f4b313e5ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
 <p>参考文献<br><a href="https://material.viosey.com/" target="_blank" rel="external">https://material.viosey.com/</a><br><a href="https://hexo.io/docs/" target="_blank" rel="external">https://hexo.io/docs/</a></p>]]></content>
     
     <summary type="html">
@@ -186,7 +379,13 @@
       &lt;h3 id=&quot;安装hexo&quot;&gt;&lt;a href=&quot;#安装hexo&quot; class=&quot;headerlink&quot; title=&quot;安装hexo&quot;&gt;&lt;/a&gt;安装hexo&lt;/h3&gt;&lt;figure class=&quot;highlight avrasm&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;npm install -g hexo-&lt;span class=&quot;keyword&quot;&gt;cli&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h3 id=&quot;安装主题&quot;&gt;&lt;a href=&quot;#安装主题&quot; class=&quot;headerlink&quot; title=&quot;安装主题&quot;&gt;&lt;/a&gt;安装主题&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://material.viosey.com/start/&quot;&gt;https://material.viosey.com/start/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在&lt;code&gt;站点配置文件&lt;/code&gt;里简单布置一下主题，多的先不多折腾了&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-b26c7422852cc60c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-b26c7422852cc60c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
     
     </summary>
     
@@ -205,19 +404,65 @@
     <updated>2017-05-16T05:25:49.054Z</updated>
     
     <content type="html"><![CDATA[<h3 id="安装插件方法"><a href="#安装插件方法" class="headerlink" title="安装插件方法"></a>安装插件方法</h3><p>Ctrl + Shift + P 输入 install 回车</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-f124a8cc632ad0e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>搜索插件名回车安装，重启即可生效<br><a id="more"></a></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f124a8cc632ad0e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>搜索插件名回车安装，重启即可生效<br><a id="more"></a></p>
 <h3 id="Alignment"><a href="#Alignment" class="headerlink" title="Alignment"></a>Alignment</h3><p>Before:</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-38e8148640159de5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>选中 Ctrl + Alt + A :<br><img src="http://upload-images.jianshu.io/upload_images/49483-ab0413e7e033d2f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="Vim模式"><a href="#Vim模式" class="headerlink" title="Vim模式"></a>Vim模式</h3><p>Preferences - Settings ，vintage 去掉<br><img src="http://upload-images.jianshu.io/upload_images/49483-043a9aa35da439a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>这时按 esc 和 i 键可以在左下角左下角看到 COMMAND MODE 和 INSERT MODE的切换了</p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-38e8148640159de5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>选中 Ctrl + Alt + A :<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-ab0413e7e033d2f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<h3 id="Vim模式"><a href="#Vim模式" class="headerlink" title="Vim模式"></a>Vim模式</h3><p>Preferences - Settings ，vintage 去掉<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-043a9aa35da439a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure><br>这时按 esc 和 i 键可以在左下角左下角看到 COMMAND MODE 和 INSERT MODE的切换了</p>
 <h4 id="简明-VIM-练级攻略"><a href="#简明-VIM-练级攻略" class="headerlink" title="简明 VIM 练级攻略"></a>简明 VIM 练级攻略</h4><p><a href="http://coolshell.cn/articles/5426.html" target="_blank" rel="external">http://coolshell.cn/articles/5426.html</a></p>
 <h3 id="cTags"><a href="#cTags" class="headerlink" title="cTags"></a>cTags</h3><p>追踪函数功能，ST3 已经自带，ST2 可以装</p>
-<h3 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-7ee29d378f9d5733.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>init之后就可以用了<br><img src="http://upload-images.jianshu.io/upload_images/49483-f3b007a79b153b45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-7ee29d378f9d5733.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>init之后就可以用了<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f3b007a79b153b45.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
 <h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a href="http://stormzhang.com/devtools/2012/12/30/sublime-plugin/" target="_blank" rel="external">http://stormzhang.com/devtools/2012/12/30/sublime-plugin/</a></p>]]></content>
     
     <summary type="html">
     
       &lt;h3 id=&quot;安装插件方法&quot;&gt;&lt;a href=&quot;#安装插件方法&quot; class=&quot;headerlink&quot; title=&quot;安装插件方法&quot;&gt;&lt;/a&gt;安装插件方法&lt;/h3&gt;&lt;p&gt;Ctrl + Shift + P 输入 install 回车&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-f124a8cc632ad0e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;搜索插件名回车安装，重启即可生效&lt;br&gt;
+&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-f124a8cc632ad0e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
+&lt;p&gt;搜索插件名回车安装，重启即可生效&lt;br&gt;
     
     </summary>
     
@@ -235,7 +480,13 @@
     <published>2017-04-13T19:50:12.000Z</published>
     <updated>2017-05-16T05:26:52.661Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+    <content type="html"><![CDATA[<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
 <h3 id="开发详解系列"><a href="#开发详解系列" class="headerlink" title="开发详解系列"></a>开发详解系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=940" target="_blank" rel="external">开发准备，开发工具使用简介，工程目录结构 …</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=941" target="_blank" rel="external">开发组件使用初步，配置</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=942" target="_blank" rel="external">APP生命周期</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=943" target="_blank" rel="external">页面生命周期和参数传递</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=987" target="_blank" rel="external">布局基础</a><br><a id="more"></a></p>
 <h3 id="程序员实战系列"><a href="#程序员实战系列" class="headerlink" title="程序员实战系列"></a>程序员实战系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=739" target="_blank" rel="external">程序员开发实战系列《一》注册、预览小程序</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=465" target="_blank" rel="external">程序员开发实战系列《二》微信小程序架构篇</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=466" target="_blank" rel="external">程序员开发实战系列《三》App()和Page()</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=478" target="_blank" rel="external">程序员开发实战系列《四》视图层WXML绑定数据、模板、逻辑</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=479" target="_blank" rel="external">程序员开发实战系列《五》视图层WXML：事件</a></p>
 <h3 id="学习记录系列"><a href="#学习记录系列" class="headerlink" title="学习记录系列"></a>学习记录系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=495" target="_blank" rel="external">微信小程序学习记录《一》：目录结构介绍，开发工具菜单介绍</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=497" target="_blank" rel="external">微信小程序学习记录《二》：系统配置app.json，程序和页面注册.js</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=506" target="_blank" rel="external">微信小程序学习记录《三》：视图容器</a></p>
@@ -245,7 +496,13 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
 &lt;h3 id=&quot;开发详解系列&quot;&gt;&lt;a href=&quot;#开发详解系列&quot; class=&quot;headerlink&quot; title=&quot;开发详解系列&quot;&gt;&lt;/a&gt;开发详解系列&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=940&quot;&gt;开发准备，开发工具使用简介，工程目录结构 …&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=941&quot;&gt;开发组件使用初步，配置&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=942&quot;&gt;APP生命周期&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=943&quot;&gt;页面生命周期和参数传递&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.wxapp-union.com/portal.php?mod=view&amp;amp;aid=987&quot;&gt;布局基础&lt;/a&gt;&lt;br&gt;
     
     </summary>
@@ -330,7 +587,13 @@
 <h3 id="开始使用"><a href="#开始使用" class="headerlink" title="开始使用"></a>开始使用</h3><p><code>subl</code>是直接运行，加文件名是打开文件，加 . 是打开当前文件夹。</p>
 <h3 id="bash技巧"><a href="#bash技巧" class="headerlink" title="bash技巧"></a>bash技巧</h3><p>输入文件名两三个字母时按<code>tab</code> 可以自动补全</p>
 <h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>很多时候简单的东西也是折腾了很久才发现的，但是自己动手解决了还是挺开心的。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-3eb9486b03634fb4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-3eb9486b03634fb4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>]]></content>
     
     <summary type="html">
     
@@ -352,15 +615,51 @@
     <published>2017-02-15T01:12:53.000Z</published>
     <updated>2017-05-16T05:28:11.495Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Html-Css"><a href="#Html-Css" class="headerlink" title="Html + Css"></a>Html + Css</h3><p>默认不显示，指针经过就显示<br><img src="http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
-<h3 id="js-自己实现"><a href="#js-自己实现" class="headerlink" title="js 自己实现"></a>js 自己实现</h3><p>定义两个方法<br><img src="http://upload-images.jianshu.io/upload_images/49483-4a1c0bcf47162d8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>html调用<br><img src="http://upload-images.jianshu.io/upload_images/49483-c422dc30781388c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="jquery-实现"><a href="#jquery-实现" class="headerlink" title="jquery 实现"></a>jquery 实现</h3><p>用封装好的mouseover和mouseout方法<br><img src="http://upload-images.jianshu.io/upload_images/49483-f40ccd3aaa460c04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png"></p>
-<h3 id="bootstrap-没有最懒，只有更懒"><a href="#bootstrap-没有最懒，只有更懒" class="headerlink" title="bootstrap 没有最懒，只有更懒"></a>bootstrap 没有最懒，只有更懒</h3><p>class 和 date-toggle直接写标签里<br><img src="http://upload-images.jianshu.io/upload_images/49483-908b945312c14cf0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+    <content type="html"><![CDATA[<h3 id="Html-Css"><a href="#Html-Css" class="headerlink" title="Html + Css"></a>Html + Css</h3><p>默认不显示，指针经过就显示<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure><br><a id="more"></a></p>
+<h3 id="js-自己实现"><a href="#js-自己实现" class="headerlink" title="js 自己实现"></a>js 自己实现</h3><p>定义两个方法<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-4a1c0bcf47162d8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure><br>html调用<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-c422dc30781388c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<h3 id="jquery-实现"><a href="#jquery-实现" class="headerlink" title="jquery 实现"></a>jquery 实现</h3><p>用封装好的mouseover和mouseout方法<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f40ccd3aaa460c04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png" title="">
+                </div>
+                <div class="image-caption">Paste_Image.png</div>
+            </figure></p>
+<h3 id="bootstrap-没有最懒，只有更懒"><a href="#bootstrap-没有最懒，只有更懒" class="headerlink" title="bootstrap 没有最懒，只有更懒"></a>bootstrap 没有最懒，只有更懒</h3><p>class 和 date-toggle直接写标签里<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-908b945312c14cf0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
 <h3 id="源码："><a href="#源码：" class="headerlink" title="源码："></a>源码：</h3><h4 id="123：http-www-imooc-com-learn-12"><a href="#123：http-www-imooc-com-learn-12" class="headerlink" title="123：http://www.imooc.com/learn/12"></a>123：<a href="http://www.imooc.com/learn/12" target="_blank" rel="external">http://www.imooc.com/learn/12</a></h4><h4 id="4-http-www-runoob-com-try-try2-php-filename-bootstrap3-plugin-dropdown-defaultnavbar"><a href="#4-http-www-runoob-com-try-try2-php-filename-bootstrap3-plugin-dropdown-defaultnavbar" class="headerlink" title="4: http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar"></a>4: <a href="http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar" target="_blank" rel="external">http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar</a></h4>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Html-Css&quot;&gt;&lt;a href=&quot;#Html-Css&quot; class=&quot;headerlink&quot; title=&quot;Html + Css&quot;&gt;&lt;/a&gt;Html + Css&lt;/h3&gt;&lt;p&gt;默认不显示，指针经过就显示&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+      &lt;h3 id=&quot;Html-Css&quot;&gt;&lt;a href=&quot;#Html-Css&quot; class=&quot;headerlink&quot; title=&quot;Html + Css&quot;&gt;&lt;/a&gt;Html + Css&lt;/h3&gt;&lt;p&gt;默认不显示，指针经过就显示&lt;br&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;&lt;br&gt;
     
     </summary>
     
@@ -379,8 +678,27 @@
     <updated>2017-05-16T05:26:34.702Z</updated>
     
     <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？<br>我之前自学过一点CAD，当场爽快答应。<br><a id="more"></a></p>
-<h3 id="下载CAD破解"><a href="#下载CAD破解" class="headerlink" title="下载CAD破解"></a>下载CAD破解</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-6595acc3b146b673.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>一个世纪过去安装完毕，XFORCE Keygen破解。</p>
-<h3 id="预览图"><a href="#预览图" class="headerlink" title="预览图"></a>预览图</h3><p>从新近开始一步步查资料新建布局，到后来的连续标注，楼梯阴影，功夫不负有心人，灰头土脸的画了一天，终于两层都赶出来了。<br><img src="http://upload-images.jianshu.io/upload_images/49483-9f639cc33e3627bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一层局部"><br><img src="http://upload-images.jianshu.io/upload_images/49483-5b7d1f839e676ba2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一层整体"></p>]]></content>
+<h3 id="下载CAD破解"><a href="#下载CAD破解" class="headerlink" title="下载CAD破解"></a>下载CAD破解</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-6595acc3b146b673.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>一个世纪过去安装完毕，XFORCE Keygen破解。</p>
+<h3 id="预览图"><a href="#预览图" class="headerlink" title="预览图"></a>预览图</h3><p>从新近开始一步步查资料新建布局，到后来的连续标注，楼梯阴影，功夫不负有心人，灰头土脸的画了一天，终于两层都赶出来了。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-9f639cc33e3627bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一层局部" title="">
+                </div>
+                <div class="image-caption">一层局部</div>
+            </figure><br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-5b7d1f839e676ba2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="一层整体" title="">
+                </div>
+                <div class="image-caption">一层整体</div>
+            </figure></p>]]></content>
     
     <summary type="html">
     
@@ -403,11 +721,45 @@
     <updated>2017-05-16T05:26:38.303Z</updated>
     
     <content type="html"><![CDATA[<h3 id="故事背景"><a href="#故事背景" class="headerlink" title="故事背景"></a>故事背景</h3><p>同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。<br><a id="more"></a></p>
-<h3 id="创建画布"><a href="#创建画布" class="headerlink" title="创建画布"></a>创建画布</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-0dc326b9135d0dc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>工具 - 向导 - 创建画布 - A4</p>
-<h3 id="平移"><a href="#平移" class="headerlink" title="平移"></a>平移</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-87d4014813c94d7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>esc 到默认工具，左键拖拽框选，再点左键拖拽平移。</p>
-<h3 id="缩放"><a href="#缩放" class="headerlink" title="缩放"></a>缩放</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a9b29065d373cd02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>选择图形 - 输入缩放命令 sc 回车 - 选取缩放基点 - 瞄准缩放方向 - 输入缩放倍速回车</p>
-<h3 id="标注字体大小"><a href="#标注字体大小" class="headerlink" title="标注字体大小"></a>标注字体大小</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-443454d981a26fc8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>标注 - 标注样式 - 修改 - 文字 - 文字高度<br>详细步骤： <a href="https://jingyan.baidu.com/article/ce09321b2bbd742bfe858f46.html" target="_blank" rel="external">https://jingyan.baidu.com/article/ce09321b2bbd742bfe858f46.html</a></p>
-<h3 id="预览打印"><a href="#预览打印" class="headerlink" title="预览打印"></a>预览打印</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-6a4c11573b38bc18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="创建画布"><a href="#创建画布" class="headerlink" title="创建画布"></a>创建画布</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-0dc326b9135d0dc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>工具 - 向导 - 创建画布 - A4</p>
+<h3 id="平移"><a href="#平移" class="headerlink" title="平移"></a>平移</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-87d4014813c94d7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>esc 到默认工具，左键拖拽框选，再点左键拖拽平移。</p>
+<h3 id="缩放"><a href="#缩放" class="headerlink" title="缩放"></a>缩放</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-a9b29065d373cd02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>选择图形 - 输入缩放命令 sc 回车 - 选取缩放基点 - 瞄准缩放方向 - 输入缩放倍速回车</p>
+<h3 id="标注字体大小"><a href="#标注字体大小" class="headerlink" title="标注字体大小"></a>标注字体大小</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-443454d981a26fc8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>标注 - 标注样式 - 修改 - 文字 - 文字高度<br>详细步骤： <a href="https://jingyan.baidu.com/article/ce09321b2bbd742bfe858f46.html" target="_blank" rel="external">https://jingyan.baidu.com/article/ce09321b2bbd742bfe858f46.html</a></p>
+<h3 id="预览打印"><a href="#预览打印" class="headerlink" title="预览打印"></a>预览打印</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-6a4c11573b38bc18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
 <p>完美！收工</p>]]></content>
     
     <summary type="html">
@@ -430,16 +782,53 @@
     <published>2016-08-12T19:50:12.000Z</published>
     <updated>2017-05-16T05:26:30.217Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Google-Dictionary"><a href="#Google-Dictionary" class="headerlink" title="Google Dictionary"></a>Google Dictionary</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-60e5cbe75abc2366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
-<h3 id="Sight"><a href="#Sight" class="headerlink" title="Sight"></a>Sight</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-f5d8c66e716d360e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="Adblock-Plus"><a href="#Adblock-Plus" class="headerlink" title="Adblock Plus"></a>Adblock Plus</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-5bf17672fa13445d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="Octotree"><a href="#Octotree" class="headerlink" title="Octotree"></a>Octotree</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-e6e6c1ae260af24c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<h3 id="遠方-New-Tab"><a href="#遠方-New-Tab" class="headerlink" title="遠方 New Tab"></a>遠方 New Tab</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-8a3a2fd499c96a7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+    <content type="html"><![CDATA[<h3 id="Google-Dictionary"><a href="#Google-Dictionary" class="headerlink" title="Google Dictionary"></a>Google Dictionary</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-60e5cbe75abc2366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<a id="more"></a>
+<h3 id="Sight"><a href="#Sight" class="headerlink" title="Sight"></a>Sight</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f5d8c66e716d360e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="Adblock-Plus"><a href="#Adblock-Plus" class="headerlink" title="Adblock Plus"></a>Adblock Plus</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-5bf17672fa13445d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="Octotree"><a href="#Octotree" class="headerlink" title="Octotree"></a>Octotree</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-e6e6c1ae260af24c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="遠方-New-Tab"><a href="#遠方-New-Tab" class="headerlink" title="遠方 New Tab"></a>遠方 New Tab</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-8a3a2fd499c96a7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
 <h3 id="Markdown-Here"><a href="#Markdown-Here" class="headerlink" title="Markdown Here"></a>Markdown Here</h3><p><a href="http://markdown-here.com/get.html" target="_blank" rel="external">http://markdown-here.com/get.html</a><br>一键渲染markdown格式文章，可以同步文章到微信公众号。</p>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;Google-Dictionary&quot;&gt;&lt;a href=&quot;#Google-Dictionary&quot; class=&quot;headerlink&quot; title=&quot;Google Dictionary&quot;&gt;&lt;/a&gt;Google Dictionary&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-60e5cbe75abc2366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+      &lt;h3 id=&quot;Google-Dictionary&quot;&gt;&lt;a href=&quot;#Google-Dictionary&quot; class=&quot;headerlink&quot; title=&quot;Google Dictionary&quot;&gt;&lt;/a&gt;Google Dictionary&lt;/h3&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-60e5cbe75abc2366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
     
     </summary>
     
@@ -529,20 +918,65 @@ java %~n1
     <published>2016-03-21T19:50:12.000Z</published>
     <updated>2017-05-16T05:26:20.701Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="找教程"><a href="#找教程" class="headerlink" title="找教程"></a>找教程</h3><p><img src="http://upload-images.jianshu.io/upload_images/49483-a1f2ca0bfa8b8894.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br><a id="more"></a></p>
+    <content type="html"><![CDATA[<h3 id="找教程"><a href="#找教程" class="headerlink" title="找教程"></a>找教程</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-a1f2ca0bfa8b8894.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<a id="more"></a>
 <h3 id="eclipse"><a href="#eclipse" class="headerlink" title="eclipse"></a>eclipse</h3><p>发现需要服务器地址，想到要eclipse的tomcat的服务器，得先下载个eclipse，老规矩，搜</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-03091f4babce75ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>下载安装 eclipse-javaEE</p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-03091f4babce75ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>下载安装 eclipse-javaEE</p>
 <h3 id="tomcat"><a href="#tomcat" class="headerlink" title="tomcat"></a>tomcat</h3><p>安装完eclipse发现需要装tomcat，搜</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-2301ea2525d462c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>装了个tomcat7，看教程打个hello world，run server 挺顺利。</p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-2301ea2525d462c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>装了个tomcat7，看教程打个hello world，run server 挺顺利。</p>
 <h3 id="tomcat端口改成80"><a href="#tomcat端口改成80" class="headerlink" title="tomcat端口改成80"></a>tomcat端口改成80</h3><p>看微信文档，需要80端口，tomcat默认是8080，搜</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-0d0959b3d67269d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-442269aa3c97718d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-0d0959b3d67269d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-442269aa3c97718d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
 <p>在 tomcat-dir\conf\server.mxl  http port 改成 80，run server，还是8080！<br>不能慌，接着往下看，发现无名大侠的奇效偏方。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-724e26d5e03af7f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-724e26d5e03af7f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;找教程&quot;&gt;&lt;a href=&quot;#找教程&quot; class=&quot;headerlink&quot; title=&quot;找教程&quot;&gt;&lt;/a&gt;找教程&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-a1f2ca0bfa8b8894.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+      &lt;h3 id=&quot;找教程&quot;&gt;&lt;a href=&quot;#找教程&quot; class=&quot;headerlink&quot; title=&quot;找教程&quot;&gt;&lt;/a&gt;找教程&lt;/h3&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-a1f2ca0bfa8b8894.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
     
     </summary>
     
@@ -565,7 +999,13 @@ java %~n1
 <h3 id="花生壳"><a href="#花生壳" class="headerlink" title="花生壳"></a>花生壳</h3><p>只有电信免费，认证费6块，联通的要198/年，心疼自己是联通。</p>
 <h3 id="ngrok"><a href="#ngrok" class="headerlink" title="ngrok"></a>ngrok</h3><p>国外的，慢。</p>
 <h3 id="natapp-cn"><a href="#natapp-cn" class="headerlink" title="natapp.cn"></a>natapp.cn</h3><p>操作很简单，看着贴心的教程很快搞定。<br><a href="https://natapp.cn/article/natapp_newbie" target="_blank" rel="external">NATAPP1分钟快速新手图文教程 传送门</a><br>看到这个就算成功</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/49483-aacf230347fc5715.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>]]></content>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-aacf230347fc5715.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>]]></content>
     
     <summary type="html">
     
