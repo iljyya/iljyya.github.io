@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Android Studio 下载安装配置]]></title>
+    <url>%2F2017%2F05%2F20%2FAndroid-Studio-%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[下载官方被强了，所以在国内镜像下载比较快。 安装按照标准走就好，下 SDK 慢可以翻墙，我用的 Shadowsocks 。 配置主题打开设置就能看到，设成 Darcula 炫酷黑 字号搜索 font 进入设置，点击 Save As 保存自定义主题，即可编辑字号。 自动导包勾选如下两项即可]]></content>
+      <categories>
+        <category>Android Studio</category>
+      </categories>
+      <tags>
+        <tag>Android Studio</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Sublime text 3126 中文文件名显示方框]]></title>
     <url>%2F2017%2F05%2F16%2FSublime-text-3126-%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%BE%E7%A4%BA%E6%96%B9%E6%A1%86%2F</url>
     <content type="text"><![CDATA[问题根本Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。 解决方法Preferences-Settings-User 加上&quot;dpi_scale&quot;: 1.0但字会变很小，详细解决方法：https://www.zhihu.com/question/24029280 奇遇折腾半天发现Sublime text Dev channel 3130解决了这个bug，但是需要巨款注册，不过有特俗渠道：thepiratebay, cracknow.哈哈，塞翁失马！]]></content>
