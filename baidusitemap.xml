@@ -4,7 +4,162 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/05/20/Android-Studio-%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</loc>
+    <loc>http://iljyya.github.io/2017/05/21/Windows-Subsystem-for-Linux-%E5%88%9D%E4%BD%93%E9%AA%8C/</loc>
+    <lastmod>2017-05-21T00:53:05.608Z</lastmod>
+    <data>
+        <display>
+        <title>Windows Subsystem for Linux 初体验</title>
+        <pubTime>2017-05-21T00:51:18.000Z</pubTime>
+        
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="http://iljyya.github.io/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://iljyya.github.io/2017/05/20/Android-Studio-%E8%BF%90%E8%A1%8C%E6%8A%A5%E9%94%99/</loc>
+    <lastmod>2017-05-20T07:50:13.284Z</lastmod>
+    <data>
+        <display>
+        <title>Android Studio 运行报错</title>
+        <pubTime>2017-05-20T07:50:13.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://iljyya.github.io/2017/05/16/Sublime-text-3126-%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%BE%E7%A4%BA%E6%96%B9%E6%A1%86/</loc>
+    <lastmod>2017-05-20T07:44:35.236Z</lastmod>
+    <data>
+        <display>
+        <title>Sublime text 3126 中文文件名显示方框</title>
+        <pubTime>2017-05-16T04:17:10.000Z</pubTime>
+        
+        <tag>Sublime text</tag>
+         
+         
+           
+             
+              <breadCrumb title="Sublime text" url="http://iljyya.github.io/categories/Sublime-text/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://iljyya.github.io/2017/04/15/Sublime-Text-3-Plugin/</loc>
+    <lastmod>2017-05-20T07:43:49.289Z</lastmod>
+    <data>
+        <display>
+        <title>Sublime Text 3 Plugins</title>
+        <pubTime>2017-04-15T02:40:59.000Z</pubTime>
+        
+        <tag>Sublime Text</tag>
+         
+         
+           
+             
+              <breadCrumb title="Sublime Text" url="http://iljyya.github.io/categories/Sublime-Text/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://iljyya.github.io/2017/05/04/Shadowsocks-%E4%BB%8E%E5%87%BA%E9%97%A8%E5%88%B0%E5%87%BA%E5%A2%99/</loc>
+    <lastmod>2017-05-20T07:43:34.091Z</lastmod>
+    <data>
+        <display>
+        <title>Shadowsocks 配置</title>
+        <pubTime>2017-05-04T08:58:15.000Z</pubTime>
+        
+        <tag>shadowsocks</tag>
+         
+         
+           
+             
+              <breadCrumb title="shadowsocks" url="http://iljyya.github.io/categories/shadowsocks/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://iljyya.github.io/2017/03/13/React-Native-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/</loc>
+    <lastmod>2017-05-20T07:42:54.228Z</lastmod>
+    <data>
+        <display>
+        <title>React Native 入门</title>
+        <pubTime>2017-03-12T19:50:12.000Z</pubTime>
+        
+        <tag>React Native</tag>
+         
+         
+           
+             
+              <breadCrumb title="React Native" url="http://iljyya.github.io/categories/React-Native/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://iljyya.github.io/2017/04/30/Hexo-theme-Next%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%81%B0%E5%A4%B4%E5%9C%9F%E8%84%B8/</loc>
+    <lastmod>2017-05-20T07:42:22.064Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo theme Next</title>
+        <pubTime>2017-04-30T08:57:56.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://iljyya.github.io/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://iljyya.github.io/2017/05/09/%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9/</loc>
+    <lastmod>2017-05-20T07:41:47.320Z</lastmod>
+    <data>
+        <display>
+        <title>秒级编译工具 Freeline</title>
+        <pubTime>2017-05-09T02:17:22.000Z</pubTime>
+        
+        <tag>Android Studio</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android Studio" url="http://iljyya.github.io/categories/Android-Studio/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://iljyya.github.io/2017/05/20/Android-Studio-%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2017-05-20T05:51:51.166Z</lastmod>
     <data>
         <display>
@@ -16,7 +171,7 @@
          
            
              
-              <breadCrumb title="Android Studio" url="http://yoursite.com/categories/Android-Studio/"/>
+              <breadCrumb title="Android Studio" url="http://iljyya.github.io/categories/Android-Studio/"/>
           
         </display>
     </data>
@@ -27,7 +182,7 @@
     
     
   <url>
-    <loc>http://yoursite.com/2017/02/15/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95/</loc>
+    <loc>http://iljyya.github.io/2017/02/15/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95/</loc>
     <lastmod>2017-05-16T05:28:11.495Z</lastmod>
     <data>
         <display>
@@ -39,7 +194,7 @@
          
            
              
-              <breadCrumb title="web" url="http://yoursite.com/categories/web/"/>
+              <breadCrumb title="web" url="http://iljyya.github.io/categories/web/"/>
           
         </display>
     </data>
@@ -47,7 +202,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2016/05/05/%E4%BD%BF%E7%94%A8sublime-Text-3%E8%BF%9B%E8%A1%8Cjava%E7%BC%96%E7%A8%8B/</loc>
+    <loc>http://iljyya.github.io/2016/05/05/%E4%BD%BF%E7%94%A8sublime-Text-3%E8%BF%9B%E8%A1%8Cjava%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2017-05-16T05:28:07.759Z</lastmod>
     <data>
         <display>
@@ -59,7 +214,7 @@
          
            
              
-              <breadCrumb title="java" url="http://yoursite.com/categories/java/"/>
+              <breadCrumb title="java" url="http://iljyya.github.io/categories/java/"/>
           
         </display>
     </data>
@@ -67,7 +222,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2016/03/20/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91-/</loc>
+    <loc>http://iljyya.github.io/2016/03/20/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91-/</loc>
     <lastmod>2017-05-16T05:27:03.947Z</lastmod>
     <data>
         <display>
@@ -79,7 +234,7 @@
          
            
              
-              <breadCrumb title="ngrok" url="http://yoursite.com/categories/ngrok/"/>
+              <breadCrumb title="ngrok" url="http://iljyya.github.io/categories/ngrok/"/>
           
         </display>
     </data>
@@ -87,7 +242,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/05/04/%E5%A4%9C%E5%8D%8A%E6%B1%BD%E7%AC%9B%E5%A3%B0-%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91/</loc>
+    <loc>http://iljyya.github.io/2017/05/04/%E5%A4%9C%E5%8D%8A%E6%B1%BD%E7%AC%9B%E5%A3%B0-%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91/</loc>
     <lastmod>2017-05-16T05:26:59.193Z</lastmod>
     <data>
         <display>
@@ -99,7 +254,7 @@
          
            
              
-              <breadCrumb title="文学短篇" url="http://yoursite.com/categories/%E6%96%87%E5%AD%A6%E7%9F%AD%E7%AF%87/"/>
+              <breadCrumb title="文学短篇" url="http://iljyya.github.io/categories/%E6%96%87%E5%AD%A6%E7%9F%AD%E7%AF%87/"/>
           
         </display>
     </data>
@@ -107,7 +262,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/04/14/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/</loc>
+    <loc>http://iljyya.github.io/2017/04/14/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E6%95%B4%E7%90%86/</loc>
     <lastmod>2017-05-16T05:26:52.661Z</lastmod>
     <data>
         <display>
@@ -119,7 +274,7 @@
          
            
              
-              <breadCrumb title="小程序" url="http://yoursite.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="小程序" url="http://iljyya.github.io/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -127,7 +282,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/04/11/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%85%A5%E9%97%A8/</loc>
+    <loc>http://iljyya.github.io/2017/04/11/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2017-05-16T05:26:49.523Z</lastmod>
     <data>
         <display>
@@ -139,7 +294,7 @@
          
            
              
-              <breadCrumb title="小程序" url="http://yoursite.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="小程序" url="http://iljyya.github.io/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -147,27 +302,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/05/09/%E7%A7%92%E7%BA%A7%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7-FREELINE-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9/</loc>
-    <lastmod>2017-05-16T05:26:46.705Z</lastmod>
-    <data>
-        <display>
-        <title>秒级编译工具 FREELINE 从入门到上天</title>
-        <pubTime>2017-05-09T02:17:22.000Z</pubTime>
-        
-        <tag>Android Studio</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android Studio" url="http://yoursite.com/categories/Android-Studio/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2016/05/07/Awesome%20Java%20QAs/</loc>
+    <loc>http://iljyya.github.io/2016/05/07/Awesome%20Java%20QAs/</loc>
     <lastmod>2017-05-16T05:26:43.272Z</lastmod>
     <data>
         <display>
@@ -184,7 +319,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2016/09/02/CAD-%E4%BB%8E0%E5%88%B0%E6%8E%92%E7%89%88%E6%89%93%E5%8D%B0/</loc>
+    <loc>http://iljyya.github.io/2016/09/02/CAD-%E4%BB%8E0%E5%88%B0%E6%8E%92%E7%89%88%E6%89%93%E5%8D%B0/</loc>
     <lastmod>2017-05-16T05:26:38.303Z</lastmod>
     <data>
         <display>
@@ -196,7 +331,7 @@
          
            
              
-              <breadCrumb title="CAD" url="http://yoursite.com/categories/CAD/"/>
+              <breadCrumb title="CAD" url="http://iljyya.github.io/categories/CAD/"/>
           
         </display>
     </data>
@@ -204,7 +339,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2016/09/15/CAD-%E4%BB%8E0%E5%88%B0%E7%94%BB%E8%AE%BE%E8%AE%A1%E5%9B%BE/</loc>
+    <loc>http://iljyya.github.io/2016/09/15/CAD-%E4%BB%8E0%E5%88%B0%E7%94%BB%E8%AE%BE%E8%AE%A1%E5%9B%BE/</loc>
     <lastmod>2017-05-16T05:26:34.702Z</lastmod>
     <data>
         <display>
@@ -216,7 +351,7 @@
          
            
              
-              <breadCrumb title="CAD" url="http://yoursite.com/categories/CAD/"/>
+              <breadCrumb title="CAD" url="http://iljyya.github.io/categories/CAD/"/>
           
         </display>
     </data>
@@ -224,7 +359,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2016/08/13/Chrome%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
+    <loc>http://iljyya.github.io/2016/08/13/Chrome%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2017-05-16T05:26:30.217Z</lastmod>
     <data>
         <display>
@@ -236,7 +371,7 @@
          
            
              
-              <breadCrumb title="Chrome" url="http://yoursite.com/categories/Chrome/"/>
+              <breadCrumb title="Chrome" url="http://iljyya.github.io/categories/Chrome/"/>
           
         </display>
     </data>
@@ -244,7 +379,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2016/03/22/java%E5%BC%80%E5%8F%91%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%B9%B3%E5%8F%B0-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/</loc>
+    <loc>http://iljyya.github.io/2016/03/22/java%E5%BC%80%E5%8F%91%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%B9%B3%E5%8F%B0-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/</loc>
     <lastmod>2017-05-16T05:26:20.701Z</lastmod>
     <data>
         <display>
@@ -256,7 +391,7 @@
          
            
              
-              <breadCrumb title="tomcat" url="http://yoursite.com/categories/tomcat/"/>
+              <breadCrumb title="tomcat" url="http://iljyya.github.io/categories/tomcat/"/>
           
         </display>
     </data>
@@ -264,7 +399,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/02/16/open-file-in-Cmd-with-Sublime-on-Win/</loc>
+    <loc>http://iljyya.github.io/2017/02/16/open-file-in-Cmd-with-Sublime-on-Win/</loc>
     <lastmod>2017-05-16T05:26:13.888Z</lastmod>
     <data>
         <display>
@@ -276,7 +411,7 @@
          
            
              
-              <breadCrumb title="Sublime Text" url="http://yoursite.com/categories/Sublime-Text/"/>
+              <breadCrumb title="Sublime Text" url="http://iljyya.github.io/categories/Sublime-Text/"/>
           
         </display>
     </data>
@@ -284,87 +419,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/03/13/React-Native-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B8%A9%E5%9D%91/</loc>
-    <lastmod>2017-05-16T05:25:57.858Z</lastmod>
-    <data>
-        <display>
-        <title>React Native 从入门到踩坑</title>
-        <pubTime>2017-03-12T19:50:12.000Z</pubTime>
-        
-        <tag>React Native</tag>
-         
-         
-           
-             
-              <breadCrumb title="React Native" url="http://yoursite.com/categories/React-Native/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/05/04/Shadowsocks-%E4%BB%8E%E5%87%BA%E9%97%A8%E5%88%B0%E5%87%BA%E5%A2%99/</loc>
-    <lastmod>2017-05-16T05:25:53.759Z</lastmod>
-    <data>
-        <display>
-        <title>Shadowsocks 从出门到出墙</title>
-        <pubTime>2017-05-04T08:58:15.000Z</pubTime>
-        
-        <tag>shadowsocks</tag>
-         
-         
-           
-             
-              <breadCrumb title="shadowsocks" url="http://yoursite.com/categories/shadowsocks/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/04/15/Sublime-Text-3-Plugin/</loc>
-    <lastmod>2017-05-16T05:25:49.054Z</lastmod>
-    <data>
-        <display>
-        <title>Sublime Text 3 Plugin</title>
-        <pubTime>2017-04-15T02:40:59.000Z</pubTime>
-        
-        <tag>Sublime Text</tag>
-         
-         
-           
-             
-              <breadCrumb title="Sublime Text" url="http://yoursite.com/categories/Sublime-Text/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/05/16/Sublime-text-3126-%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%BE%E7%A4%BA%E6%96%B9%E6%A1%86/</loc>
-    <lastmod>2017-05-16T05:25:40.122Z</lastmod>
-    <data>
-        <display>
-        <title>Sublime text 3126 中文文件名显示方框</title>
-        <pubTime>2017-05-16T04:17:10.000Z</pubTime>
-        
-        <tag>Sublime text</tag>
-         
-         
-           
-             
-              <breadCrumb title="Sublime text" url="http://yoursite.com/categories/Sublime-text/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/04/23/hexo%20theme%20Material/</loc>
+    <loc>http://iljyya.github.io/2017/04/23/hexo%20theme%20Material/</loc>
     <lastmod>2017-05-05T08:45:36.000Z</lastmod>
     <data>
         <display>
@@ -376,31 +431,11 @@
          
            
              
-              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
+              <breadCrumb title="hexo" url="http://iljyya.github.io/categories/hexo/"/>
           
         </display>
     </data>
     </url>
 
     
-    
-  <url>
-    <loc>http://yoursite.com/2017/04/30/Hexo-theme-Next%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%81%B0%E5%A4%B4%E5%9C%9F%E8%84%B8/</loc>
-    <lastmod>2017-05-04T08:24:20.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo theme Next 从入门到灰头土脸</title>
-        <pubTime>2017-04-30T08:57:56.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
 </urlset>
