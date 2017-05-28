@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iljyya.github.io/"/>
-  <updated>2017-05-21T00:53:05.608Z</updated>
+  <updated>2017-05-28T14:37:40.967Z</updated>
   <id>http://iljyya.github.io/</id>
   
   <author>
@@ -16,49 +16,102 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Windows Subsystem for Linux 初体验</title>
-    <link href="http://iljyya.github.io/2017/05/21/Windows-Subsystem-for-Linux-%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
-    <id>http://iljyya.github.io/2017/05/21/Windows-Subsystem-for-Linux-初体验/</id>
-    <published>2017-05-21T00:51:18.000Z</published>
-    <updated>2017-05-21T00:53:05.608Z</updated>
+    <title>我的简历发展历程</title>
+    <link href="http://iljyya.github.io/2017/05/28/%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B/"/>
+    <id>http://iljyya.github.io/2017/05/28/我的简历发展历程/</id>
+    <published>2017-05-28T14:25:57.000Z</published>
+    <updated>2017-05-28T14:37:40.967Z</updated>
     
-    <content type="html"><![CDATA[<p>微软在Windows10 1607版中提供了一个Linux子系统，用户不需要虚拟机就可以直接运行Linux命令。</p>
-<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><h4 id="打开开发人员模式"><a href="#打开开发人员模式" class="headerlink" title="打开开发人员模式"></a>打开开发人员模式</h4><figure class="image-bubble">
+    <content type="html"><![CDATA[<h3 id="初稿"><a href="#初稿" class="headerlink" title="初稿"></a>初稿</h3><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-4d01ff8eafcf7018.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-f92fbb0b53a23624.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="感觉没什么特色" title="">
                 </div>
-                <div class="image-caption"></div>
+                <div class="image-caption">感觉没什么特色</div>
             </figure>
+<hr>
 <a id="more"></a>
-<h4 id="勾选-WSL-确定"><a href="#勾选-WSL-确定" class="headerlink" title="勾选 WSL 确定"></a>勾选 WSL 确定</h4><figure class="image-bubble">
+<figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-38a2455919364465.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-44e0d715bc6b8e29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="是好看了，但是感觉不实在" title="">
+                </div>
+                <div class="image-caption">是好看了，但是感觉不实在</div>
+            </figure>
+<hr>
+<h3 id="制作过程的一些细节"><a href="#制作过程的一些细节" class="headerlink" title="制作过程的一些细节"></a>制作过程的一些细节</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-6a5749ab919f6c60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="字的背后不能有灰色横线" title="">
+                </div>
+                <div class="image-caption">字的背后不能有灰色横线</div>
+            </figure>
+<hr>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-37ba5d49d5ba291f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="取色标记" title="">
+                </div>
+                <div class="image-caption">取色标记</div>
+            </figure>
+<hr>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-6cb99dccda2497be.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="智能参考线对齐" title="">
+                </div>
+                <div class="image-caption">智能参考线对齐</div>
+            </figure>
+<hr>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-0004cb47f285b2f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="按住 ctrl 选中多个文字图层，批量改变字体字色" title="">
+                </div>
+                <div class="image-caption">按住 ctrl 选中多个文字图层，批量改变字体字色</div>
+            </figure>
+<hr>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-71be5dcb29f99e39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="关掉可以减小文件" title="">
+                </div>
+                <div class="image-caption">关掉可以减小文件</div>
+            </figure>
+<hr>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-7c49ae78ea776b2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="默认100是600k, 有点虚；150是1M, 画质中等；200图片就很清晰了，2M, 考虑是简历, 1M比较合适" title="">
+                </div>
+                <div class="image-caption">默认100是600k, 有点虚；150是1M, 画质中等；200图片就很清晰了，2M, 考虑是简历, 1M比较合适</div>
+            </figure>
+<hr>
+<h3 id="成品"><a href="#成品" class="headerlink" title="成品"></a>成品</h3><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-0d9f545cc5b95ff0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
-            </figure>
-<h4 id="CMD-运行-bash"><a href="#CMD-运行-bash" class="headerlink" title="CMD 运行 bash"></a>CMD 运行 bash</h4><p>自动下载安装，等待几分钟，CMD 运行 bash，就可以进入系统了。</p>
-<h3 id="安装-组件"><a href="#安装-组件" class="headerlink" title="安装 组件"></a>安装 组件</h3><figure class="highlight swift"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">sudo apt-<span class="keyword">get</span> git</div><div class="line">sudo apt-<span class="keyword">get</span> zsh</div><div class="line">sh -<span class="built_in">c</span> <span class="string">"$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"</span></div></pre></td></tr></table></figure>
-<p>但是 apache2 和 nginx 的服务器 start 没反应，查了半小时也无果。</p>]]></content>
+            </figure>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;微软在Windows10 1607版中提供了一个Linux子系统，用户不需要虚拟机就可以直接运行Linux命令。&lt;/p&gt;
-&lt;h3 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h3&gt;&lt;h4 id=&quot;打开开发人员模式&quot;&gt;&lt;a href=&quot;#打开开发人员模式&quot; class=&quot;headerlink&quot; title=&quot;打开开发人员模式&quot;&gt;&lt;/a&gt;打开开发人员模式&lt;/h4&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+      &lt;h3 id=&quot;初稿&quot;&gt;&lt;a href=&quot;#初稿&quot; class=&quot;headerlink&quot; title=&quot;初稿&quot;&gt;&lt;/a&gt;初稿&lt;/h3&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
                 &lt;div class=&quot;img-lightbox&quot;&gt;
                     &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-4d01ff8eafcf7018.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-f92fbb0b53a23624.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;感觉没什么特色&quot; title=&quot;&quot;&gt;
                 &lt;/div&gt;
-                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;感觉没什么特色&lt;/div&gt;
             &lt;/figure&gt;
+&lt;hr&gt;
     
     </summary>
     
-      <category term="Linux" scheme="http://iljyya.github.io/categories/Linux/"/>
+      <category term="resume" scheme="http://iljyya.github.io/categories/resume/"/>
     
     
-      <category term="Linux" scheme="http://iljyya.github.io/tags/Linux/"/>
+      <category term="resume" scheme="http://iljyya.github.io/tags/resume/"/>
     
   </entry>
   
@@ -73,50 +126,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Android Studio 下载安装配置</title>
-    <link href="http://iljyya.github.io/2017/05/20/Android-Studio-%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/"/>
-    <id>http://iljyya.github.io/2017/05/20/Android-Studio-下载安装配置/</id>
-    <published>2017-05-20T05:40:07.000Z</published>
-    <updated>2017-05-20T05:51:51.166Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>官方被强了，所以在<a href="http://www.androiddevtools.cn/" target="_blank" rel="external">国内镜像</a>下载比较快。<br><a id="more"></a></p>
-<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>按照标准走就好，下 SDK 慢可以翻墙，我用的 Shadowsocks 。</p>
-<h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><h4 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h4><p>打开设置就能看到，设成 Darcula 炫酷黑<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-fe5fab804d15e2e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>
-<h4 id="字号"><a href="#字号" class="headerlink" title="字号"></a>字号</h4><p>搜索 font 进入设置，点击 Save As 保存自定义主题，即可编辑字号。<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-046bedd1b2c00670.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>
-<h4 id="自动导包"><a href="#自动导包" class="headerlink" title="自动导包"></a>自动导包</h4><p>勾选如下两项即可<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-3c58289fdd470db8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h3&gt;&lt;p&gt;官方被强了，所以在&lt;a href=&quot;http://www.androiddevtools.cn/&quot;&gt;国内镜像&lt;/a&gt;下载比较快。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="Android Studio" scheme="http://iljyya.github.io/categories/Android-Studio/"/>
-    
-    
-      <category term="Android Studio" scheme="http://iljyya.github.io/tags/Android-Studio/"/>
     
   </entry>
   
@@ -776,6 +785,53 @@
   </entry>
   
   <entry>
+    <title>Windows Subsystem for Linux 初体验</title>
+    <link href="http://iljyya.github.io/2016/11/21/Windows-Subsystem-for-Linux-%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <id>http://iljyya.github.io/2016/11/21/Windows-Subsystem-for-Linux-初体验/</id>
+    <published>2016-11-21T00:51:18.000Z</published>
+    <updated>2017-05-21T00:54:44.077Z</updated>
+    
+    <content type="html"><![CDATA[<p>微软在Windows10 1607版中提供了一个Linux子系统，用户不需要虚拟机就可以直接运行Linux命令。</p>
+<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><h4 id="打开开发人员模式"><a href="#打开开发人员模式" class="headerlink" title="打开开发人员模式"></a>打开开发人员模式</h4><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-4d01ff8eafcf7018.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<a id="more"></a>
+<h4 id="勾选-WSL-确定"><a href="#勾选-WSL-确定" class="headerlink" title="勾选 WSL 确定"></a>勾选 WSL 确定</h4><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-38a2455919364465.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h4 id="CMD-运行-bash"><a href="#CMD-运行-bash" class="headerlink" title="CMD 运行 bash"></a>CMD 运行 bash</h4><p>自动下载安装，等待几分钟，CMD 运行 bash，就可以进入系统了。</p>
+<h3 id="安装-组件"><a href="#安装-组件" class="headerlink" title="安装 组件"></a>安装 组件</h3><figure class="highlight swift"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">sudo apt-<span class="keyword">get</span> git</div><div class="line">sudo apt-<span class="keyword">get</span> zsh</div><div class="line">sh -<span class="built_in">c</span> <span class="string">"$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"</span></div></pre></td></tr></table></figure>
+<p>但是 apache2 和 nginx 的服务器 start 没反应，查了半小时也无果。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;微软在Windows10 1607版中提供了一个Linux子系统，用户不需要虚拟机就可以直接运行Linux命令。&lt;/p&gt;
+&lt;h3 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h3&gt;&lt;h4 id=&quot;打开开发人员模式&quot;&gt;&lt;a href=&quot;#打开开发人员模式&quot; class=&quot;headerlink&quot; title=&quot;打开开发人员模式&quot;&gt;&lt;/a&gt;打开开发人员模式&lt;/h4&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-4d01ff8eafcf7018.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://iljyya.github.io/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://iljyya.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
     <title>CAD 从0到画设计图</title>
     <link href="http://iljyya.github.io/2016/09/15/CAD-%E4%BB%8E0%E5%88%B0%E7%94%BB%E8%AE%BE%E8%AE%A1%E5%9B%BE/"/>
     <id>http://iljyya.github.io/2016/09/15/CAD-从0到画设计图/</id>
@@ -945,6 +1001,33 @@
   </entry>
   
   <entry>
+    <title>内嵌 js 趣味浏览器书签</title>
+    <link href="http://iljyya.github.io/2016/05/28/%E5%86%85%E5%B5%8C-js-%E8%B6%A3%E5%91%B3%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B9%A6%E7%AD%BE/"/>
+    <id>http://iljyya.github.io/2016/05/28/内嵌-js-趣味浏览器书签/</id>
+    <published>2016-05-28T14:27:51.000Z</published>
+    <updated>2017-05-28T14:40:51.538Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="让网页跳舞"><a href="#让网页跳舞" class="headerlink" title="让网页跳舞"></a>让网页跳舞</h3><h4 id="书签链接"><a href="#书签链接" class="headerlink" title="书签链接"></a>书签链接</h4><a id="more"></a>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">javascript:(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;<span class="function"><span class="keyword">function</span> <span class="title">c</span>(<span class="params"></span>)</span>&#123;<span class="keyword">var</span> e=<span class="built_in">document</span>.createElement(<span class="string">"link"</span>);e.setAttribute(<span class="string">"type"</span>,<span class="string">"text/css"</span>);e.setAttribute(<span class="string">"rel"</span>,<span class="string">"stylesheet"</span>);e.setAttribute(<span class="string">"href"</span>,f);e.setAttribute(<span class="string">"class"</span>,l);<span class="built_in">document</span>.body.appendChild(e)&#125;<span class="function"><span class="keyword">function</span> <span class="title">h</span>(<span class="params"></span>)</span>&#123;<span class="keyword">var</span> e=<span class="built_in">document</span>.getElementsByClassName(l);<span class="keyword">for</span>(<span class="keyword">var</span> t=<span class="number">0</span>;t&lt;e.length;t++)&#123;<span class="built_in">document</span>.body.removeChild(e[t])&#125;&#125;<span class="function"><span class="keyword">function</span> <span class="title">p</span>(<span class="params"></span>)</span>&#123;<span class="keyword">var</span> e=<span class="built_in">document</span>.createElement(<span class="string">"div"</span>);e.setAttribute(<span class="string">"class"</span>,a);<span class="built_in">document</span>.body.appendChild(e);setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;<span class="built_in">document</span>.body.removeChild(e)&#125;,<span class="number">100</span>)&#125;<span class="function"><span class="keyword">function</span> <span class="title">d</span>(<span class="params">e</span>)</span>&#123;<span class="keyword">return</span>&#123;<span class="attr">height</span>:e.offsetHeight,<span class="attr">width</span>:e.offsetWidth&#125;&#125;<span class="function"><span class="keyword">function</span> <span class="title">v</span>(<span class="params">i</span>)</span>&#123;<span class="keyword">var</span> s=d(i);<span class="keyword">return</span> s.height&gt;e&amp;&amp;s.height&lt;n&amp;&amp;s.width&gt;t&amp;&amp;s.width&lt;r&#125;<span class="function"><span class="keyword">function</span> <span class="title">m</span>(<span class="params">e</span>)</span>&#123;<span class="keyword">var</span> t=e;<span class="keyword">var</span> n=<span class="number">0</span>;<span class="keyword">while</span>(!!t)&#123;n+=t.offsetTop;t=t.offsetParent&#125;<span class="keyword">return</span> n&#125;<span class="function"><span class="keyword">function</span> <span class="title">g</span>(<span class="params"></span>)</span>&#123;<span class="keyword">var</span> e=<span class="built_in">document</span>.documentElement;<span class="keyword">if</span>(!!<span class="built_in">window</span>.innerWidth)&#123;<span class="keyword">return</span> <span class="built_in">window</span>.innerHeight&#125;<span class="keyword">else</span> <span class="keyword">if</span>(e&amp;&amp;!<span class="built_in">isNaN</span>(e.clientHeight))&#123;<span class="keyword">return</span> e.clientHeight&#125;<span class="keyword">return</span> <span class="number">0</span>&#125;<span class="function"><span class="keyword">function</span> <span class="title">y</span>(<span class="params"></span>)</span>&#123;<span class="keyword">if</span>(<span class="built_in">window</span>.pageYOffset)&#123;<span class="keyword">return</span> <span class="built_in">window</span>.pageYOffset&#125;<span class="keyword">return</span> <span class="built_in">Math</span>.max(<span class="built_in">document</span>.documentElement.scrollTop,<span class="built_in">document</span>.body.scrollTop)&#125;<span class="function"><span class="keyword">function</span> <span class="title">E</span>(<span class="params">e</span>)</span>&#123;<span class="keyword">var</span> t=m(e);<span class="keyword">return</span> t&gt;=w&amp;&amp;t&lt;=b+w&#125;<span class="function"><span class="keyword">function</span> <span class="title">S</span>(<span class="params"></span>)</span>&#123;<span class="keyword">var</span> e=<span class="built_in">document</span>.createElement(<span class="string">"audio"</span>);e.setAttribute(<span class="string">"class"</span>,l);e.src=i;e.loop=<span class="literal">false</span>;e.addEventListener(<span class="string">"canplay"</span>,<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;x(k)&#125;,<span class="number">500</span>);setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;N();p();<span class="keyword">for</span>(<span class="keyword">var</span> e=<span class="number">0</span>;e&lt;O.length;e++)&#123;T(O[e])&#125;&#125;,<span class="number">15500</span>)&#125;,<span class="literal">true</span>);e.addEventListener(<span class="string">"ended"</span>,<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;N();h()&#125;,<span class="literal">true</span>);e.innerHTML=<span class="string">" &lt;p&gt;If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.&lt;/p&gt; &lt;p&gt;"</span>;<span class="built_in">document</span>.body.appendChild(e);e.play()&#125;<span class="function"><span class="keyword">function</span> <span class="title">x</span>(<span class="params">e</span>)</span>&#123;e.className+=<span class="string">" "</span>+s+<span class="string">" "</span>+o&#125;<span class="function"><span class="keyword">function</span> <span class="title">T</span>(<span class="params">e</span>)</span>&#123;e.className+=<span class="string">" "</span>+s+<span class="string">" "</span>+u[<span class="built_in">Math</span>.floor(<span class="built_in">Math</span>.random()*u.length)]&#125;<span class="function"><span class="keyword">function</span> <span class="title">N</span>(<span class="params"></span>)</span>&#123;<span class="keyword">var</span> e=<span class="built_in">document</span>.getElementsByClassName(s);<span class="keyword">var</span> t=<span class="keyword">new</span> <span class="built_in">RegExp</span>(<span class="string">"\\b"</span>+s+<span class="string">"\\b"</span>);<span class="keyword">for</span>(<span class="keyword">var</span> n=<span class="number">0</span>;n&lt;e.length;)&#123;e[n].className=e[n].className.replace(t,<span class="string">""</span>)&#125;&#125;<span class="keyword">var</span> e=<span class="number">30</span>;<span class="keyword">var</span> t=<span class="number">30</span>;<span class="keyword">var</span> n=<span class="number">350</span>;<span class="keyword">var</span> r=<span class="number">350</span>;<span class="keyword">var</span> i=<span class="string">"//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3"</span>;<span class="keyword">var</span> s=<span class="string">"mw-harlem_shake_me"</span>;<span class="keyword">var</span> o=<span class="string">"im_first"</span>;<span class="keyword">var</span> u=[<span class="string">"im_drunk"</span>,<span class="string">"im_baked"</span>,<span class="string">"im_trippin"</span>,<span class="string">"im_blown"</span>];<span class="keyword">var</span> a=<span class="string">"mw-strobe_light"</span>;<span class="keyword">var</span> f=<span class="string">"//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css"</span>;<span class="keyword">var</span> l=<span class="string">"mw_added_css"</span>;<span class="keyword">var</span> b=g();<span class="keyword">var</span> w=y();<span class="keyword">var</span> C=<span class="built_in">document</span>.getElementsByTagName(<span class="string">"*"</span>);<span class="keyword">var</span> k=<span class="literal">null</span>;<span class="keyword">for</span>(<span class="keyword">var</span> L=<span class="number">0</span>;L&lt;C.length;L++)&#123;<span class="keyword">var</span> A=C[L];<span class="keyword">if</span>(v(A))&#123;<span class="keyword">if</span>(E(A))&#123;k=A;<span class="keyword">break</span>&#125;&#125;&#125;<span class="keyword">if</span>(A===<span class="literal">null</span>)&#123;<span class="built_in">console</span>.warn(<span class="string">"Could not find a node of the right size. Please try a different page."</span>);<span class="keyword">return</span>&#125;c();S();<span class="keyword">var</span> O=[];<span class="keyword">for</span>(<span class="keyword">var</span> L=<span class="number">0</span>;L&lt;C.length;L++)&#123;<span class="keyword">var</span> A=C[L];<span class="keyword">if</span>(v(A))&#123;O.push(A)&#125;&#125;&#125;)()</div></pre></td></tr></table></figure>
+<h4 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h4><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div><div class="line">99</div><div class="line">100</div><div class="line">101</div><div class="line">102</div><div class="line">103</div><div class="line">104</div><div class="line">105</div><div class="line">106</div><div class="line">107</div><div class="line">108</div><div class="line">109</div><div class="line">110</div><div class="line">111</div><div class="line">112</div><div class="line">113</div><div class="line">114</div><div class="line">115</div><div class="line">116</div><div class="line">117</div><div class="line">118</div><div class="line">119</div><div class="line">120</div><div class="line">121</div><div class="line">122</div><div class="line">123</div><div class="line">124</div><div class="line">125</div><div class="line">126</div><div class="line">127</div><div class="line">128</div><div class="line">129</div><div class="line">130</div><div class="line">131</div><div class="line">132</div><div class="line">133</div><div class="line">134</div><div class="line">135</div><div class="line">136</div><div class="line">137</div><div class="line">138</div><div class="line">139</div><div class="line">140</div><div class="line">141</div><div class="line">142</div><div class="line">143</div><div class="line">144</div><div class="line">145</div><div class="line">146</div><div class="line">147</div><div class="line">148</div><div class="line">149</div></pre></td><td class="code"><pre><div class="line">javascript: (<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">c</span>(<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> e = <span class="built_in">document</span>.createElement(<span class="string">"link"</span>);</div><div class="line">        e.setAttribute(<span class="string">"type"</span>, <span class="string">"text/css"</span>);</div><div class="line">        e.setAttribute(<span class="string">"rel"</span>, <span class="string">"stylesheet"</span>);</div><div class="line">        e.setAttribute(<span class="string">"href"</span>, f);</div><div class="line">        e.setAttribute(<span class="string">"class"</span>, l);</div><div class="line">        <span class="built_in">document</span>.body.appendChild(e)</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">h</span>(<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> e = <span class="built_in">document</span>.getElementsByClassName(l);</div><div class="line">        <span class="keyword">for</span> (<span class="keyword">var</span> t = <span class="number">0</span>; t &lt; e.length; t++) &#123;</div><div class="line">            <span class="built_in">document</span>.body.removeChild(e[t])</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">p</span>(<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> e = <span class="built_in">document</span>.createElement(<span class="string">"div"</span>);</div><div class="line">        e.setAttribute(<span class="string">"class"</span>, a);</div><div class="line">        <span class="built_in">document</span>.body.appendChild(e);</div><div class="line">        setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">            <span class="built_in">document</span>.body.removeChild(e)</div><div class="line">        &#125;, <span class="number">100</span>)</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">d</span>(<span class="params">e</span>) </span>&#123;</div><div class="line">        <span class="keyword">return</span> &#123;</div><div class="line">            <span class="attr">height</span>: e.offsetHeight,</div><div class="line">            <span class="attr">width</span>: e.offsetWidth</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">v</span>(<span class="params">i</span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> s = d(i);</div><div class="line">        <span class="keyword">return</span> s.height &gt; e &amp;&amp; s.height &lt; n &amp;&amp; s.width &gt; t &amp;&amp; s.width &lt; r</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">m</span>(<span class="params">e</span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> t = e;</div><div class="line">        <span class="keyword">var</span> n = <span class="number">0</span>;</div><div class="line">        <span class="keyword">while</span> (!!t) &#123;</div><div class="line">            n += t.offsetTop;</div><div class="line">            t = t.offsetParent</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">return</span> n</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">g</span>(<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> e = <span class="built_in">document</span>.documentElement;</div><div class="line">        <span class="keyword">if</span> (!!<span class="built_in">window</span>.innerWidth) &#123;</div><div class="line">            <span class="keyword">return</span> <span class="built_in">window</span>.innerHeight</div><div class="line">        &#125; <span class="keyword">else</span> <span class="keyword">if</span> (e &amp;&amp; !<span class="built_in">isNaN</span>(e.clientHeight)) &#123;</div><div class="line">            <span class="keyword">return</span> e.clientHeight</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">return</span> <span class="number">0</span></div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">y</span>(<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="keyword">if</span> (<span class="built_in">window</span>.pageYOffset) &#123;</div><div class="line">            <span class="keyword">return</span> <span class="built_in">window</span>.pageYOffset</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">return</span> <span class="built_in">Math</span>.max(<span class="built_in">document</span>.documentElement.scrollTop, <span class="built_in">document</span>.body.scrollTop)</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">E</span>(<span class="params">e</span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> t = m(e);</div><div class="line">        <span class="keyword">return</span> t &gt;= w &amp;&amp; t &lt;= b + w</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">S</span>(<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> e = <span class="built_in">document</span>.createElement(<span class="string">"audio"</span>);</div><div class="line">        e.setAttribute(<span class="string">"class"</span>, l);</div><div class="line">        e.src = i;</div><div class="line">        e.loop = <span class="literal">false</span>;</div><div class="line">        e.addEventListener(<span class="string">"canplay"</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">            setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">                x(k)</div><div class="line">            &#125;, <span class="number">500</span>);</div><div class="line">            setTimeout(<span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">                N();</div><div class="line">                p();</div><div class="line">                <span class="keyword">for</span> (<span class="keyword">var</span> e = <span class="number">0</span>; e &lt; O.length; e++) &#123;</div><div class="line">                    T(O[e])</div><div class="line">                &#125;</div><div class="line">            &#125;, <span class="number">15500</span>)</div><div class="line">        &#125;, <span class="literal">true</span>);</div><div class="line">        e.addEventListener(<span class="string">"ended"</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">            N();</div><div class="line">            h()</div><div class="line">        &#125;, <span class="literal">true</span>);</div><div class="line">        e.innerHTML = <span class="string">" &lt;p&gt;If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.&lt;/p&gt; &lt;p&gt;"</span>;</div><div class="line">        <span class="built_in">document</span>.body.appendChild(e);</div><div class="line">        e.play()</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">x</span>(<span class="params">e</span>) </span>&#123;</div><div class="line">        e.className += <span class="string">" "</span> + s + <span class="string">" "</span> + o</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">T</span>(<span class="params">e</span>) </span>&#123;</div><div class="line">        e.className += <span class="string">" "</span> + s + <span class="string">" "</span> + u[<span class="built_in">Math</span>.floor(<span class="built_in">Math</span>.random() * u.length)]</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">function</span> <span class="title">N</span>(<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> e = <span class="built_in">document</span>.getElementsByClassName(s);</div><div class="line">        <span class="keyword">var</span> t = <span class="keyword">new</span> <span class="built_in">RegExp</span>(<span class="string">"\\b"</span> + s + <span class="string">"\\b"</span>);</div><div class="line">        <span class="keyword">for</span> (<span class="keyword">var</span> n = <span class="number">0</span>; n &lt; e.length;) &#123;</div><div class="line">            e[n].className = e[n].className.replace(t, <span class="string">""</span>)</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">var</span> e = <span class="number">30</span>;</div><div class="line">    <span class="keyword">var</span> t = <span class="number">30</span>;</div><div class="line">    <span class="keyword">var</span> n = <span class="number">350</span>;</div><div class="line">    <span class="keyword">var</span> r = <span class="number">350</span>;</div><div class="line">    <span class="keyword">var</span> i = <span class="string">"//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3"</span>;</div><div class="line">    <span class="keyword">var</span> s = <span class="string">"mw-harlem_shake_me"</span>;</div><div class="line">    <span class="keyword">var</span> o = <span class="string">"im_first"</span>;</div><div class="line">    <span class="keyword">var</span> u = [<span class="string">"im_drunk"</span>, <span class="string">"im_baked"</span>, <span class="string">"im_trippin"</span>, <span class="string">"im_blown"</span>];</div><div class="line">    <span class="keyword">var</span> a = <span class="string">"mw-strobe_light"</span>;</div><div class="line">    <span class="keyword">var</span> f = <span class="string">"//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css"</span>;</div><div class="line">    <span class="keyword">var</span> l = <span class="string">"mw_added_css"</span>;</div><div class="line">    <span class="keyword">var</span> b = g();</div><div class="line">    <span class="keyword">var</span> w = y();</div><div class="line">    <span class="keyword">var</span> C = <span class="built_in">document</span>.getElementsByTagName(<span class="string">"*"</span>);</div><div class="line">    <span class="keyword">var</span> k = <span class="literal">null</span>;</div><div class="line">    <span class="keyword">for</span> (<span class="keyword">var</span> L = <span class="number">0</span>; L &lt; C.length; L++) &#123;</div><div class="line">        <span class="keyword">var</span> A = C[L];</div><div class="line">        <span class="keyword">if</span> (v(A)) &#123;</div><div class="line">            <span class="keyword">if</span> (E(A)) &#123;</div><div class="line">                k = A;</div><div class="line">                <span class="keyword">break</span></div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">if</span> (A === <span class="literal">null</span>) &#123;</div><div class="line">        <span class="built_in">console</span>.warn(<span class="string">"Could not find a node of the right size. Please try a different page."</span>);</div><div class="line">        <span class="keyword">return</span></div><div class="line">    &#125;</div><div class="line">    c();</div><div class="line">    S();</div><div class="line">    <span class="keyword">var</span> O = [];</div><div class="line">    <span class="keyword">for</span> (<span class="keyword">var</span> L = <span class="number">0</span>; L &lt; C.length; L++) &#123;</div><div class="line">        <span class="keyword">var</span> A = C[L];</div><div class="line">        <span class="keyword">if</span> (v(A)) &#123;</div><div class="line">            O.push(A)</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">&#125;)()</div></pre></td></tr></table></figure>
+<h3 id="变出飞机把网页元素打光"><a href="#变出飞机把网页元素打光" class="headerlink" title="变出飞机把网页元素打光"></a>变出飞机把网页元素打光</h3><h4 id="书签链接-1"><a href="#书签链接-1" class="headerlink" title="书签链接"></a>书签链接</h4><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">javascript: <span class="keyword">var</span> s = <span class="built_in">document</span>.createElement(<span class="string">'script'</span>); s.type = <span class="string">'text/javascript'</span>; <span class="built_in">document</span>.body.appendChild(s); s.src = <span class="string">' http://www.xhily.cn/fj.js '</span>; <span class="keyword">void</span>(<span class="number">0</span>);</div></pre></td></tr></table></figure>
+<h4 id="源码-1"><a href="#源码-1" class="headerlink" title="源码"></a>源码</h4><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">javascript: <span class="keyword">var</span> s = <span class="built_in">document</span>.createElement(<span class="string">'script'</span>);</div><div class="line">s.type = <span class="string">'text/javascript'</span>;</div><div class="line"><span class="built_in">document</span>.body.appendChild(s);</div><div class="line">s.src = <span class="string">' http://www.xhily.cn/fj.js '</span>;</div><div class="line"><span class="keyword">void</span>(<span class="number">0</span>);</div></pre></td></tr></table></figure>
+<p>外链 js 太长就不贴了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;让网页跳舞&quot;&gt;&lt;a href=&quot;#让网页跳舞&quot; class=&quot;headerlink&quot; title=&quot;让网页跳舞&quot;&gt;&lt;/a&gt;让网页跳舞&lt;/h3&gt;&lt;h4 id=&quot;书签链接&quot;&gt;&lt;a href=&quot;#书签链接&quot; class=&quot;headerlink&quot; title=&quot;书签链接&quot;&gt;&lt;/a&gt;书签链接&lt;/h4&gt;
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://iljyya.github.io/categories/javascript/"/>
+    
+    
+      <category term="javascript" scheme="http://iljyya.github.io/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Awesome Java QAs</title>
     <link href="http://iljyya.github.io/2016/05/07/Awesome%20Java%20QAs/"/>
     <id>http://iljyya.github.io/2016/05/07/Awesome Java QAs/</id>
@@ -968,48 +1051,6 @@
       &lt;h3 id=&quot;Java中是否可以覆盖-override-一个private或者是static的方法&quot;&gt;&lt;a href=&quot;#Java中是否可以覆盖-override-一个private或者是static的方法&quot; class=&quot;headerlink&quot; title=&quot;Java中是否可以覆盖(override)一个private或者是static的方法?&quot;&gt;&lt;/a&gt;Java中是否可以覆盖(override)一个private或者是static的方法?&lt;/h3&gt;&lt;p&gt;static表示静态的意义，它可以修饰一个变量，一个方法，被其修饰的变量被称为类变量，被其修饰的方法成为类方法，其随着类的加载而被加载。&lt;br&gt;无法重写被private修饰的方法，因为被private修饰的父类方法在子类中是不可见的。&lt;br&gt;static修饰的方法是静态绑定的，而方法覆盖是为了实现多态，是动态绑定，所以static修饰的方法不需要被覆盖。&lt;br&gt;
     
     </summary>
-    
-    
-      <category term="java" scheme="http://iljyya.github.io/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用sublime-Text-3进行java编程</title>
-    <link href="http://iljyya.github.io/2016/05/05/%E4%BD%BF%E7%94%A8sublime-Text-3%E8%BF%9B%E8%A1%8Cjava%E7%BC%96%E7%A8%8B/"/>
-    <id>http://iljyya.github.io/2016/05/05/使用sublime-Text-3进行java编程/</id>
-    <published>2016-05-05T01:50:12.000Z</published>
-    <updated>2017-05-16T05:28:07.759Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="实现sublime-Text-3对Java编译执行"><a href="#实现sublime-Text-3对Java编译执行" class="headerlink" title="实现sublime Text 3对Java编译执行"></a>实现sublime Text 3对Java编译执行</h3><p>直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：<br><a id="more"></a></p>
-<figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&#123;  </div><div class="line">    <span class="attr">"shell_cmd"</span>: <span class="string">"javaRun \"$file\""</span>,  </div><div class="line">    <span class="attr">"file_regex"</span>: <span class="string">"^(...*?):([0-9]*):?([0-9]*)"</span>,  </div><div class="line">    <span class="attr">"selector"</span>: <span class="string">"source.java"</span>,  </div><div class="line">    <span class="attr">"encoding"</span>:<span class="string">"cp936"</span>  </div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<!--more-->
-<p>然后在jdk安装路径下的bin目录中新建一个javaRun.bat批处理文件，内容如下：</p>
-<figure class="highlight dos"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">@<span class="built_in">ECHO</span> OFF  </div><div class="line"><span class="built_in">cd</span> %~dp1  </div><div class="line"><span class="built_in">ECHO</span> Compiling %~nx1.......  </div><div class="line"><span class="keyword">IF</span> <span class="keyword">EXIST</span> %~n1.class (  </div><div class="line"><span class="built_in">DEL</span> %~n1.class  </div><div class="line">)  </div><div class="line">javac  %~nx1  </div><div class="line"><span class="keyword">IF</span> <span class="keyword">EXIST</span> %~n1.class (  </div><div class="line"><span class="built_in">ECHO</span> -----------OUTPUT-----------  </div><div class="line">java %~n1  </div><div class="line">)</div></pre></td></tr></table></figure>
-<p>之后就可以使用ctrl+B</p>
-<h3 id="若显示编译显示-Decode-error-output-not-utf-8"><a href="#若显示编译显示-Decode-error-output-not-utf-8" class="headerlink" title="若显示编译显示[Decode error - output not utf-8]"></a>若显示编译显示[Decode error - output not utf-8]</h3><p>SublimeText3\Packages\Java.sublime-package\JavaC.sublime-build\<br>添加     “encoding”:”cp936”</p>
-<h3 id="编译显示：-编码GBK的不可映射字符【注：需要在前面的基础下】"><a href="#编译显示：-编码GBK的不可映射字符【注：需要在前面的基础下】" class="headerlink" title="编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】"></a>编译显示： 编码GBK的不可映射字符【注：需要在前面的基础下】</h3><p>将上述javaRun.bat修改为：</p>
-<pre><code>[plain] view plain copy 在CODE上查看代码片派生到我的代码片
-@ECHO OFF  
-cd %~dp1  
-ECHO Compiling %~nx1.......  
-IF EXIST %~n1.class (  
-DEL %~n1.class  
-)  
-javac -encoding UTF-8 %~nx1  
-IF EXIST %~n1.class (  
-ECHO -----------OUTPUT-----------  
-java %~n1  
-)  
-</code></pre><p><a href="http://blog.csdn.net/wolinxuebin/article/details/41049551" target="_blank" rel="external">原文</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;实现sublime-Text-3对Java编译执行&quot;&gt;&lt;a href=&quot;#实现sublime-Text-3对Java编译执行&quot; class=&quot;headerlink&quot; title=&quot;实现sublime Text 3对Java编译执行&quot;&gt;&lt;/a&gt;实现sublime Text 3对Java编译执行&lt;/h3&gt;&lt;p&gt;直接在安装路径下找到*\Packages\Java.sublime-package文件，用解压缩软件打开，找到JavaC.sublime-build文件，将shell_cmd中的javac改成javaRun，保存后将原压缩文件中的文件替换，如果你的sublime text 3已经打开，会报错，关闭后再次覆盖。代码如下：&lt;br&gt;
-    
-    </summary>
-    
-      <category term="java" scheme="http://iljyya.github.io/categories/java/"/>
     
     
       <category term="java" scheme="http://iljyya.github.io/tags/java/"/>
