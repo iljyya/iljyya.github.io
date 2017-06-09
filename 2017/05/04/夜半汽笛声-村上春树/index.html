@@ -3,7 +3,9 @@
 <head>
     
     
-    
+    s
+    <div id="container"></div>
+
     <meta charset="utf-8">
     
     
@@ -124,8 +126,9 @@
         </a>
         
     </div>
-</header>
 
+
+</header>
 
 
 <header class="content-header post-header">
@@ -254,7 +257,22 @@
   
 </nav>
 
-    
+    <section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'iljyya',
+            repo: 'comments',
+            oauth: {
+                client_id: 'f851449a81bef86857ac',
+                client_secret: '6f3ce61b5e4f9518a13640a35773e5371a575898',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
 </article>
 <div id="reward" class="page-modal reward-lay">
     <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>

@@ -3,7 +3,9 @@
 <head>
     
     
-    
+    s
+    <div id="container"></div>
+
     <meta charset="utf-8">
     
     
@@ -126,8 +128,9 @@
         </a>
         
     </div>
-</header>
 
+
+</header>
 
 
 <header class="content-header post-header">
@@ -175,13 +178,7 @@
 <h3 id="花生壳"><a href="#花生壳" class="headerlink" title="花生壳"></a>花生壳</h3><p>只有电信免费，认证费6块，联通的要198/年，心疼自己是联通。</p>
 <h3 id="ngrok"><a href="#ngrok" class="headerlink" title="ngrok"></a>ngrok</h3><p>国外的，慢。</p>
 <h3 id="natapp-cn"><a href="#natapp-cn" class="headerlink" title="natapp.cn"></a>natapp.cn</h3><p>操作很简单，看着贴心的教程很快搞定。<br><a href="https://natapp.cn/article/natapp_newbie" target="_blank" rel="external">NATAPP1分钟快速新手图文教程 传送门</a><br>看到这个就算成功</p>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-aacf230347fc5715.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-aacf230347fc5715.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
         </div>
 
         <blockquote class="post-copyright">
@@ -270,7 +267,22 @@
   
 </nav>
 
-    
+    <section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'iljyya',
+            repo: 'comments',
+            oauth: {
+                client_id: 'f851449a81bef86857ac',
+                client_secret: '6f3ce61b5e4f9518a13640a35773e5371a575898',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
 </article>
 <div id="reward" class="page-modal reward-lay">
     <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>

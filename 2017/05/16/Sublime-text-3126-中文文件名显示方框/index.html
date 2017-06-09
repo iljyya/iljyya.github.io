@@ -3,7 +3,9 @@
 <head>
     
     
-    
+    s
+    <div id="container"></div>
+
     <meta charset="utf-8">
     
     
@@ -126,8 +128,9 @@
         </a>
         
     </div>
-</header>
 
+
+</header>
 
 
 <header class="content-header post-header">
@@ -173,13 +176,7 @@
             <h3 id="问题根本"><a href="#问题根本" class="headerlink" title="问题根本"></a>问题根本</h3><p>Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。<br><a id="more"></a></p>
 <h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p><code>Preferences</code>-<code>Settings-User</code> 加上<code>&quot;dpi_scale&quot;: 1.0</code><br>但字会变很小，<a href="https://www.zhihu.com/question/24029280" target="_blank" rel="external">详细解决方法</a></p>
 <h3 id="奇遇"><a href="#奇遇" class="headerlink" title="奇遇"></a>奇遇</h3><p>折腾半天发现Sublime text Dev channel 3130解决了这个bug，但是需要巨款注册，不过有特俗渠道：thepiratebay, cracknow.<br>哈哈，塞翁失马！</p>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-413b3cdf34c40471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-413b3cdf34c40471.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
         </div>
 
         <blockquote class="post-copyright">
@@ -268,7 +265,22 @@
   
 </nav>
 
-    
+    <section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'iljyya',
+            repo: 'comments',
+            oauth: {
+                client_id: 'f851449a81bef86857ac',
+                client_secret: '6f3ce61b5e4f9518a13640a35773e5371a575898',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
 </article>
 <div id="reward" class="page-modal reward-lay">
     <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>

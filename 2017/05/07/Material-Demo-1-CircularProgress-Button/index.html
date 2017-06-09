@@ -3,7 +3,9 @@
 <head>
     
     
-    
+    s
+    <div id="container"></div>
+
     <meta charset="utf-8">
     
     
@@ -15,19 +17,19 @@
     
     
     <meta name="keywords" content="android">
-    <meta name="description" content="Custom CircularProgressDrawable                                                                                             预览              styles.xml 自定义 style123&amp;lt;style name=&quot;rainbow&quot; parent=&quot;Mate">
+    <meta name="description" content="Custom CircularProgressDrawable styles.xml 自定义 style123&amp;lt;style name=&quot;rainbow&quot; parent=&quot;Material.Drawable.CircularProgress&quot;&amp;gt;    &amp;lt;item name=&quot;cpd_strokeColors&quot;&amp;gt;@array/progress_colors_light&amp;lt;/">
 <meta name="keywords" content="android">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Material Demo P1: CircularProgress, Button">
 <meta property="og:url" content="http://iljyya.github.io/2017/05/07/Material-Demo-1-CircularProgress-Button/index.html">
 <meta property="og:site_name" content="iljyya">
-<meta property="og:description" content="Custom CircularProgressDrawable                                                                                             预览              styles.xml 自定义 style123&amp;lt;style name=&quot;rainbow&quot; parent=&quot;Mate">
+<meta property="og:description" content="Custom CircularProgressDrawable styles.xml 自定义 style123&amp;lt;style name=&quot;rainbow&quot; parent=&quot;Material.Drawable.CircularProgress&quot;&amp;gt;    &amp;lt;item name=&quot;cpd_strokeColors&quot;&amp;gt;@array/progress_colors_light&amp;lt;/">
 <meta property="og:image" content="https://github.com/rey5137/Material/raw/master/image/progress_circular_indeterminate.gif">
 <meta property="og:image" content="https://github.com/rey5137/Material/raw/master/image/button_raise_wave.gif">
 <meta property="og:updated_time" content="2017-06-07T06:09:57.871Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Material Demo P1: CircularProgress, Button">
-<meta name="twitter:description" content="Custom CircularProgressDrawable                                                                                             预览              styles.xml 自定义 style123&amp;lt;style name=&quot;rainbow&quot; parent=&quot;Mate">
+<meta name="twitter:description" content="Custom CircularProgressDrawable styles.xml 自定义 style123&amp;lt;style name=&quot;rainbow&quot; parent=&quot;Material.Drawable.CircularProgress&quot;&amp;gt;    &amp;lt;item name=&quot;cpd_strokeColors&quot;&amp;gt;@array/progress_colors_light&amp;lt;/">
 <meta name="twitter:image" content="https://github.com/rey5137/Material/raw/master/image/progress_circular_indeterminate.gif">
     
         <link rel="alternate" type="application/atom+xml" title="iljyya" href="/atom.xml">
@@ -127,8 +129,9 @@
         </a>
         
     </div>
-</header>
 
+
+</header>
 
 
 <header class="content-header post-header">
@@ -171,23 +174,11 @@
             
         </div>
         <div class="post-content" id="post-content" itemprop="postContent">
-            <h3 id="Custom-CircularProgressDrawable"><a href="#Custom-CircularProgressDrawable" class="headerlink" title="Custom CircularProgressDrawable"></a>Custom CircularProgressDrawable</h3><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://github.com/rey5137/Material/raw/master/image/progress_circular_indeterminate.gif" alt="预览" title="">
-                </div>
-                <div class="image-caption">预览</div>
-            </figure>
+            <h3 id="Custom-CircularProgressDrawable"><a href="#Custom-CircularProgressDrawable" class="headerlink" title="Custom CircularProgressDrawable"></a>Custom CircularProgressDrawable</h3><p><img src="https://github.com/rey5137/Material/raw/master/image/progress_circular_indeterminate.gif" alt="预览"></p>
 <h4 id="styles-xml-自定义-style"><a href="#styles-xml-自定义-style" class="headerlink" title="styles.xml 自定义 style"></a>styles.xml 自定义 style</h4><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">style</span> <span class="attr">name</span>=<span class="string">"rainbow"</span> <span class="attr">parent</span>=<span class="string">"Material.Drawable.CircularProgress"</span>&gt;</span><span class="xml"></span></div><div class="line">    <span class="tag">&lt;<span class="name">item</span> <span class="attr">name</span>=<span class="string">"cpd_strokeColors"</span>&gt;</span>@array/progress_colors_light<span class="tag">&lt;/<span class="name">item</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">style</span>&gt;</span></div></pre></td></tr></table></figure>
 <h4 id="colors-xml-自定义-color-array"><a href="#colors-xml-自定义-color-array" class="headerlink" title="colors.xml 自定义 color array"></a>colors.xml 自定义 color array</h4><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">array</span> <span class="attr">name</span>=<span class="string">"progress_colors_light"</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">item</span>&gt;</span>#FF03A9F4<span class="tag">&lt;/<span class="name">item</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">item</span>&gt;</span>#FFD8433C<span class="tag">&lt;/<span class="name">item</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">item</span>&gt;</span>#FFF2AF3A<span class="tag">&lt;/<span class="name">item</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">item</span>&gt;</span>#FF279B5E<span class="tag">&lt;/<span class="name">item</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">array</span>&gt;</span></div></pre></td></tr></table></figure>
 <h4 id="布局文件"><a href="#布局文件" class="headerlink" title="布局文件"></a>布局文件</h4><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">com.rey.material.widget.ProgressView</span></span></div><div class="line">    <span class="attr">android:layout_width</span>=<span class="string">"48dp"</span></div><div class="line">    <span class="attr">android:layout_height</span>=<span class="string">"48dp"</span></div><div class="line">    <span class="attr">app:pv_autostart</span>=<span class="string">"true"</span></div><div class="line">    <span class="attr">app:pv_circular</span>=<span class="string">"true"</span></div><div class="line">    <span class="attr">app:pv_progressStyle</span>=<span class="string">"@style/rainbow"</span></div><div class="line">    <span class="attr">app:cpd_strokeColors</span>=<span class="string">"@array/progress_colors_light"</span></div><div class="line">    <span class="attr">app:pv_progressMode</span>=<span class="string">"indeterminate"</span>/&gt;</div></pre></td></tr></table></figure>
-<h3 id="Custom-Button"><a href="#Custom-Button" class="headerlink" title="Custom Button"></a>Custom Button</h3><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://github.com/rey5137/Material/raw/master/image/button_raise_wave.gif" alt="Ripple 效果" title="">
-                </div>
-                <div class="image-caption">Ripple 效果</div>
-            </figure>
+<h3 id="Custom-Button"><a href="#Custom-Button" class="headerlink" title="Custom Button"></a>Custom Button</h3><p><img src="https://github.com/rey5137/Material/raw/master/image/button_raise_wave.gif" alt="Ripple 效果"></p>
 <h4 id="colors-xml-添加"><a href="#colors-xml-添加" class="headerlink" title="colors.xml 添加"></a>colors.xml 添加</h4><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">color</span> <span class="attr">name</span>=<span class="string">"selected"</span>&gt;</span>#2338a9<span class="tag">&lt;/<span class="name">color</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">color</span> <span class="attr">name</span>=<span class="string">"unselected"</span>&gt;</span>#4d68ff<span class="tag">&lt;/<span class="name">color</span>&gt;</span></div></pre></td></tr></table></figure>
 <h4 id="drawable-文件夹创建-XML-添加"><a href="#drawable-文件夹创建-XML-添加" class="headerlink" title="drawable 文件夹创建 XML 添加"></a>drawable 文件夹创建 XML 添加</h4><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">&lt;?xml version="1.0" encoding="utf-8"?&gt;</div><div class="line"><span class="tag">&lt;<span class="name">selector</span> <span class="attr">xmlns:android</span>=<span class="string">"http://schemas.android.com/apk/res/android"</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">item</span> <span class="attr">android:drawable</span>=<span class="string">"@color/selected"</span> <span class="attr">android:state_pressed</span>=<span class="string">"true"</span> /&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">item</span> <span class="attr">android:drawable</span>=<span class="string">"@color/unselected"</span> /&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">selector</span>&gt;</span></div></pre></td></tr></table></figure>
 <h4 id="Button-布局文件"><a href="#Button-布局文件" class="headerlink" title="Button 布局文件"></a>Button 布局文件</h4><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">com.rey.material.widget.Button</span></span></div><div class="line">    <span class="attr">style</span>=<span class="string">"@style/Material.Drawable.Ripple.Wave.Light"</span></div><div class="line">    <span class="attr">android:layout_width</span>=<span class="string">"match_parent"</span></div><div class="line">    <span class="attr">android:layout_height</span>=<span class="string">"wrap_content"</span></div><div class="line">    <span class="attr">android:textColor</span>=<span class="string">"#fff"</span></div><div class="line">    <span class="attr">android:text</span>=<span class="string">"Ripple.Wave.Light"</span></div><div class="line">    <span class="attr">android:background</span>=<span class="string">"@drawable/my_button"</span></div><div class="line">    <span class="attr">app:rd_rippleColor</span>=<span class="string">"@color/selected"</span></div><div class="line">    <span class="attr">app:rd_enable</span>=<span class="string">"true"</span>/&gt;</div></pre></td></tr></table></figure>
@@ -280,7 +271,22 @@
   
 </nav>
 
-    
+    <section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'iljyya',
+            repo: 'comments',
+            oauth: {
+                client_id: 'f851449a81bef86857ac',
+                client_secret: '6f3ce61b5e4f9518a13640a35773e5371a575898',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
 </article>
 <div id="reward" class="page-modal reward-lay">
     <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>

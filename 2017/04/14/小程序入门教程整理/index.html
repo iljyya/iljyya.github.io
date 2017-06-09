@@ -3,7 +3,9 @@
 <head>
     
     
-    
+    s
+    <div id="container"></div>
+
     <meta charset="utf-8">
     
     
@@ -126,8 +128,9 @@
         </a>
         
     </div>
-</header>
 
+
+</header>
 
 
 <header class="content-header post-header">
@@ -170,13 +173,7 @@
             
         </div>
         <div class="post-content" id="post-content" itemprop="postContent">
-            <figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>
+            <p><img src="http://upload-images.jianshu.io/upload_images/49483-2f48a75cb9afe3f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
 <h3 id="开发详解系列"><a href="#开发详解系列" class="headerlink" title="开发详解系列"></a>开发详解系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=940" target="_blank" rel="external">开发准备，开发工具使用简介，工程目录结构 …</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=941" target="_blank" rel="external">开发组件使用初步，配置</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=942" target="_blank" rel="external">APP生命周期</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=943" target="_blank" rel="external">页面生命周期和参数传递</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=987" target="_blank" rel="external">布局基础</a><br><a id="more"></a></p>
 <h3 id="程序员实战系列"><a href="#程序员实战系列" class="headerlink" title="程序员实战系列"></a>程序员实战系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=739" target="_blank" rel="external">程序员开发实战系列《一》注册、预览小程序</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=465" target="_blank" rel="external">程序员开发实战系列《二》微信小程序架构篇</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=466" target="_blank" rel="external">程序员开发实战系列《三》App()和Page()</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=478" target="_blank" rel="external">程序员开发实战系列《四》视图层WXML绑定数据、模板、逻辑</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=479" target="_blank" rel="external">程序员开发实战系列《五》视图层WXML：事件</a></p>
 <h3 id="学习记录系列"><a href="#学习记录系列" class="headerlink" title="学习记录系列"></a>学习记录系列</h3><p><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=495" target="_blank" rel="external">微信小程序学习记录《一》：目录结构介绍，开发工具菜单介绍</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=497" target="_blank" rel="external">微信小程序学习记录《二》：系统配置app.json，程序和页面注册.js</a><br><a href="http://www.wxapp-union.com/portal.php?mod=view&amp;aid=506" target="_blank" rel="external">微信小程序学习记录《三》：视图容器</a></p>
@@ -223,11 +220,7 @@
       </li>
       <li>
         <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=http://iljyya.github.io/2017/04/14/小程序入门教程整理/&title=《小程序入门教程整理》 — iljyya&source=
-                
-                    
-                    
-                
-..." data-title=" QQ">
+开发详解系列开发准备，开发工具使用简介，工程目录结构 …开发组件使用初步，配置APP生命周期页面生命周期和参数传递布局基础" data-title=" QQ">
           <i class="icon icon-qq"></i>
         </a>
       </li>
@@ -276,7 +269,22 @@
   
 </nav>
 
-    
+    <section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'iljyya',
+            repo: 'comments',
+            oauth: {
+                client_id: 'f851449a81bef86857ac',
+                client_secret: '6f3ce61b5e4f9518a13640a35773e5371a575898',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
 </article>
 <div id="reward" class="page-modal reward-lay">
     <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
@@ -344,11 +352,7 @@
       </li>
       <li>
         <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=http://iljyya.github.io/2017/04/14/小程序入门教程整理/&title=《小程序入门教程整理》 — iljyya&source=
-                
-                    
-                    
-                
-..." data-title=" QQ">
+开发详解系列开发准备，开发工具使用简介，工程目录结构 …开发组件使用初步，配置APP生命周期页面生命周期和参数传递布局基础" data-title=" QQ">
           <i class="icon icon-qq"></i>
         </a>
       </li>

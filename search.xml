@@ -25,7 +25,7 @@
   <entry>
     <title><![CDATA[我的简历发展历程]]></title>
     <url>%2F2017%2F05%2F28%2F%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[初稿 感觉没什么特色 是好看了，但是感觉不实在 制作过程的一些细节 字的背后不能有灰色横线 取色标记 智能参考线对齐 按住 ctrl 选中多个文字图层，批量改变字体字色 关掉可以减小文件 默认100是600k, 有点虚；150是1M, 画质中等；200图片就很清晰了，2M, 考虑是简历, 1M比较合适 成品]]></content>
+    <content type="text"><![CDATA[初稿 制作过程的一些细节 成品]]></content>
       <categories>
         <category>resume</category>
       </categories>
@@ -74,7 +74,7 @@
   <entry>
     <title><![CDATA[Material Demo P1: CircularProgress, Button]]></title>
     <url>%2F2017%2F05%2F07%2FMaterial-Demo-1-CircularProgress-Button%2F</url>
-    <content type="text"><![CDATA[Custom CircularProgressDrawable 预览 styles.xml 自定义 style123&lt;style name="rainbow" parent="Material.Drawable.CircularProgress"&gt; &lt;item name="cpd_strokeColors"&gt;@array/progress_colors_light&lt;/item&gt;&lt;/style&gt; colors.xml 自定义 color array123456&lt;array name="progress_colors_light"&gt; &lt;item&gt;#FF03A9F4&lt;/item&gt; &lt;item&gt;#FFD8433C&lt;/item&gt; &lt;item&gt;#FFF2AF3A&lt;/item&gt; &lt;item&gt;#FF279B5E&lt;/item&gt;&lt;/array&gt; 布局文件12345678&lt;com.rey.material.widget.ProgressView android:layout_width="48dp" android:layout_height="48dp" app:pv_autostart="true" app:pv_circular="true" app:pv_progressStyle="@style/rainbow" app:cpd_strokeColors="@array/progress_colors_light" app:pv_progressMode="indeterminate"/&gt; Custom Button Ripple 效果 colors.xml 添加12&lt;color name="selected"&gt;#2338a9&lt;/color&gt;&lt;color name="unselected"&gt;#4d68ff&lt;/color&gt; drawable 文件夹创建 XML 添加12345&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;selector xmlns:android="http://schemas.android.com/apk/res/android"&gt; &lt;item android:drawable="@color/selected" android:state_pressed="true" /&gt; &lt;item android:drawable="@color/unselected" /&gt;&lt;/selector&gt; Button 布局文件123456789&lt;com.rey.material.widget.Button style="@style/Material.Drawable.Ripple.Wave.Light" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="#fff" android:text="Ripple.Wave.Light" android:background="@drawable/my_button" app:rd_rippleColor="@color/selected" app:rd_enable="true"/&gt; lib repohttps://github.com/rey5137/material]]></content>
+    <content type="text"><![CDATA[Custom CircularProgressDrawable styles.xml 自定义 style123&lt;style name="rainbow" parent="Material.Drawable.CircularProgress"&gt; &lt;item name="cpd_strokeColors"&gt;@array/progress_colors_light&lt;/item&gt;&lt;/style&gt; colors.xml 自定义 color array123456&lt;array name="progress_colors_light"&gt; &lt;item&gt;#FF03A9F4&lt;/item&gt; &lt;item&gt;#FFD8433C&lt;/item&gt; &lt;item&gt;#FFF2AF3A&lt;/item&gt; &lt;item&gt;#FF279B5E&lt;/item&gt;&lt;/array&gt; 布局文件12345678&lt;com.rey.material.widget.ProgressView android:layout_width="48dp" android:layout_height="48dp" app:pv_autostart="true" app:pv_circular="true" app:pv_progressStyle="@style/rainbow" app:cpd_strokeColors="@array/progress_colors_light" app:pv_progressMode="indeterminate"/&gt; Custom Button colors.xml 添加12&lt;color name="selected"&gt;#2338a9&lt;/color&gt;&lt;color name="unselected"&gt;#4d68ff&lt;/color&gt; drawable 文件夹创建 XML 添加12345&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;selector xmlns:android="http://schemas.android.com/apk/res/android"&gt; &lt;item android:drawable="@color/selected" android:state_pressed="true" /&gt; &lt;item android:drawable="@color/unselected" /&gt;&lt;/selector&gt; Button 布局文件123456789&lt;com.rey.material.widget.Button style="@style/Material.Drawable.Ripple.Wave.Light" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="#fff" android:text="Ripple.Wave.Light" android:background="@drawable/my_button" app:rd_rippleColor="@color/selected" app:rd_enable="true"/&gt; lib repohttps://github.com/rey5137/material]]></content>
       <categories>
         <category>android</category>
       </categories>
@@ -107,7 +107,7 @@
   <entry>
     <title><![CDATA[Hexo theme Next]]></title>
     <url>%2F2017%2F04%2F30%2FHexo-theme-Next%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%81%B0%E5%A4%B4%E5%9C%9F%E8%84%B8%2F</url>
-    <content type="text"><![CDATA[头像 百度统计 文章创建自动生成 公众号账号 侧边栏链接 文末公众号 文末赞赏 404 代码高亮 jiathis 分享 Local Search 各种插件优化 网易云跟帖不让加，已反馈 来必力出现奇怪的韩语 只好先用 HyperComments ，怀念多说 七牛云 favicon 关闭评论 告一段落 弄完有点灰头土脸，开心多了很多经验。 参考文献：http://theme-next.iissnan.com/getting-started.htmlhttp://wuxiaolong.me/2015/07/31/build-blog-by-hexo/]]></content>
+    <content type="text"><![CDATA[头像 百度统计 文章创建自动生成 公众号账号 侧边栏链接 文末公众号 文末赞赏 404 代码高亮 jiathis 分享 Local Search 各种插件优化 网易云跟帖不让加，已反馈 来必力出现奇怪的韩语 只好先用 HyperComments ，怀念多说 七牛云 favicon 关闭评论 告一段落弄完有点灰头土脸，开心多了很多经验。 参考文献：http://theme-next.iissnan.com/getting-started.htmlhttp://wuxiaolong.me/2015/07/31/build-blog-by-hexo/]]></content>
       <categories>
         <category>hexo</category>
       </categories>
@@ -129,7 +129,7 @@
   <entry>
     <title><![CDATA[Sublime Text 3 Plugins]]></title>
     <url>%2F2017%2F04%2F15%2FSublime-Text-3-Plugin%2F</url>
-    <content type="text"><![CDATA[安装插件方法Ctrl + Shift + P 输入 install 回车 搜索插件名回车安装，重启即可生效 AlignmentBefore: 选中 Ctrl + Alt + A : Vim模式Preferences - Settings ，vintage 去掉 这时按 esc 和 i 键可以在左下角左下角看到 COMMAND MODE 和 INSERT MODE的切换了 简明 VIM 练级攻略http://coolshell.cn/articles/5426.html cTags追踪函数功能，ST3 已经自带，ST2 可以装 Git init之后就可以用了 参考资料http://stormzhang.com/devtools/2012/12/30/sublime-plugin/]]></content>
+    <content type="text"><![CDATA[安装插件方法Ctrl + Shift + P 输入 install 回车 搜索插件名回车安装，重启即可生效 AlignmentBefore: 选中 Ctrl + Alt + A : Vim模式Preferences - Settings ，vintage 去掉这时按 esc 和 i 键可以在左下角左下角看到 COMMAND MODE 和 INSERT MODE的切换了 简明 VIM 练级攻略http://coolshell.cn/articles/5426.html cTags追踪函数功能，ST3 已经自带，ST2 可以装 Gitinit之后就可以用了 参考资料http://stormzhang.com/devtools/2012/12/30/sublime-plugin/]]></content>
       <categories>
         <category>Sublime Text</category>
       </categories>
@@ -184,7 +184,7 @@
   <entry>
     <title><![CDATA[下拉菜单的4种解法]]></title>
     <url>%2F2017%2F02%2F15%2F%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95%2F</url>
-    <content type="text"><![CDATA[Html + Css默认不显示，指针经过就显示 js 自己实现定义两个方法 html调用 jquery 实现用封装好的mouseover和mouseout方法 Paste_Image.png bootstrap 没有最懒，只有更懒class 和 date-toggle直接写标签里 源码：123：http://www.imooc.com/learn/124: http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar]]></content>
+    <content type="text"><![CDATA[Html + Css默认不显示，指针经过就显示 js 自己实现定义两个方法html调用 jquery 实现用封装好的mouseover和mouseout方法 bootstrap 没有最懒，只有更懒class 和 date-toggle直接写标签里 源码：123：http://www.imooc.com/learn/124: http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar]]></content>
       <categories>
         <category>web</category>
       </categories>
@@ -217,7 +217,7 @@
   <entry>
     <title><![CDATA[CAD 从0到画设计图]]></title>
     <url>%2F2016%2F09%2F15%2FCAD-%E4%BB%8E0%E5%88%B0%E7%94%BB%E8%AE%BE%E8%AE%A1%E5%9B%BE%2F</url>
-    <content type="text"><![CDATA[故事背景老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？我之前自学过一点CAD，当场爽快答应。 下载CAD破解 一个世纪过去安装完毕，XFORCE Keygen破解。 预览图从新近开始一步步查资料新建布局，到后来的连续标注，楼梯阴影，功夫不负有心人，灰头土脸的画了一天，终于两层都赶出来了。 一层局部 一层整体]]></content>
+    <content type="text"><![CDATA[故事背景老板的朋友有份大学食堂的设计草图需要用CAD绘制再打印成A3的图纸，问我能搞定吗？我之前自学过一点CAD，当场爽快答应。 下载CAD破解一个世纪过去安装完毕，XFORCE Keygen破解。 预览图从新近开始一步步查资料新建布局，到后来的连续标注，楼梯阴影，功夫不负有心人，灰头土脸的画了一天，终于两层都赶出来了。]]></content>
       <categories>
         <category>CAD</category>
       </categories>
@@ -228,7 +228,7 @@
   <entry>
     <title><![CDATA[CAD 从0到排版打印]]></title>
     <url>%2F2016%2F09%2F02%2FCAD-%E4%BB%8E0%E5%88%B0%E6%8E%92%E7%89%88%E6%89%93%E5%8D%B0%2F</url>
-    <content type="text"><![CDATA[故事背景同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。 创建画布 工具 - 向导 - 创建画布 - A4 平移 esc 到默认工具，左键拖拽框选，再点左键拖拽平移。 缩放 选择图形 - 输入缩放命令 sc 回车 - 选取缩放基点 - 瞄准缩放方向 - 输入缩放倍速回车 标注字体大小 标注 - 标注样式 - 修改 - 文字 - 文字高度详细步骤： https://jingyan.baidu.com/article/ce09321b2bbd742bfe858f46.html 预览打印 完美！收工]]></content>
+    <content type="text"><![CDATA[故事背景同事有个CAD文件是A0画布，想打印到A4纸上，他不会，我也不会，他求我，我说好。 创建画布工具 - 向导 - 创建画布 - A4 平移esc 到默认工具，左键拖拽框选，再点左键拖拽平移。 缩放选择图形 - 输入缩放命令 sc 回车 - 选取缩放基点 - 瞄准缩放方向 - 输入缩放倍速回车 标注字体大小标注 - 标注样式 - 修改 - 文字 - 文字高度详细步骤： https://jingyan.baidu.com/article/ce09321b2bbd742bfe858f46.html 预览打印 完美！收工]]></content>
       <categories>
         <category>CAD</category>
       </categories>
