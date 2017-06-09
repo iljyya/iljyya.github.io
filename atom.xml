@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iljyya.github.io/"/>
-  <updated>2017-06-09T11:20:57.826Z</updated>
+  <updated>2017-06-09T12:03:42.881Z</updated>
   <id>http://iljyya.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://iljyya.github.io/2017/06/09/%E7%A5%9E%E9%B8%9F%E7%AE%97%E5%91%BD%EF%BC%81%E8%BF%98%E6%9C%89%E8%BF%99%E7%A7%8D%E6%93%8D%E4%BD%9C%EF%BC%9F/"/>
     <id>http://iljyya.github.io/2017/06/09/神鸟算命！还有这种操作？/</id>
     <published>2017-06-09T11:18:55.000Z</published>
-    <updated>2017-06-09T11:20:57.826Z</updated>
+    <updated>2017-06-09T12:03:42.881Z</updated>
     
     <content type="html"><![CDATA[<h3 id="暴利算命行业"><a href="#暴利算命行业" class="headerlink" title="暴利算命行业"></a>暴利算命行业</h3><p>近日国内流行两套算法，哦不，两套算命方法很火，一种可以算出姓氏，一种可以算出生日。据摊主说他的这门手艺是专门拜师学的，是非物质文化遗产，历时三年，神鸟才能训练出师。据不完全统计，算一次5块钱，一个小时200块，四舍五入就是一个亿，发财了。</p>
 <figure class="image-bubble">
@@ -30,15 +30,9 @@
                 </div>
                 <div class="image-caption">神鸟算生日</div>
             </figure>
-<h3 id="姓氏算命方法"><a href="#姓氏算命方法" class="headerlink" title="姓氏算命方法"></a>姓氏算命方法</h3><p>算命者会准备一张姓氏大全纸，以及一些卡片。姓氏纸上有若干方格，我们以8行4列共32个方格为例，上面印有512个常见姓，随机分配于各方格内，每个方格内有16个姓。同时准备32张卡片，与方格数目相同，每张同样印有16个姓。<a href="http://news.syd.com.cn/system/2017/05/10/011381504.shtml" target="_blank" rel="external">^1</a></p>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-92deb04e704148bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>
-<h3 id="姓氏算法"><a href="#姓氏算法" class="headerlink" title="姓氏算法"></a>姓氏算法</h3><p>卡片上的姓有讲究，须将32个方格分两组，前16个一组，后16个一组。首先，将每个方格中的第1行第1列的姓按顺序分配至第一张卡片，将这张卡片编为1号。每个方格第1行第2列的姓按顺序分配至第二张卡片，编为2号。依此类推，16个方格中的256个姓都分配进了16张卡片。随后，再把剩下第17到第32个方格的姓氏按照同样的规则拷贝到17到32号卡片上。经过上面的操作后，就能够保证选中的卡片中和所选的方格中相同的姓氏只有一个。同时，同一张卡片上的姓氏在其各自所属的方格中的位置坐标是一致的。顾客选好卡片后，摊主只要依据事先做好的暗号，了解该卡片的序号，就会知道顾客姓氏的所属坐标。当顾客所选卡片号大于16时，只需用卡片序号减去16即可。</p>
+<h3 id="姓氏算命方法"><a href="#姓氏算命方法" class="headerlink" title="姓氏算命方法"></a>姓氏算命方法</h3><p>摊主递给男子十多张事先打印好的卡片，让其找出自己姓氏所在卡片，将其扣到地面上印有同样姓氏的白布上的表格内。随后，摊主拿起卡片在“神鸟”眼前晃了晃，然后驱赶“神鸟”登上事先码好的一个个红签上，“神鸟”瞬间叼出一个放在摊主手上，摊主随后报出：“你姓刘！”闻讯，男子大呼“太准了”！<a href="http://news.syd.com.cn/system/2017/05/10/011381504.shtml" target="_blank" rel="external">^1</a></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/49483-92deb04e704148bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<h3 id="姓氏算法"><a href="#姓氏算法" class="headerlink" title="姓氏算法"></a>姓氏算法</h3><p>算命者会准备一张姓氏大全纸，以及一些卡片。姓氏纸上有若干方格，我们以8行4列共32个方格为例，上面印有512个常见姓，随机分配于各方格内，每个方格内有16个姓。同时准备32张卡片，与方格数目相同，每张同样印有16个姓。卡片上的姓有讲究，须将32个方格分两组，前16个一组，后16个一组。首先，将每个方格中的第1行第1列的姓按顺序分配至第一张卡片，将这张卡片编为1号。每个方格第1行第2列的姓按顺序分配至第二张卡片，编为2号。依此类推，16个方格中的256个姓都分配进了16张卡片。随后，再把剩下第17到第32个方格的姓氏按照同样的规则拷贝到17到32号卡片上。经过上面的操作后，就能够保证选中的卡片中和所选的方格中相同的姓氏只有一个。同时，同一张卡片上的姓氏在其各自所属的方格中的位置坐标是一致的。顾客选好卡片后，摊主只要依据事先做好的暗号，了解该卡片的序号，就会知道顾客姓氏的所属坐标。当顾客所选卡片号大于16时，只需用卡片序号减去16即可。</p>
 <h3 id="生日算命方法"><a href="#生日算命方法" class="headerlink" title="生日算命方法"></a>生日算命方法</h3><p>自称可以算命的摊主首先让算命者在12张卡片中选出印有自己生日的那张卡片，然后让其将卡片放在大纸上同样有自己生日的方格内。待算命者放置完成之后，摊主便‘请’出小鸟，并拿出一盒命运签让小鸟叼出一张，而摊主在看完命运签之后便能准确的报出算命者的生日。</p>
 <figure class="image-bubble">
                 <div class="img-lightbox">
