@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iljyya.github.io/"/>
-  <updated>2017-06-09T12:03:42.881Z</updated>
+  <updated>2017-06-09T12:06:52.961Z</updated>
   <id>http://iljyya.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://iljyya.github.io/2017/06/09/%E7%A5%9E%E9%B8%9F%E7%AE%97%E5%91%BD%EF%BC%81%E8%BF%98%E6%9C%89%E8%BF%99%E7%A7%8D%E6%93%8D%E4%BD%9C%EF%BC%9F/"/>
     <id>http://iljyya.github.io/2017/06/09/神鸟算命！还有这种操作？/</id>
     <published>2017-06-09T11:18:55.000Z</published>
-    <updated>2017-06-09T12:03:42.881Z</updated>
+    <updated>2017-06-09T12:06:52.961Z</updated>
     
     <content type="html"><![CDATA[<h3 id="暴利算命行业"><a href="#暴利算命行业" class="headerlink" title="暴利算命行业"></a>暴利算命行业</h3><p>近日国内流行两套算法，哦不，两套算命方法很火，一种可以算出姓氏，一种可以算出生日。据摊主说他的这门手艺是专门拜师学的，是非物质文化遗产，历时三年，神鸟才能训练出师。据不完全统计，算一次5块钱，一个小时200块，四舍五入就是一个亿，发财了。</p>
 <figure class="image-bubble">
@@ -254,6 +254,30 @@
     
     
       <category term="Sublime text" scheme="http://iljyya.github.io/tags/Sublime-text/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓推送小节</title>
+    <link href="http://iljyya.github.io/2017/05/13/%E5%AE%89%E5%8D%93%E6%8E%A8%E9%80%81%E5%B0%8F%E8%8A%82/"/>
+    <id>http://iljyya.github.io/2017/05/13/安卓推送小节/</id>
+    <published>2017-05-13T05:24:47.000Z</published>
+    <updated>2017-06-10T05:26:55.770Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="UPS-事件"><a href="#UPS-事件" class="headerlink" title="UPS 事件"></a>UPS 事件</h3><p>早上看到 stromzhang 公众号发文说 UPS 也就是安卓统一推送标准 已取得阶段性成果，<a href="https://mp.weixin.qq.com/s?__biz=MzA4Mjk1MTcyNA%3D%3D&amp;mid=2650865394&amp;idx=1&amp;sn=1d36a3b3306d731f94911f8b23ab53e8#wechat_redirect" target="_blank" rel="external">泰尔终端实验室原文</a>，然而知乎上的<a href="https://www.zhihu.com/question/60540422" target="_blank" rel="external">相关讨论</a>果然并不乐观。<br>谷歌有 GCM，还要跟着制定这个 UPS 标准，哈哈心疼一秒。</p>
+<h3 id="安卓推送这件小事"><a href="#安卓推送这件小事" class="headerlink" title="安卓推送这件小事"></a><a href="https://zhuanlan.zhihu.com/p/26053061" target="_blank" rel="external">安卓推送这件小事</a></h3><p>即刻技术团队这篇文章发表的看法和技术难点的探讨在知乎和掘金都火了一把，看来是道出了广大开发者的心声，各种策略也不能完全，着实让人心烦。</p>
+<h3 id="安卓推送哪到底家强"><a href="#安卓推送哪到底家强" class="headerlink" title="安卓推送哪到底家强"></a><a href="https://www.zhihu.com/question/20628786" target="_blank" rel="external">安卓推送哪到底家强</a></h3><p>一路看到底，各路大神总说纷纭，中间还惊现极光的原创始人，有人上图爆料百度，有人匿名扒个推水军，精彩纷呈。<br>总结下来，百度腾讯大厂毕竟不是专业，而且用户量和服务上感觉也是极光和个推比较好，具体用那个还要根据各家的优缺点取舍了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;UPS-事件&quot;&gt;&lt;a href=&quot;#UPS-事件&quot; class=&quot;headerlink&quot; title=&quot;UPS 事件&quot;&gt;&lt;/a&gt;UPS 事件&lt;/h3&gt;&lt;p&gt;早上看到 stromzhang 公众号发文说 UPS 也就是安卓统一推送标准 已取得阶段性成果，&lt;a hre
+    
+    </summary>
+    
+      <category term="android" scheme="http://iljyya.github.io/categories/android/"/>
+    
+    
+      <category term="android" scheme="http://iljyya.github.io/tags/android/"/>
     
   </entry>
   
@@ -889,96 +913,33 @@
   </entry>
   
   <entry>
-    <title>open file in Cmd with Sublime on Win</title>
-    <link href="http://iljyya.github.io/2017/02/16/open-file-in-Cmd-with-Sublime-on-Win/"/>
-    <id>http://iljyya.github.io/2017/02/16/open-file-in-Cmd-with-Sublime-on-Win/</id>
-    <published>2017-02-16T05:22:18.000Z</published>
-    <updated>2017-05-16T05:26:13.889Z</updated>
+    <title>SimpleHanderDemo</title>
+    <link href="http://iljyya.github.io/2017/03/10/SimpleHanderDemo/"/>
+    <id>http://iljyya.github.io/2017/03/10/SimpleHanderDemo/</id>
+    <published>2017-03-10T05:17:27.000Z</published>
+    <updated>2017-06-10T05:22:42.658Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="设置方法"><a href="#设置方法" class="headerlink" title="设置方法"></a>设置方法</h3><p>add Path<br><code>C:\Program Files\Sublime Text 3</code> 安装目录加进去<br><a id="more"></a></p>
-<h3 id="开始使用"><a href="#开始使用" class="headerlink" title="开始使用"></a>开始使用</h3><p><code>subl</code>是直接运行，加文件名是打开文件，加 . 是打开当前文件夹。</p>
-<h3 id="bash技巧"><a href="#bash技巧" class="headerlink" title="bash技巧"></a>bash技巧</h3><p>输入文件名两三个字母时按<code>tab</code> 可以自动补全</p>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>很多时候简单的东西也是折腾了很久才发现的，但是自己动手解决了还是挺开心的。</p>
-<figure class="image-bubble">
+    <content type="html"><![CDATA[<h3 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h3><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-3eb9486b03634fb4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
+                    <img src="http://upload-images.jianshu.io/upload_images/49483-698d1b6e598b2230.gif?imageMogr2/auto-orient/strip" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
-            </figure>]]></content>
+            </figure>
+<h3 id="source-code"><a href="#source-code" class="headerlink" title="source code"></a>source code</h3><p><a href="https://github.com/iljyya/SimpleHanderDemo" target="_blank" rel="external">https://github.com/iljyya/SimpleHanderDemo</a></p>
+<h3 id="key-code"><a href="#key-code" class="headerlink" title="key code"></a>key code</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">import</span> android.os.Bundle;</div><div class="line"><span class="keyword">import</span> android.os.Handler;</div><div class="line"><span class="keyword">import</span> android.support.v7.app.AppCompatActivity;</div><div class="line"><span class="keyword">import</span> android.widget.TextView;</div><div class="line"></div><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">MainActivity</span> <span class="keyword">extends</span> <span class="title">AppCompatActivity</span> </span>&#123;</div><div class="line">    <span class="keyword">public</span> TextView show;</div><div class="line">    <span class="keyword">public</span> Handler showhandler;</div><div class="line"></div><div class="line">    <span class="meta">@Override</span></div><div class="line">    <span class="function"><span class="keyword">protected</span> <span class="keyword">void</span> <span class="title">onCreate</span><span class="params">(Bundle savedInstanceState)</span> </span>&#123;</div><div class="line">        <span class="keyword">super</span>.onCreate(savedInstanceState);</div><div class="line">        setContentView(R.layout.activity_main);</div><div class="line">        show = (TextView) findViewById(R.id.show);</div><div class="line">        StringBuffer text = <span class="keyword">new</span> StringBuffer();</div><div class="line">        text.append(<span class="string">"text view: wait 3s"</span>);</div><div class="line">        show.setText(text);</div><div class="line">        <span class="comment">// auto bind looper and messageQueue with current thread</span></div><div class="line">        showhandler = <span class="keyword">new</span> Handler();</div><div class="line">        <span class="keyword">new</span> Thread_1().start();</div><div class="line">        <span class="keyword">new</span> Thread_2().start();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="class"><span class="keyword">class</span> <span class="title">Thread_1</span> <span class="keyword">extends</span> <span class="title">Thread</span> </span>&#123;</div><div class="line">        <span class="meta">@Override</span></div><div class="line">        <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">run</span><span class="params">()</span> </span>&#123;</div><div class="line">            <span class="keyword">try</span> &#123;</div><div class="line">                Thread.sleep(<span class="number">2000</span>);</div><div class="line">            &#125; <span class="keyword">catch</span> (InterruptedException e) &#123;</div><div class="line">                e.printStackTrace();</div><div class="line">            &#125;</div><div class="line">            showhandler.post(<span class="keyword">new</span> Runnable() &#123;</div><div class="line">                <span class="meta">@Override</span></div><div class="line">                <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">run</span><span class="params">()</span> </span>&#123;</div><div class="line">                    String line = <span class="string">"\n"</span>;</div><div class="line">                    StringBuffer text = <span class="keyword">new</span> StringBuffer(show.getText());</div><div class="line">                    text.append(line).append(<span class="string">"handler msg 2s thread 1"</span>);</div><div class="line">                    show.setText(text);</div><div class="line">                &#125;</div><div class="line">            &#125;);</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="class"><span class="keyword">class</span> <span class="title">Thread_2</span> <span class="keyword">extends</span> <span class="title">Thread</span> </span>&#123;</div><div class="line">        <span class="meta">@Override</span></div><div class="line">        <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">run</span><span class="params">()</span> </span>&#123;</div><div class="line">            <span class="keyword">try</span> &#123;</div><div class="line">                Thread.sleep(<span class="number">3000</span>);</div><div class="line">            &#125; <span class="keyword">catch</span> (InterruptedException e) &#123;</div><div class="line">                e.printStackTrace();</div><div class="line">            &#125;</div><div class="line">            showhandler.post(<span class="keyword">new</span> Runnable() &#123;</div><div class="line">                <span class="meta">@Override</span></div><div class="line">                <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">run</span><span class="params">()</span> </span>&#123;</div><div class="line">                    String line = <span class="string">"\n"</span>;</div><div class="line">                    StringBuffer text = <span class="keyword">new</span> StringBuffer(show.getText());</div><div class="line">                    text.append(line).append(<span class="string">"handler msg 3s thread 2"</span>);</div><div class="line">                    show.setText(text);</div><div class="line">                &#125;</div><div class="line">            &#125;);</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;设置方法&quot;&gt;&lt;a href=&quot;#设置方法&quot; class=&quot;headerlink&quot; title=&quot;设置方法&quot;&gt;&lt;/a&gt;设置方法&lt;/h3&gt;&lt;p&gt;add Path&lt;br&gt;&lt;code&gt;C:\Program Files\Sublime Text 3&lt;/code&gt; 安装目录加进去&lt;br&gt;
+      &lt;h3 id=&quot;Demo&quot;&gt;&lt;a href=&quot;#Demo&quot; class=&quot;headerlink&quot; title=&quot;Demo&quot;&gt;&lt;/a&gt;Demo&lt;/h3&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lig
     
     </summary>
     
-      <category term="Sublime Text" scheme="http://iljyya.github.io/categories/Sublime-Text/"/>
+      <category term="android" scheme="http://iljyya.github.io/categories/android/"/>
     
     
-      <category term="Sublime Text" scheme="http://iljyya.github.io/tags/Sublime-Text/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>下拉菜单的4种解法</title>
-    <link href="http://iljyya.github.io/2017/02/15/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95%E7%9A%844%E7%A7%8D%E8%A7%A3%E6%B3%95/"/>
-    <id>http://iljyya.github.io/2017/02/15/下拉菜单的4种解法/</id>
-    <published>2017-02-15T01:12:53.000Z</published>
-    <updated>2017-05-16T05:28:11.495Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Html-Css"><a href="#Html-Css" class="headerlink" title="Html + Css"></a>Html + Css</h3><p>默认不显示，指针经过就显示<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><a id="more"></a></p>
-<h3 id="js-自己实现"><a href="#js-自己实现" class="headerlink" title="js 自己实现"></a>js 自己实现</h3><p>定义两个方法<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-4a1c0bcf47162d8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br>html调用<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-c422dc30781388c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>
-<h3 id="jquery-实现"><a href="#jquery-实现" class="headerlink" title="jquery 实现"></a>jquery 实现</h3><p>用封装好的mouseover和mouseout方法<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-f40ccd3aaa460c04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Paste_Image.png" title="">
-                </div>
-                <div class="image-caption">Paste_Image.png</div>
-            </figure></p>
-<h3 id="bootstrap-没有最懒，只有更懒"><a href="#bootstrap-没有最懒，只有更懒" class="headerlink" title="bootstrap 没有最懒，只有更懒"></a>bootstrap 没有最懒，只有更懒</h3><p>class 和 date-toggle直接写标签里<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://upload-images.jianshu.io/upload_images/49483-908b945312c14cf0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>
-<h3 id="源码："><a href="#源码：" class="headerlink" title="源码："></a>源码：</h3><h4 id="123：http-www-imooc-com-learn-12"><a href="#123：http-www-imooc-com-learn-12" class="headerlink" title="123：http://www.imooc.com/learn/12"></a>123：<a href="http://www.imooc.com/learn/12" target="_blank" rel="external">http://www.imooc.com/learn/12</a></h4><h4 id="4-http-www-runoob-com-try-try2-php-filename-bootstrap3-plugin-dropdown-defaultnavbar"><a href="#4-http-www-runoob-com-try-try2-php-filename-bootstrap3-plugin-dropdown-defaultnavbar" class="headerlink" title="4: http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar"></a>4: <a href="http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar" target="_blank" rel="external">http://www.runoob.com/try/try2.php?filename=bootstrap3-plugin-dropdown-defaultnavbar</a></h4>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;Html-Css&quot;&gt;&lt;a href=&quot;#Html-Css&quot; class=&quot;headerlink&quot; title=&quot;Html + Css&quot;&gt;&lt;/a&gt;Html + Css&lt;/h3&gt;&lt;p&gt;默认不显示，指针经过就显示&lt;br&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
-                &lt;div class=&quot;img-lightbox&quot;&gt;
-                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
-                    &lt;img src=&quot;http://upload-images.jianshu.io/upload_images/49483-f99f9e01a37d5485.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
-            &lt;/figure&gt;&lt;br&gt;
-    
-    </summary>
-    
-      <category term="web" scheme="http://iljyya.github.io/categories/web/"/>
-    
-    
-      <category term="web" scheme="http://iljyya.github.io/tags/web/"/>
+      <category term="android, handler" scheme="http://iljyya.github.io/tags/android-handler/"/>
     
   </entry>
   
