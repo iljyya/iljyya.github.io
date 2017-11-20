@@ -34,22 +34,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[我的简历发展历程]]></title>
-    <url>%2F2017%2F05%2F28%2F%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[初稿 感觉没什么特色 是好看了，但是感觉不实在 制作过程的一些细节 字的背后不能有灰色横线 取色标记 智能参考线对齐 按住 ctrl 选中多个文字图层，批量改变字体字色 关掉可以减小文件 默认100是600k, 有点虚；150是1M, 画质中等；200图片就很清晰了，2M, 考虑是简历, 1M比较合适 成品]]></content>
-      <categories>
-        <category>resume</category>
-      </categories>
-      <tags>
-        <tag>resume</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Android Studio 运行报错]]></title>
-    <url>%2F2017%2F05%2F20%2FAndroid-Studio-%E8%BF%90%E8%A1%8C%E6%8A%A5%E9%94%99%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
     <title><![CDATA[Sublime text 3126 中文文件名显示方框]]></title>
     <url>%2F2017%2F05%2F16%2FSublime-text-3126-%E4%B8%AD%E6%96%87%E6%96%87%E4%BB%B6%E5%90%8D%E6%98%BE%E7%A4%BA%E6%96%B9%E6%A1%86%2F</url>
     <content type="text"><![CDATA[问题根本Sublime Text 3的显示bug，在高分屏下设定显示放大就会触发。 解决方法Preferences-Settings-User 加上&quot;dpi_scale&quot;: 1.0但字会变很小，详细解决方法 奇遇折腾半天发现Sublime text Dev channel 3130解决了这个bug，但是需要巨款注册，不过有特俗渠道：thepiratebay, cracknow.哈哈，塞翁失马！]]></content>
